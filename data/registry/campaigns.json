@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-05",
+  "updated_at": "2026-10-06",
   "campaigns": [
     {
       "id": "amnibus-chibitoko-2024",
@@ -130,10 +130,13 @@
     },
     {
       "id": "chara-in-line-art",
-      "name_zh": "キャラ印 线稿系列",
+      "name_zh": "Chara-in 线稿系列",
       "name_ja": "キャラ印 線画シリーズ",
-      "aliases": [],
-      "year": 2025,
+      "aliases": [
+        "TOSYO GOODS",
+        "线稿系列"
+      ],
+      "year": 2024,
       "official_url": "https://tosyo-goods.jp/collections/charain_makeine"
     },
     {
@@ -384,8 +387,8 @@
       "name_zh": "小说第2卷",
       "name_ja": "小説第2巻",
       "aliases": [],
-      "year": 2022,
-      "official_url": "https://lifetunes-mall.jp/shop/g/gJ20220043/"
+      "year": 2021,
+      "official_url": "https://gagagabunko.jp/lineup/202111.html"
     },
     {
       "id": "novel-volume-3",
@@ -408,8 +411,8 @@
       "name_zh": "小说第7卷",
       "name_ja": "小説第7巻",
       "aliases": [],
-      "year": 2025,
-      "official_url": "https://lifetunes-mall.jp/shop/g/gJ20250024/"
+      "year": 2024,
+      "official_url": "https://gagagabunko.jp/lineup/202407.html"
     },
     {
       "id": "novel-volume-8-5",
@@ -635,6 +638,32 @@
       "aliases": [],
       "year": 2026,
       "official_url": "https://www.neogate.jp/makeine_goods/"
+    },
+    {
+      "id": "bushiroad-petatto-windup-rubber-2025",
+      "name_zh": "Bushiroad 扭簧贴贴橡胶挂件系列",
+      "name_ja": "ブシカプ！ぺたっとねじまきらばーすとらっぷ",
+      "aliases": [
+        "ブシカプ！"
+      ],
+      "year": 2025,
+      "official_url": "https://capsule.bushiroad-creative.com/product/9208/"
+    },
+    {
+      "id": "anigift-kaju-scale-figure-2026",
+      "name_zh": "AniGift 温水佳树 1/7比例手办",
+      "name_ja": "AniGift 温水佳樹 1/7スケールフィギュア",
+      "aliases": [],
+      "year": 2026,
+      "official_url": "https://hobby.watch.impress.co.jp/docs/news/2127899.html"
+    },
+    {
+      "id": "literature-club-extracurricular-2025",
+      "name_zh": "杜鹃花高中（ツワブキ高校）文艺部课外活动",
+      "name_ja": "ツワブキ高校文芸部課外活動",
+      "aliases": [],
+      "year": 2025,
+      "official_url": "https://makeine-anime.com/event/"
     }
   ]
 }

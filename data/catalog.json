@@ -4,7 +4,7 @@
   "catalog": {
     "title": "温水佳树制品图鉴",
     "scope": "《败犬女主太多了！》中明确包含温水佳树的官方实体制品",
-    "updated_at": "2026-10-05",
+    "updated_at": "2026-10-06",
     "status": "collecting"
   },
   "character": {
@@ -19174,6 +19174,617 @@
         "新规绘制"
       ],
       "notes": "当前使用明确包含温水佳树的官方活动阵容图，佳树单品图仍待替换。"
+    },
+    {
+      "id": "animate-2990536",
+      "global_product_id": "animate-2990536",
+      "character_id": "nukumizu-kaju",
+      "name_ja": "アクリルフィギュアスタンド・温水佳樹",
+      "name_zh": "线稿亚克力立牌 温水佳树",
+      "category_id": "acrylic_stand",
+      "campaign_id": "chara-in-line-art",
+      "manufacturer_id": "tosyo-chara-in",
+      "variant": "温水佳树",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": "アクリル"
+      },
+      "release_date": "2025-01-01",
+      "list_price_yen": 1760,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/animate-2990536.jpg",
+          "thumbnail_path": "images/thumbs/animate-2990536.webp",
+          "role": "product",
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4573512235841_1_1730283323.jpg&width=400&height=400&square=1"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "Animate",
+          "phase": "general_sale",
+          "url": "https://www.animate-onlineshop.jp/pd/2990536/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.animate-onlineshop.jp/pd/2990536/",
+          "type": "retailer",
+          "checked_at": "2026-10-06"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "线稿",
+        "亚克力立牌",
+        "温水佳树"
+      ],
+      "notes": "Animate 商品页标注发售期：2025年01月中 発売"
+    },
+    {
+      "id": "bushicap-petatto-windup-rubber-strap-kaju",
+      "global_product_id": "bushicap-petatto-windup-rubber-strap-kaju",
+      "character_id": "nukumizu-kaju",
+      "name_ja": "ぺたっとねじまきらばーすとらっぷ 温水佳樹",
+      "name_zh": "Bushiroad 扭簧贴贴橡胶挂件 温水佳树",
+      "category_id": "accessory",
+      "campaign_id": "bushiroad-petatto-windup-rubber-2025",
+      "manufacturer_id": "bushiroad",
+      "variant": "温水佳树",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 7
+      },
+      "spec": {
+        "size": "约55mm",
+        "material": "橡胶"
+      },
+      "release_date": "2025-11-01",
+      "list_price_yen": 300,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/bushicap-561542946.jpg",
+          "thumbnail_path": "images/thumbs/bushicap-petatto-windup-rubber-strap-kaju.webp",
+          "role": "product",
+          "source_url": "https://www.suruga-ya.jp/database/pics_light/game/561542946.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "ブシカプ！",
+          "phase": "general_sale",
+          "url": "https://capsule.bushiroad-creative.com/product/9208/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://capsule.bushiroad-creative.com/product/9208/",
+          "type": "official",
+          "checked_at": "2026-10-06"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "Bushiroad",
+        "扭蛋",
+        "胶挂",
+        "温水佳树"
+      ],
+      "notes": null
+    },
+    {
+      "id": "anigift-scale-figure-kaju",
+      "global_product_id": "anigift-scale-figure-kaju",
+      "character_id": "nukumizu-kaju",
+      "name_ja": "温水佳樹 1/7スケールフィギュア",
+      "name_zh": "AniGift 温水佳树 1/7比例手办",
+      "category_id": "figure",
+      "campaign_id": "anigift-kaju-scale-figure-2026",
+      "manufacturer_id": "anigift",
+      "variant": "温水佳树",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": null,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/anigift-scale-figure-kaju.jpg",
+          "thumbnail_path": "images/thumbs/anigift-scale-figure-kaju.webp",
+          "role": "product",
+          "source_url": "https://asset.watch.impress.co.jp/img/hbw/docs/2127/899/001_l.jpg"
+        }
+      ],
+      "sales": [],
+      "sources": [
+        {
+          "url": "https://hobby.watch.impress.co.jp/docs/news/2127899.html",
+          "type": "news",
+          "checked_at": "2026-10-06"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "原型展示",
+        "比例手办",
+        "温水佳树"
+      ],
+      "notes": "2026年7月26日于Wonder Festival 2026[夏]首次公开原型，价格、发售日期等尚未公布。"
+    },
+    {
+      "id": "extracurricular-event-b2-tapestry",
+      "global_product_id": "extracurricular-event-b2-tapestry",
+      "character_id": "nukumizu-kaju",
+      "name_ja": "B2タペストリー",
+      "name_zh": "文艺部课外活动 活动主视觉 B2挂画",
+      "category_id": "tapestry",
+      "campaign_id": "literature-club-extracurricular-2025",
+      "manufacturer_id": "aniplex",
+      "variant": "商品图案或阵容明确包含温水佳树",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 1
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-04-06",
+      "list_price_yen": 3000,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/extracurricular-goods_10116_main.jpg",
+          "thumbnail_path": "images/thumbs/extracurricular-event-b2-tapestry.webp",
+          "role": "lineup",
+          "source_url": "https://makeine-anime.com/event/SYS/CONTENTS/goods_10116_main"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "活动会场／事后通販",
+          "phase": "event_sale",
+          "url": "https://makeine-anime.com/event/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://makeine-anime.com/event/",
+          "type": "official",
+          "checked_at": "2026-10-06"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "文艺部课外活动",
+        "温水佳树"
+      ],
+      "notes": null
+    },
+    {
+      "id": "extracurricular-event-clear-file",
+      "global_product_id": "extracurricular-event-clear-file",
+      "character_id": "nukumizu-kaju",
+      "name_ja": "A4クリアファイル",
+      "name_zh": "文艺部课外活动 活动主视觉 A4透明文件夹",
+      "category_id": "clear_file",
+      "campaign_id": "literature-club-extracurricular-2025",
+      "manufacturer_id": "aniplex",
+      "variant": "商品图案或阵容明确包含温水佳树",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 1
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-04-06",
+      "list_price_yen": 500,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/extracurricular-goods_10114_main.jpg",
+          "thumbnail_path": "images/thumbs/extracurricular-event-clear-file.webp",
+          "role": "lineup",
+          "source_url": "https://makeine-anime.com/event/SYS/CONTENTS/goods_10114_main"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "活动会场／事后通販",
+          "phase": "event_sale",
+          "url": "https://makeine-anime.com/event/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://makeine-anime.com/event/",
+          "type": "official",
+          "checked_at": "2026-10-06"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "文艺部课外活动",
+        "温水佳树"
+      ],
+      "notes": null
+    },
+    {
+      "id": "extracurricular-event-random-badges",
+      "global_product_id": "extracurricular-event-random-badges",
+      "character_id": "nukumizu-kaju",
+      "name_ja": "ランダム缶バッジ（全10種）",
+      "name_zh": "文艺部课外活动 活动主视觉 随机徽章",
+      "category_id": "can_badge",
+      "campaign_id": "literature-club-extracurricular-2025",
+      "manufacturer_id": "aniplex",
+      "variant": "商品图案或阵容明确包含温水佳树",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 10
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-04-06",
+      "list_price_yen": 500,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/extracurricular-goods_10113_main.jpg",
+          "thumbnail_path": "images/thumbs/extracurricular-event-random-badges.webp",
+          "role": "lineup",
+          "source_url": "https://makeine-anime.com/event/SYS/CONTENTS/goods_10113_main"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "活动会场／事后通販",
+          "phase": "event_sale",
+          "url": "https://makeine-anime.com/event/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://makeine-anime.com/event/",
+          "type": "official",
+          "checked_at": "2026-10-06"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "文艺部课外活动",
+        "温水佳树"
+      ],
+      "notes": null
+    },
+    {
+      "id": "extracurricular-event-random-bromides",
+      "global_product_id": "extracurricular-event-random-bromides",
+      "character_id": "nukumizu-kaju",
+      "name_ja": "ランダムブロマイド（全5種）",
+      "name_zh": "文艺部课外活动 活动主视觉 随机照片卡",
+      "category_id": "card",
+      "campaign_id": "literature-club-extracurricular-2025",
+      "manufacturer_id": "aniplex",
+      "variant": "商品图案或阵容明确包含温水佳树",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 5
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-04-06",
+      "list_price_yen": 200,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/extracurricular-goods_10112_main.jpg",
+          "thumbnail_path": "images/thumbs/extracurricular-event-random-bromides.webp",
+          "role": "lineup",
+          "source_url": "https://makeine-anime.com/event/SYS/CONTENTS/goods_10112_main"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "活动会场／事后通販",
+          "phase": "event_sale",
+          "url": "https://makeine-anime.com/event/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://makeine-anime.com/event/",
+          "type": "official",
+          "checked_at": "2026-10-06"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "文艺部课外活动",
+        "温水佳树"
+      ],
+      "notes": null
+    },
+    {
+      "id": "extracurricular-event-muffler-towel",
+      "global_product_id": "extracurricular-event-muffler-towel",
+      "character_id": "nukumizu-kaju",
+      "name_ja": "マフラータオル",
+      "name_zh": "文艺部课外活动 活动主视觉 围巾毛巾",
+      "category_id": "fabric_goods",
+      "campaign_id": "literature-club-extracurricular-2025",
+      "manufacturer_id": "aniplex",
+      "variant": "商品图案或阵容明确包含温水佳树",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 1
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-04-06",
+      "list_price_yen": 2200,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/extracurricular-goods_10111_main.jpg",
+          "thumbnail_path": "images/thumbs/extracurricular-event-muffler-towel.webp",
+          "role": "lineup",
+          "source_url": "https://makeine-anime.com/event/SYS/CONTENTS/goods_10111_main"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "活动会场／事后通販",
+          "phase": "event_sale",
+          "url": "https://makeine-anime.com/event/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://makeine-anime.com/event/",
+          "type": "official",
+          "checked_at": "2026-10-06"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "文艺部课外活动",
+        "温水佳树"
+      ],
+      "notes": null
+    },
+    {
+      "id": "extracurricular-event-op-acrylic-charms",
+      "global_product_id": "extracurricular-event-op-acrylic-charms",
+      "character_id": "nukumizu-kaju",
+      "name_ja": "ランダムアクリルチャーム《OP》（全13種）",
+      "name_zh": "文艺部课外活动 OP画面 随机亚克力挂件",
+      "category_id": "acrylic_keychain",
+      "campaign_id": "literature-club-extracurricular-2025",
+      "manufacturer_id": "aniplex",
+      "variant": "商品图案或阵容明确包含温水佳树",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 13
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-04-06",
+      "list_price_yen": 700,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/extracurricular-goods_10109_main.jpg",
+          "thumbnail_path": "images/thumbs/extracurricular-event-op-acrylic-charms.webp",
+          "role": "lineup",
+          "source_url": "https://makeine-anime.com/event/SYS/CONTENTS/goods_10109_main"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "活动会场／事后通販",
+          "phase": "event_sale",
+          "url": "https://makeine-anime.com/event/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://makeine-anime.com/event/",
+          "type": "official",
+          "checked_at": "2026-10-06"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "文艺部课外活动",
+        "温水佳树"
+      ],
+      "notes": null
+    },
+    {
+      "id": "extracurricular-event-animation-fine-graph",
+      "global_product_id": "extracurricular-event-animation-fine-graph",
+      "character_id": "nukumizu-kaju",
+      "name_ja": "アニメ化記念ビジュアル キャラファイングラフ",
+      "name_zh": "文艺部课外活动 动画化纪念视觉图 高精细复制画",
+      "category_id": "poster",
+      "campaign_id": "literature-club-extracurricular-2025",
+      "manufacturer_id": "aniplex",
+      "variant": "商品图案或阵容明确包含温水佳树",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 1
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-04-06",
+      "list_price_yen": 14000,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/extracurricular-goods_10106_main.jpg",
+          "thumbnail_path": "images/thumbs/extracurricular-event-animation-fine-graph.webp",
+          "role": "lineup",
+          "source_url": "https://makeine-anime.com/event/SYS/CONTENTS/goods_10106_main"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "活动会场／事后通販",
+          "phase": "event_sale",
+          "url": "https://makeine-anime.com/event/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://makeine-anime.com/event/",
+          "type": "official",
+          "checked_at": "2026-10-06"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "文艺部课外活动",
+        "温水佳树"
+      ],
+      "notes": null
+    },
+    {
+      "id": "extracurricular-event-build-divide-booster",
+      "global_product_id": "extracurricular-event-build-divide-booster",
+      "character_id": "nukumizu-kaju",
+      "name_ja": "ビルディバイド -ブライト- ブースターパック TVアニメ「負けヒロインが多すぎる！」",
+      "name_zh": "文艺部课外活动 Build Divide Bright 动画版补充包",
+      "category_id": "trading_card",
+      "campaign_id": "literature-club-extracurricular-2025",
+      "manufacturer_id": "aniplex",
+      "variant": "商品图案或阵容明确包含温水佳树",
+      "sale_format": {
+        "type": "random",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-04-06",
+      "list_price_yen": 330,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/extracurricular-goods_10105_main.jpg",
+          "thumbnail_path": "images/thumbs/extracurricular-event-build-divide-booster.webp",
+          "role": "lineup",
+          "source_url": "https://makeine-anime.com/event/SYS/CONTENTS/goods_10105_main"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "活动会场／事后通販",
+          "phase": "event_sale",
+          "url": "https://makeine-anime.com/event/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://makeine-anime.com/event/",
+          "type": "official",
+          "checked_at": "2026-10-06"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "文艺部课外活动",
+        "温水佳树"
+      ],
+      "notes": null
+    },
+    {
+      "id": "extracurricular-event-acrylic-stand-kaju",
+      "global_product_id": "extracurricular-event-acrylic-stand-kaju",
+      "character_id": "nukumizu-kaju",
+      "name_ja": "アクリルスタンド 温水佳樹",
+      "name_zh": "文艺部课外活动 亚克力立牌 温水佳树",
+      "category_id": "acrylic_stand",
+      "campaign_id": "literature-club-extracurricular-2025",
+      "manufacturer_id": "aniplex",
+      "variant": "温水佳树",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 5
+      },
+      "spec": {
+        "size": null,
+        "material": "アクリル"
+      },
+      "release_date": "2025-04-06",
+      "list_price_yen": 1400,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/extracurricular-goods_10115_photo_5.jpg",
+          "thumbnail_path": "images/thumbs/extracurricular-event-acrylic-stand-kaju.webp",
+          "role": "product",
+          "source_url": "https://makeine-anime.com/event/SYS/CONTENTS/goods_10115_photo_5"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "活动会场／事后通販",
+          "phase": "event_sale",
+          "url": "https://makeine-anime.com/event/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://makeine-anime.com/event/",
+          "type": "official",
+          "checked_at": "2026-10-06"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "文艺部课外活动",
+        "亚克力立牌",
+        "温水佳树"
+      ],
+      "notes": null
     }
   ]
 }
