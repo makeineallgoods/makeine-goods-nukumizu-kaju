@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-06",
+  "updated_at": "2026-10-07",
   "campaigns": [
     {
       "id": "amnibus-chibitoko-2024",
@@ -602,26 +602,6 @@
       "official_url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04592880"
     },
     {
-      "id": "tsutaya-heisei-gyaru-2026",
-      "name_zh": "TSUTAYA 平成辣妹主题",
-      "name_ja": "TSUTAYA POP UP SHOP 平成ギャルver.",
-      "aliases": [
-        "平成ギャルver."
-      ],
-      "year": 2026,
-      "official_url": "https://tsutaya.tsite.jp/articles/store-5393"
-    },
-    {
-      "id": "valentine-version",
-      "name_zh": "情人节新绘系列",
-      "name_ja": "バレンタイン ver.",
-      "aliases": [
-        "バレンタインストア in ゲーマーズ"
-      ],
-      "year": 2026,
-      "official_url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7160"
-    },
-    {
       "id": "winter-uniform",
       "name_zh": "冬制服Q版系列",
       "name_ja": "冬制服ミニキャラ",
@@ -664,6 +644,17 @@
       "aliases": [],
       "year": 2025,
       "official_url": "https://makeine-anime.com/event/"
+    },
+    {
+      "id": "anime-bddvd-store-benefits",
+      "name_zh": "动画 Blu-ray/DVD 店铺特典",
+      "name_ja": "Blu-ray/DVD 店舗別特典",
+      "aliases": [
+        "全巻購入特典",
+        "連動購入特典"
+      ],
+      "year": 2024,
+      "official_url": "https://makeine-anime.com/bddvd/?id=03"
     }
   ]
 }

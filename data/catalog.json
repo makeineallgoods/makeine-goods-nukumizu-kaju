@@ -4,7 +4,7 @@
   "catalog": {
     "title": "温水佳树制品图鉴",
     "scope": "《败犬女主太多了！》中明确包含温水佳树的官方实体制品",
-    "updated_at": "2026-10-06",
+    "updated_at": "2026-10-07",
     "status": "collecting"
   },
   "character": {
@@ -1585,526 +1585,6 @@
       "notes": "每购买或预约内金满3000日元随机赠送1枚；非单独销售。 当前使用明确包含温水佳树的官方活动阵容图，佳树单品图仍待替换。"
     },
     {
-      "id": "tsutaya-heisei-gyaru-trading-badge",
-      "global_product_id": "tsutaya-heisei-gyaru-trading-badge",
-      "character_id": "nukumizu-kaju",
-      "name_ja": "トレーディング缶バッジ 平成ギャルver.",
-      "name_zh": "平成辣妹 随机徽章",
-      "category_id": "can_badge",
-      "campaign_id": "tsutaya-heisei-gyaru-2026",
-      "manufacturer_id": "tsutaya",
-      "variant": "随机5款包含温水佳树",
-      "sale_format": {
-        "type": "random",
-        "total_variants": 5
-      },
-      "spec": {
-        "size": "约57×57mm",
-        "material": "马口铁"
-      },
-      "release_date": "2026-05-29",
-      "list_price_yen": 550,
-      "official_status": "official",
-      "verification": "confirmed_text",
-      "images": [
-        {
-          "path": "images/items/source-02dc63cb2e8ac5ab7d79.jpg",
-          "thumbnail_path": "images/thumbs/tsutaya-heisei-gyaru-trading-badge.webp",
-          "role": "lineup",
-          "source_url": "https://storage.googleapis.com/studio-design-asset-files/projects/1Va6696Ka7/s-800x800_v-fs_webp_db0ca952-1509-4e29-a8fb-b738f883217b.jpg"
-        }
-      ],
-      "sales": [
-        {
-          "seller": "TSUTAYA",
-          "phase": "general_sale",
-          "url": "https://tsutaya.tsite.jp/articles/store-5393"
-        }
-      ],
-      "sources": [
-        {
-          "url": "https://tsutaya.tsite.jp/articles/store-5393",
-          "type": "official",
-          "checked_at": "2026-10-04"
-        }
-      ],
-      "tags": [
-        "动画版",
-        "平成辣妹",
-        "温水佳树",
-        "新规绘制"
-      ],
-      "notes": null
-    },
-    {
-      "id": "tsutaya-heisei-gyaru-trading-acrylic-card",
-      "global_product_id": "tsutaya-heisei-gyaru-trading-acrylic-card",
-      "character_id": "nukumizu-kaju",
-      "name_ja": "トレーディングアクリルカード 平成ギャルver.",
-      "name_zh": "平成辣妹 随机亚克力卡",
-      "category_id": "card",
-      "campaign_id": "tsutaya-heisei-gyaru-2026",
-      "manufacturer_id": "tsutaya",
-      "variant": "随机5款包含温水佳树",
-      "sale_format": {
-        "type": "random",
-        "total_variants": 5
-      },
-      "spec": {
-        "size": "约55×90mm",
-        "material": "亚克力"
-      },
-      "release_date": "2026-05-29",
-      "list_price_yen": 660,
-      "official_status": "official",
-      "verification": "confirmed_text",
-      "images": [
-        {
-          "path": "images/items/source-3d898c3a45204e0a135f.jpg",
-          "thumbnail_path": "images/thumbs/tsutaya-heisei-gyaru-trading-acrylic-card.webp",
-          "role": "lineup",
-          "source_url": "https://storage.googleapis.com/studio-design-asset-files/projects/1Va6696Ka7/s-800x800_v-fs_webp_af11c198-71ad-4a88-abd5-0bef2d84272a.jpg"
-        }
-      ],
-      "sales": [
-        {
-          "seller": "TSUTAYA",
-          "phase": "general_sale",
-          "url": "https://tsutaya.tsite.jp/articles/store-5393"
-        }
-      ],
-      "sources": [
-        {
-          "url": "https://tsutaya.tsite.jp/articles/store-5393",
-          "type": "official",
-          "checked_at": "2026-10-04"
-        }
-      ],
-      "tags": [
-        "动画版",
-        "平成辣妹",
-        "温水佳树",
-        "新规绘制"
-      ],
-      "notes": null
-    },
-    {
-      "id": "tsutaya-heisei-gyaru-tote",
-      "global_product_id": "tsutaya-heisei-gyaru-tote",
-      "character_id": "nukumizu-kaju",
-      "name_ja": "トートバッグ 平成ギャルver.",
-      "name_zh": "平成辣妹 托特包",
-      "category_id": "bag",
-      "campaign_id": "tsutaya-heisei-gyaru-2026",
-      "manufacturer_id": "tsutaya",
-      "variant": "2种群像图案均包含温水佳树",
-      "sale_format": {
-        "type": "set",
-        "total_variants": 2
-      },
-      "spec": {
-        "size": "W360×H370×D100mm",
-        "material": "棉100%"
-      },
-      "release_date": "2026-05-29",
-      "list_price_yen": 2750,
-      "official_status": "official",
-      "verification": "confirmed_text",
-      "images": [
-        {
-          "path": "images/items/source-b2f8921e3b107278b929.jpg",
-          "thumbnail_path": "images/thumbs/tsutaya-heisei-gyaru-tote.webp",
-          "role": "lineup",
-          "source_url": "https://storage.googleapis.com/studio-design-asset-files/projects/1Va6696Ka7/s-800x800_v-fs_webp_af94f365-1a89-47e7-a025-8680ca25c233.jpg"
-        }
-      ],
-      "sales": [
-        {
-          "seller": "TSUTAYA",
-          "phase": "general_sale",
-          "url": "https://tsutaya.tsite.jp/articles/store-5393"
-        }
-      ],
-      "sources": [
-        {
-          "url": "https://tsutaya.tsite.jp/articles/store-5393",
-          "type": "official",
-          "checked_at": "2026-10-04"
-        }
-      ],
-      "tags": [
-        "动画版",
-        "平成辣妹",
-        "温水佳树",
-        "新规绘制"
-      ],
-      "notes": null
-    },
-    {
-      "id": "tsutaya-heisei-gyaru-stand-kaju",
-      "global_product_id": "tsutaya-heisei-gyaru-stand-kaju",
-      "character_id": "nukumizu-kaju",
-      "name_ja": "アクリルスタンド 温水佳樹 平成ギャルver.",
-      "name_zh": "平成辣妹 亚克力立牌 温水佳树",
-      "category_id": "acrylic_stand",
-      "campaign_id": "tsutaya-heisei-gyaru-2026",
-      "manufacturer_id": "tsutaya",
-      "variant": "温水佳树",
-      "sale_format": {
-        "type": "single",
-        "total_variants": 5
-      },
-      "spec": {
-        "size": "约110×125mm",
-        "material": "亚克力"
-      },
-      "release_date": "2026-05-29",
-      "list_price_yen": 1650,
-      "official_status": "official",
-      "verification": "confirmed_text",
-      "images": [
-        {
-          "path": "images/items/source-8b1a1e6523b2ce1335a3.jpg",
-          "thumbnail_path": "images/thumbs/tsutaya-heisei-gyaru-stand-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://storage.googleapis.com/studio-design-asset-files/projects/1Va6696Ka7/s-800x800_v-fs_webp_9434bfff-dec6-4945-b4ce-2347d80c7150.jpg"
-        }
-      ],
-      "sales": [
-        {
-          "seller": "TSUTAYA",
-          "phase": "general_sale",
-          "url": "https://tsutaya.tsite.jp/articles/store-5393"
-        }
-      ],
-      "sources": [
-        {
-          "url": "https://tsutaya.tsite.jp/articles/store-5393",
-          "type": "official",
-          "checked_at": "2026-10-04"
-        }
-      ],
-      "tags": [
-        "动画版",
-        "平成辣妹",
-        "温水佳树",
-        "新规绘制"
-      ],
-      "notes": null
-    },
-    {
-      "id": "tsutaya-heisei-gyaru-slim-tapestry-kaju",
-      "global_product_id": "tsutaya-heisei-gyaru-slim-tapestry-kaju",
-      "character_id": "nukumizu-kaju",
-      "name_ja": "スリムタペストリー 温水佳樹 平成ギャルver.",
-      "name_zh": "平成辣妹 窄幅挂毯 温水佳树",
-      "category_id": "tapestry",
-      "campaign_id": "tsutaya-heisei-gyaru-2026",
-      "manufacturer_id": "tsutaya",
-      "variant": "温水佳树",
-      "sale_format": {
-        "type": "single",
-        "total_variants": 5
-      },
-      "spec": {
-        "size": "约258×728mm",
-        "material": "麂皮绒"
-      },
-      "release_date": "2026-05-29",
-      "list_price_yen": 2750,
-      "official_status": "official",
-      "verification": "confirmed_text",
-      "images": [
-        {
-          "path": "images/items/source-dca0b6d5c963277e5fa0.jpg",
-          "thumbnail_path": "images/thumbs/tsutaya-heisei-gyaru-slim-tapestry-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://storage.googleapis.com/studio-design-asset-files/projects/1Va6696Ka7/s-800x800_v-fs_webp_29071b44-a8ff-44c9-88d9-1271865c0941.jpg"
-        }
-      ],
-      "sales": [
-        {
-          "seller": "TSUTAYA",
-          "phase": "general_sale",
-          "url": "https://tsutaya.tsite.jp/articles/store-5393"
-        }
-      ],
-      "sources": [
-        {
-          "url": "https://tsutaya.tsite.jp/articles/store-5393",
-          "type": "official",
-          "checked_at": "2026-10-04"
-        }
-      ],
-      "tags": [
-        "动画版",
-        "平成辣妹",
-        "温水佳树",
-        "新规绘制"
-      ],
-      "notes": null
-    },
-    {
-      "id": "tsutaya-heisei-gyaru-mini-stand-kaju",
-      "global_product_id": "tsutaya-heisei-gyaru-mini-stand-kaju",
-      "character_id": "nukumizu-kaju",
-      "name_ja": "ミニスタンド 温水佳樹 平成ギャルver.",
-      "name_zh": "平成辣妹 迷你立牌 温水佳树",
-      "category_id": "acrylic_stand",
-      "campaign_id": "tsutaya-heisei-gyaru-2026",
-      "manufacturer_id": "tsutaya",
-      "variant": "温水佳树",
-      "sale_format": {
-        "type": "single",
-        "total_variants": 5
-      },
-      "spec": {
-        "size": "约50×70mm",
-        "material": "亚克力"
-      },
-      "release_date": "2026-05-29",
-      "list_price_yen": 660,
-      "official_status": "official",
-      "verification": "confirmed_text",
-      "images": [
-        {
-          "path": "images/items/source-5f09e7f83c040afabd57.jpg",
-          "thumbnail_path": "images/thumbs/tsutaya-heisei-gyaru-mini-stand-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://storage.googleapis.com/studio-design-asset-files/projects/1Va6696Ka7/s-800x800_v-fs_webp_c240313e-b6cf-4812-b468-c5f3b61b4563.jpg"
-        }
-      ],
-      "sales": [
-        {
-          "seller": "TSUTAYA",
-          "phase": "general_sale",
-          "url": "https://tsutaya.tsite.jp/articles/store-5393"
-        }
-      ],
-      "sources": [
-        {
-          "url": "https://tsutaya.tsite.jp/articles/store-5393",
-          "type": "official",
-          "checked_at": "2026-10-04"
-        }
-      ],
-      "tags": [
-        "动画版",
-        "平成辣妹",
-        "温水佳树",
-        "新规绘制"
-      ],
-      "notes": null
-    },
-    {
-      "id": "tsutaya-heisei-gyaru-keychain-kaju",
-      "global_product_id": "tsutaya-heisei-gyaru-keychain-kaju",
-      "character_id": "nukumizu-kaju",
-      "name_ja": "ちょいデカアクリルキーホルダー 温水佳樹 平成ギャルver.",
-      "name_zh": "平成辣妹 稍大亚克力挂件 温水佳树",
-      "category_id": "acrylic_keychain",
-      "campaign_id": "tsutaya-heisei-gyaru-2026",
-      "manufacturer_id": "tsutaya",
-      "variant": "温水佳树",
-      "sale_format": {
-        "type": "single",
-        "total_variants": 5
-      },
-      "spec": {
-        "size": "约75×75mm",
-        "material": "亚克力"
-      },
-      "release_date": "2026-05-29",
-      "list_price_yen": 990,
-      "official_status": "official",
-      "verification": "confirmed_text",
-      "images": [
-        {
-          "path": "images/items/source-1dc8311b6d2ab88d301f.jpg",
-          "thumbnail_path": "images/thumbs/tsutaya-heisei-gyaru-keychain-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://storage.googleapis.com/studio-design-asset-files/projects/1Va6696Ka7/s-800x800_v-fs_webp_b362487b-7df9-45a1-a311-c70fb90020da.jpg"
-        }
-      ],
-      "sales": [
-        {
-          "seller": "TSUTAYA",
-          "phase": "general_sale",
-          "url": "https://tsutaya.tsite.jp/articles/store-5393"
-        }
-      ],
-      "sources": [
-        {
-          "url": "https://tsutaya.tsite.jp/articles/store-5393",
-          "type": "official",
-          "checked_at": "2026-10-04"
-        }
-      ],
-      "tags": [
-        "动画版",
-        "平成辣妹",
-        "温水佳树",
-        "新规绘制"
-      ],
-      "notes": null
-    },
-    {
-      "id": "tsutaya-heisei-gyaru-clear-file-kaju",
-      "global_product_id": "tsutaya-heisei-gyaru-clear-file-kaju",
-      "character_id": "nukumizu-kaju",
-      "name_ja": "クリアファイル 温水佳樹 平成ギャルver.",
-      "name_zh": "平成辣妹 透明文件夹 温水佳树",
-      "category_id": "clear_file",
-      "campaign_id": "tsutaya-heisei-gyaru-2026",
-      "manufacturer_id": "tsutaya",
-      "variant": "温水佳树",
-      "sale_format": {
-        "type": "single",
-        "total_variants": 5
-      },
-      "spec": {
-        "size": "约220×310mm",
-        "material": "PP"
-      },
-      "release_date": "2026-05-29",
-      "list_price_yen": 495,
-      "official_status": "official",
-      "verification": "confirmed_text",
-      "images": [
-        {
-          "path": "images/items/source-cf141267afe842d0711f.jpg",
-          "thumbnail_path": "images/thumbs/tsutaya-heisei-gyaru-clear-file-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://storage.googleapis.com/studio-design-asset-files/projects/1Va6696Ka7/s-800x800_v-fs_webp_8a92bcab-5817-43c1-bd2d-421964c1e996.jpg"
-        }
-      ],
-      "sales": [
-        {
-          "seller": "TSUTAYA",
-          "phase": "general_sale",
-          "url": "https://tsutaya.tsite.jp/articles/store-5393"
-        }
-      ],
-      "sources": [
-        {
-          "url": "https://tsutaya.tsite.jp/articles/store-5393",
-          "type": "official",
-          "checked_at": "2026-10-04"
-        }
-      ],
-      "tags": [
-        "动画版",
-        "平成辣妹",
-        "温水佳树",
-        "新规绘制"
-      ],
-      "notes": null
-    },
-    {
-      "id": "tsutaya-heisei-gyaru-bookmark-bonus-kaju",
-      "global_product_id": "tsutaya-heisei-gyaru-bookmark-bonus-kaju",
-      "character_id": "nukumizu-kaju",
-      "name_ja": "購入特典 しおり 温水佳樹 平成ギャルver.",
-      "name_zh": "平成辣妹 满额特典书签 温水佳树",
-      "category_id": "card",
-      "campaign_id": "tsutaya-heisei-gyaru-2026",
-      "manufacturer_id": "tsutaya",
-      "variant": "温水佳树（随机特典）",
-      "sale_format": {
-        "type": "random",
-        "total_variants": 5
-      },
-      "spec": {
-        "size": null,
-        "material": "纸"
-      },
-      "release_date": "2026-05-29",
-      "list_price_yen": null,
-      "official_status": "official",
-      "verification": "confirmed_text",
-      "images": [
-        {
-          "path": "images/items/source-511f04edcd2ca4c828dd.jpg",
-          "thumbnail_path": "images/thumbs/tsutaya-heisei-gyaru-bookmark-bonus-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://storage.googleapis.com/studio-design-asset-files/projects/1Va6696Ka7/s-800x800_v-fs_webp_752f165b-96c0-4344-bc02-052038433492.jpg"
-        }
-      ],
-      "sales": [
-        {
-          "seller": "TSUTAYA",
-          "phase": "purchase_bonus",
-          "url": "https://tsutaya.tsite.jp/articles/store-5393"
-        }
-      ],
-      "sources": [
-        {
-          "url": "https://tsutaya.tsite.jp/articles/store-5393",
-          "type": "official",
-          "checked_at": "2026-10-04"
-        }
-      ],
-      "tags": [
-        "动画版",
-        "平成辣妹",
-        "温水佳树",
-        "新规绘制"
-      ],
-      "notes": "每购买对象商品满2200日元随机赠送1枚；非单独销售。"
-    },
-    {
-      "id": "tsutaya-heisei-gyaru-badge-kaju",
-      "global_product_id": "tsutaya-heisei-gyaru-badge-kaju",
-      "character_id": "nukumizu-kaju",
-      "name_ja": "缶バッジ 温水佳樹 平成ギャルver.",
-      "name_zh": "平成辣妹 徽章 温水佳树",
-      "category_id": "can_badge",
-      "campaign_id": "tsutaya-heisei-gyaru-2026",
-      "manufacturer_id": "tsutaya",
-      "variant": "温水佳树",
-      "sale_format": {
-        "type": "single",
-        "total_variants": 5
-      },
-      "spec": {
-        "size": "约57×57mm",
-        "material": "马口铁"
-      },
-      "release_date": "2026-05-29",
-      "list_price_yen": 550,
-      "official_status": "official",
-      "verification": "confirmed_text",
-      "images": [
-        {
-          "path": "images/items/source-7912abe4ef975ff9855d.jpg",
-          "thumbnail_path": "images/thumbs/tsutaya-heisei-gyaru-badge-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://storage.googleapis.com/studio-design-asset-files/projects/1Va6696Ka7/s-800x800_v-fs_webp_8b0a8083-04c0-478a-b875-cd3fc4e92b83.jpg"
-        }
-      ],
-      "sales": [
-        {
-          "seller": "TSUTAYA",
-          "phase": "general_sale",
-          "url": "https://tsutaya.tsite.jp/articles/store-5393"
-        }
-      ],
-      "sources": [
-        {
-          "url": "https://tsutaya.tsite.jp/articles/store-5393",
-          "type": "official",
-          "checked_at": "2026-10-04"
-        }
-      ],
-      "tags": [
-        "动画版",
-        "平成辣妹",
-        "温水佳树",
-        "新规绘制"
-      ],
-      "notes": null
-    },
-    {
       "id": "ramune-lab-plush-mascot-kaju",
       "global_product_id": "ramune-lab-plush-mascot-kaju-4573514548857",
       "character_id": "nukumizu-kaju",
@@ -2463,7 +1943,7 @@
       "id": "bakudanyaki-sticker-set-kaju",
       "global_product_id": "bakudanyaki-sticker-set-kaju",
       "character_id": "nukumizu-kaju",
-      "name_ja": "ダイカットステッカーセット 温水 佳樹",
+      "name_ja": "ダイカットステッカーセット 温水佳樹",
       "name_zh": "爆弹烧本铺联动 异形贴纸套装 温水佳树",
       "category_id": "sticker",
       "campaign_id": "bakudanyaki-collaboration-2025",
@@ -2513,8 +1993,8 @@
       "id": "bakudanyaki-name-keycharm-kaju",
       "global_product_id": "bakudanyaki-name-keycharm-kaju",
       "character_id": "nukumizu-kaju",
-      "name_ja": "お名前キーチャーム 温水 佳樹",
-      "name_zh": "爆弹烧联动 姓名吊饰 温水佳树",
+      "name_ja": "お名前キーチャーム 温水佳樹",
+      "name_zh": "爆弹烧本铺联动 姓名挂件 温水佳树",
       "category_id": "accessory",
       "campaign_id": "bakudanyaki-collaboration-2025",
       "manufacturer_id": "wood-boy",
@@ -2563,8 +2043,8 @@
       "id": "bakudanyaki-name-badge-kaju",
       "global_product_id": "bakudanyaki-name-badge-kaju",
       "character_id": "nukumizu-kaju",
-      "name_ja": "ネームバッジ 温水 佳樹",
-      "name_zh": "爆弹烧联动 姓名徽章 温水佳树",
+      "name_ja": "ネームバッジ 温水佳樹",
+      "name_zh": "爆弹烧本铺联动 姓名徽章 温水佳树",
       "category_id": "can_badge",
       "campaign_id": "bakudanyaki-collaboration-2025",
       "manufacturer_id": "wood-boy",
@@ -2613,8 +2093,8 @@
       "id": "bakudanyaki-costume-charm-kaju",
       "global_product_id": "bakudanyaki-costume-charm-kaju",
       "character_id": "nukumizu-kaju",
-      "name_ja": "アクリル衣装チャーム 温水 佳樹",
-      "name_zh": "爆弹烧联动 亚克力服装吊饰 温水佳树",
+      "name_ja": "アクリル衣装チャーム 温水佳樹",
+      "name_zh": "爆弹烧本铺联动 亚克力服装挂件 温水佳树",
       "category_id": "accessory",
       "campaign_id": "bakudanyaki-collaboration-2025",
       "manufacturer_id": "wood-boy",
@@ -2663,8 +2143,8 @@
       "id": "bakudanyaki-aurora-keychain-kaju",
       "global_product_id": "bakudanyaki-aurora-keychain-kaju",
       "character_id": "nukumizu-kaju",
-      "name_ja": "オーロラキーホルダー 温水 佳樹",
-      "name_zh": "爆弹烧联动 极光亚克力挂件 温水佳树",
+      "name_ja": "オーロラキーホルダー 温水佳樹",
+      "name_zh": "爆弹烧本铺联动 极光亚克力挂件 温水佳树",
       "category_id": "acrylic_keychain",
       "campaign_id": "bakudanyaki-collaboration-2025",
       "manufacturer_id": "wood-boy",
@@ -2713,7 +2193,7 @@
       "id": "bakudanyaki-acrylic-mascot-kaju",
       "global_product_id": "bakudanyaki-acrylic-mascot-kaju",
       "character_id": "nukumizu-kaju",
-      "name_ja": "アクリルマスコット 温水 佳樹",
+      "name_ja": "アクリルマスコット 温水佳樹",
       "name_zh": "爆弹烧本铺联动 亚克力吉祥物 温水佳树",
       "category_id": "acrylic_stand",
       "campaign_id": "bakudanyaki-collaboration-2025",
@@ -2760,18 +2240,18 @@
       "notes": "Animate 一般流通版于2026年2月中旬发售。"
     },
     {
-      "id": "charat-autumn-2026-w-chance-canvas-a",
-      "global_product_id": "charat-autumn-2026-w-chance-canvas-a",
+      "id": "charat-autumn-2026-w-chance-canvas-a-kaju",
+      "global_product_id": "charat-autumn-2026-w-chance-canvas-a-kaju",
       "character_id": "nukumizu-kaju",
-      "name_ja": "Wチャンス賞 キャンバスボード 温水佳樹",
-      "name_zh": "各自度过的秋日 网络抽奖 W Chance奖 帆布画板 温水佳树",
+      "name_ja": "Wチャンス賞 ビジュアルキャンバスボード 温水佳樹",
+      "name_zh": "各自度过的秋日 网络抽奖 W Chance奖 视觉帆布板 温水佳树",
       "category_id": "fabric_goods",
       "campaign_id": "charat-kuji-autumn-2026",
       "manufacturer_id": "andblue",
-      "variant": "W Chance奖／同一款在两个抽选时段开放，各限量2份",
+      "variant": "W Chance奖／温水佳树",
       "sale_format": {
-        "type": "random",
-        "total_variants": 8
+        "type": "lottery",
+        "total_variants": 4
       },
       "spec": {
         "size": "F4（W242×H333mm）",
@@ -2780,7 +2260,7 @@
       "release_date": "2026-01-29",
       "list_price_yen": 880,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/source-574e749788addd414eef.png",
@@ -2800,7 +2280,7 @@
         {
           "url": "https://charat-kuji.jp/lot/5649717054668800-5191332576362496",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -2809,7 +2289,7 @@
         "网络抽奖",
         "温水佳树"
       ],
-      "notes": "标价为每抽价格，不是奖品零售价。W Chance奖为追加自动抽选奖品；同一款温水佳树画板在2026年2月19日至25日及2月26日至27日两次开放，各限量2份。"
+      "notes": "官网在两个抽选时段重复列出同一制品；按单一制品记录，不区分 A/B。"
     },
     {
       "id": "charat-autumn-2026-e8-holo-badge-b",
@@ -3549,8 +3029,8 @@
       "id": "kujicolle-christmas-2025-c-nukumizu-kaju",
       "global_product_id": "kujicolle-christmas-2025-c-nukumizu-kaju",
       "character_id": "nukumizu-kaju",
-      "name_ja": "C-03賞 缶バッジ 温水 佳樹",
-      "name_zh": "圣诞 Q 版网络抽奖 C-03奖 徽章 温水佳树",
+      "name_ja": "C-04賞 缶バッジ 温水佳樹",
+      "name_zh": "圣诞 Q 版网络抽奖 C-04奖 徽章 温水佳树",
       "category_id": "can_badge",
       "campaign_id": "kujicolle-christmas-2025",
       "manufacturer_id": "team-entertainment",
@@ -3569,10 +3049,10 @@
       "verification": "confirmed_text",
       "images": [
         {
-          "path": "images/items/source-ffb11a3c8987ddd88101.webp",
+          "path": "images/items/kujicolle-christmas-2025-c-nukumizu-kaju.webp",
           "thumbnail_path": "images/thumbs/kujicolle-christmas-2025-c-nukumizu-kaju.webp",
           "role": "lineup",
-          "source_url": "https://kujico.jp/images/items/images/6680/e62d4f91-a003-4800-bbe7-04102fdd85cf-1S.webp"
+          "source_url": "https://kujico.jp/images/items/images/6698/11c9b124-8f71-4385-a14a-f75941346374-4C_04.webp"
         }
       ],
       "sales": [
@@ -3602,8 +3082,8 @@
       "id": "kujicolle-christmas-2025-b-nukumizu-kaju",
       "global_product_id": "kujicolle-christmas-2025-b-nukumizu-kaju",
       "character_id": "nukumizu-kaju",
-      "name_ja": "B-03賞 アクリルキーホルダー 温水 佳樹",
-      "name_zh": "圣诞 Q 版网络抽奖 B-03奖 亚克力挂件 温水佳树",
+      "name_ja": "B-04賞 アクリルキーホルダー 温水佳樹",
+      "name_zh": "圣诞 Q 版网络抽奖 B-04奖 亚克力挂件 温水佳树",
       "category_id": "acrylic_keychain",
       "campaign_id": "kujicolle-christmas-2025",
       "manufacturer_id": "team-entertainment",
@@ -3622,10 +3102,10 @@
       "verification": "confirmed_text",
       "images": [
         {
-          "path": "images/items/source-ffb11a3c8987ddd88101.webp",
+          "path": "images/items/kujicolle-christmas-2025-b-nukumizu-kaju.webp",
           "thumbnail_path": "images/thumbs/kujicolle-christmas-2025-b-nukumizu-kaju.webp",
           "role": "lineup",
-          "source_url": "https://kujico.jp/images/items/images/6680/e62d4f91-a003-4800-bbe7-04102fdd85cf-1S.webp"
+          "source_url": "https://kujico.jp/images/items/images/6691/135b3c7e-fb09-4c9a-b876-cbe0d0533459-3B_04.webp"
         }
       ],
       "sales": [
@@ -3655,8 +3135,8 @@
       "id": "kujicolle-christmas-2025-a-nukumizu-kaju",
       "global_product_id": "kujicolle-christmas-2025-a-nukumizu-kaju",
       "character_id": "nukumizu-kaju",
-      "name_ja": "A-03賞 アクリルスタンド 温水 佳樹",
-      "name_zh": "圣诞 Q 版网络抽奖 A-03奖 亚克力立牌 温水佳树",
+      "name_ja": "A-04賞 アクリルスタンド 温水佳樹",
+      "name_zh": "圣诞 Q 版网络抽奖 A-04奖 亚克力立牌 温水佳树",
       "category_id": "acrylic_stand",
       "campaign_id": "kujicolle-christmas-2025",
       "manufacturer_id": "team-entertainment",
@@ -3675,10 +3155,10 @@
       "verification": "confirmed_text",
       "images": [
         {
-          "path": "images/items/source-ffb11a3c8987ddd88101.webp",
+          "path": "images/items/kujicolle-christmas-2025-a-nukumizu-kaju.webp",
           "thumbnail_path": "images/thumbs/kujicolle-christmas-2025-a-nukumizu-kaju.webp",
           "role": "lineup",
-          "source_url": "https://kujico.jp/images/items/images/6680/e62d4f91-a003-4800-bbe7-04102fdd85cf-1S.webp"
+          "source_url": "https://kujico.jp/images/items/images/6684/98d80f81-c466-45d3-83d9-6d22d404c4b0-2A_04.webp"
         }
       ],
       "sales": [
@@ -3776,10 +3256,10 @@
       "release_date": "2025-12-18",
       "list_price_yen": 1100,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-31883d3a1d07da4ee86e.jpeg",
+          "path": "images/items/tapioca-kurumi-tapinui-kaju.jpeg",
           "thumbnail_path": "images/thumbs/tapioca-kurumi-tapinui-kaju.webp",
           "role": "product",
           "source_url": "https://shibuyatsutaya.tsite.jp/editor_files/article/000/001/606/article_body/img_20251112105642_006.jpeg"
@@ -3796,7 +3276,7 @@
         {
           "url": "https://shibuyatsutaya.tsite.jp/article/1606.html",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -3804,7 +3284,7 @@
         "Tapioca",
         "温水佳树"
       ],
-      "notes": "官方阵容另含温水和彦、八奈见杏菜、烧盐柠檬、温水佳树、月之木古都、志喜屋梦子；不含马剃天爱星。"
+      "notes": "已核对 SHIBUYA TSUTAYA 官方活动页的角色单品图。"
     },
     {
       "id": "tapioca-kurumi-badge-kaju",
@@ -3827,10 +3307,10 @@
       "release_date": "2025-12-18",
       "list_price_yen": 495,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-c3bbd7ff1600cf8ed954.jpeg",
+          "path": "images/items/tapioca-kurumi-badge-kaju.jpeg",
           "thumbnail_path": "images/thumbs/tapioca-kurumi-badge-kaju.webp",
           "role": "product",
           "source_url": "https://shibuyatsutaya.tsite.jp/editor_files/article/000/001/606/article_body/img_20251112111318_011.jpeg"
@@ -3847,7 +3327,7 @@
         {
           "url": "https://shibuyatsutaya.tsite.jp/article/1606.html",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -3855,7 +3335,7 @@
         "Tapioca",
         "温水佳树"
       ],
-      "notes": null
+      "notes": "已核对 SHIBUYA TSUTAYA 官方活动页的角色单品图。"
     },
     {
       "id": "tapioca-clear-card-collection-kaju",
@@ -3866,7 +3346,7 @@
       "category_id": "card",
       "campaign_id": "tapioca-plush-2025",
       "manufacturer_id": "tapioca",
-      "variant": "盲抽全20款中的温水佳树5款（编号6～10）",
+      "variant": "盲抽全20款中的温水佳树5款（编号16～20）",
       "sale_format": {
         "type": "random",
         "total_variants": 20
@@ -3881,10 +3361,10 @@
       "verification": "confirmed_text",
       "images": [
         {
-          "path": "images/items/source-e0785d8f550b7463ab18.jpeg",
+          "path": "images/items/tapioca-clear-card-collection-kaju.jpeg",
           "thumbnail_path": "images/thumbs/tapioca-clear-card-collection-kaju.webp",
-          "role": "product",
-          "source_url": "https://shibuyatsutaya.tsite.jp/editor_files/article/000/001/606/article_body/img_20251112111318_017.jpeg"
+          "role": "lineup",
+          "source_url": "https://shibuyatsutaya.tsite.jp/editor_files/article/000/001/606/article_body/img_20251112111318_018.jpeg"
         }
       ],
       "sales": [
@@ -3906,7 +3386,7 @@
         "Tapioca",
         "温水佳树"
       ],
-      "notes": null
+      "notes": "已按 TSUTAYA 官方分组图核对，对应全20款中的编号16～20。"
     },
     {
       "id": "tapioca-cape-tapinui-kaju",
@@ -3932,10 +3412,10 @@
       "verification": "confirmed_text",
       "images": [
         {
-          "path": "images/items/source-cc4af6fb22e7452be8ed.jpeg",
+          "path": "images/items/tapioca-cape-tapinui-kaju.jpeg",
           "thumbnail_path": "images/thumbs/tapioca-cape-tapinui-kaju.webp",
           "role": "product",
-          "source_url": "https://shibuyatsutaya.tsite.jp/editor_files/article/000/001/606/article_body/img_20251112111318_005.jpeg"
+          "source_url": "https://shibuyatsutaya.tsite.jp/editor_files/article/000/001/606/article_body/img_20251112111318_006.jpeg"
         }
       ],
       "sales": [
@@ -3957,7 +3437,7 @@
         "Tapioca",
         "温水佳树"
       ],
-      "notes": null
+      "notes": "已按 TSUTAYA 官方角色单品图核对。"
     },
     {
       "id": "tosyo-winter-stand-kaju",
@@ -4775,7 +4255,7 @@
       "global_product_id": "autumn-2025-gamers-a3-poster-kaju",
       "character_id": "nukumizu-kaju",
       "name_ja": "A3マットポスター＜佳樹が過ごす秋＞",
-      "name_zh": "Gamers 限定 A3 哑光海报〈佳树度过的秋日〉",
+      "name_zh": "各自度过的秋日 Gamers限定 A3哑光海报 温水佳树",
       "category_id": "poster",
       "campaign_id": "autumn-seasons-2025",
       "manufacturer_id": "andblue-anisugar",
@@ -5395,24 +4875,24 @@
       "verification": "confirmed_text",
       "images": [
         {
-          "path": "images/items/source-d5b17b46f9639bb8f5b6.jpg",
+          "path": "images/items/nonhoi-park-postcard-bonus-kaju.jpg",
           "thumbnail_path": "images/thumbs/nonhoi-park-postcard-bonus-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/8499/16064-8499-d256a6424d919730be15438b496dbb54-1350x1500.jpg"
+          "role": "bonus",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/7980/16064-7980-93790dd7ec1bc5568b5c8aae7718517d-1600x1000.jpg"
         }
       ],
       "sales": [
         {
           "seller": "のんほいパーク 中央売店",
           "phase": "purchase_bonus",
-          "url": "https://prtimes.jp/main/html/rd/p/000008499.000016064.html"
+          "url": "https://prtimes.jp/main/html/rd/p/000007980.000016064.html"
         }
       ],
       "sources": [
         {
-          "url": "https://prtimes.jp/main/html/rd/p/000008499.000016064.html",
+          "url": "https://prtimes.jp/main/html/rd/p/000007980.000016064.html",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -5421,7 +4901,7 @@
         "满赠特典",
         "温水佳树"
       ],
-      "notes": "每会计购买相关商品满3,000日元随机赠1张；非单独销售。 当前使用明确包含温水佳树的官方活动阵容图，佳树单品图仍待替换。"
+      "notes": "每会计购买相关商品满3,000日元随机赠1张；图片为官方全10款阵容图，非单独销售。"
     },
     {
       "id": "nonhoi-park-cookie-group",
@@ -5496,27 +4976,27 @@
       "release_date": "2025-09-29",
       "list_price_yen": 1210,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-877e1f6cc75df82e7341.jpg",
+          "path": "images/items/angel-stand-kaju.jpg",
           "thumbnail_path": "images/thumbs/angel-stand-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://www.curtain-damashii.com/index_ag/wp/wp-content/uploads/badgebox_makeine02_1.jpg"
+          "role": "product",
+          "source_url": "https://www.curtain-damashii.com/index_ag/wp/wp-content/uploads/astand_makeine14_1.jpg"
         }
       ],
       "sales": [
         {
           "seller": "カーテン魂",
-          "phase": "event_sale",
-          "url": "https://www.curtain-damashii.com/item/tag/makeine/"
+          "phase": "general_sale",
+          "url": "https://www.curtain-damashii.com/item/astand_makeine14/"
         }
       ],
       "sources": [
         {
-          "url": "https://www.curtain-damashii.com/item/tag/makeine/",
+          "url": "https://www.curtain-damashii.com/item/astand_makeine14/",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -5548,27 +5028,27 @@
       "release_date": "2025-09-29",
       "list_price_yen": 990,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-877e1f6cc75df82e7341.jpg",
+          "path": "images/items/angel-keychain-kaju.jpg",
           "thumbnail_path": "images/thumbs/angel-keychain-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://www.curtain-damashii.com/index_ag/wp/wp-content/uploads/badgebox_makeine02_1.jpg"
+          "role": "product",
+          "source_url": "https://www.curtain-damashii.com/index_ag/wp/wp-content/uploads/keyholderacr_makeine14_1.jpg"
         }
       ],
       "sales": [
         {
           "seller": "カーテン魂",
-          "phase": "event_sale",
-          "url": "https://www.curtain-damashii.com/item/tag/makeine/"
+          "phase": "general_sale",
+          "url": "https://www.curtain-damashii.com/item/keyholderacr_makeine14/"
         }
       ],
       "sources": [
         {
-          "url": "https://www.curtain-damashii.com/item/tag/makeine/",
+          "url": "https://www.curtain-damashii.com/item/keyholderacr_makeine14/",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -5860,27 +5340,27 @@
       "release_date": "2025-09-29",
       "list_price_yen": 990,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-877e1f6cc75df82e7341.jpg",
+          "path": "images/items/angel-block-kaju.jpg",
           "thumbnail_path": "images/thumbs/angel-block-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://www.curtain-damashii.com/index_ag/wp/wp-content/uploads/badgebox_makeine02_1.jpg"
+          "role": "product",
+          "source_url": "https://www.curtain-damashii.com/index_ag/wp/wp-content/uploads/ablock_makeine14_1.jpg"
         }
       ],
       "sales": [
         {
           "seller": "カーテン魂",
-          "phase": "event_sale",
-          "url": "https://www.curtain-damashii.com/item/tag/makeine/"
+          "phase": "general_sale",
+          "url": "https://www.curtain-damashii.com/item/ablock_makeine14/"
         }
       ],
       "sources": [
         {
-          "url": "https://www.curtain-damashii.com/item/tag/makeine/",
+          "url": "https://www.curtain-damashii.com/item/ablock_makeine14/",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -6212,13 +5692,13 @@
       "release_date": "2025-09-12",
       "list_price_yen": 990,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-defd770be72083f640f8.jpg",
+          "path": "images/items/eternorecit-stand-keyholder-kaju.jpg",
           "thumbnail_path": "images/thumbs/eternorecit-stand-keyholder-kaju.webp",
           "role": "lineup",
-          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4582636976516_1_1759982704.jpg&width=400&height=400&square=1"
+          "source_url": "https://www.eternorecit.jp/images/collabo/2025/er05-makeine-a/ermkino013-020.jpg"
         }
       ],
       "sales": [
@@ -6232,7 +5712,7 @@
         {
           "url": "https://www.eternorecit.jp/collabo/anime-game/202505er-makeine-a.html",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -6241,7 +5721,7 @@
         "爱心Q版",
         "温水佳树"
       ],
-      "notes": "Eterno Récit 活动页原商品图链接已失效，暂用同活动官方8人阵容图。 当前使用明确包含温水佳树的官方活动阵容图，佳树单品图仍待替换。"
+      "notes": "已按 ETERNO RÉCIT 官方联动页的对应商品品类图核对。"
     },
     {
       "id": "eternorecit-ring-pendant-kaju",
@@ -6264,13 +5744,13 @@
       "release_date": "2025-09-12",
       "list_price_yen": 16500,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-defd770be72083f640f8.jpg",
+          "path": "images/items/eternorecit-ring-pendant-kaju.jpg",
           "thumbnail_path": "images/thumbs/eternorecit-ring-pendant-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4582636976516_1_1759982704.jpg&width=400&height=400&square=1"
+          "role": "product",
+          "source_url": "https://www.eternorecit.jp/images/collabo/2025/er05-makeine-a/ermkinr004_00.jpg"
         }
       ],
       "sales": [
@@ -6284,7 +5764,7 @@
         {
           "url": "https://www.eternorecit.jp/collabo/anime-game/202505er-makeine-a.html",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -6293,7 +5773,7 @@
         "爱心Q版",
         "温水佳树"
       ],
-      "notes": "Eterno Récit 活动页原商品图链接已失效，暂用同活动官方8人阵容图。 当前使用明确包含温水佳树的官方活动阵容图，佳树单品图仍待替换。"
+      "notes": "已按 ETERNO RÉCIT 官方联动页的对应商品品类图核对。"
     },
     {
       "id": "eternorecit-nameplate-kaju",
@@ -6316,13 +5796,13 @@
       "release_date": "2025-09-12",
       "list_price_yen": 770,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-defd770be72083f640f8.jpg",
+          "path": "images/items/eternorecit-nameplate-kaju.jpg",
           "thumbnail_path": "images/thumbs/eternorecit-nameplate-kaju.webp",
           "role": "lineup",
-          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4582636976516_1_1759982704.jpg&width=400&height=400&square=1"
+          "source_url": "https://www.eternorecit.jp/images/collabo/2025/er05-makeine-a/ermkino004-011.jpg"
         }
       ],
       "sales": [
@@ -6336,7 +5816,7 @@
         {
           "url": "https://www.eternorecit.jp/collabo/anime-game/202505er-makeine-a.html",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -6345,7 +5825,7 @@
         "爱心Q版",
         "温水佳树"
       ],
-      "notes": "Eterno Récit 活动页原商品图链接已失效，暂用同活动官方8人阵容图。 当前使用明确包含温水佳树的官方活动阵容图，佳树单品图仍待替换。"
+      "notes": "已按 ETERNO RÉCIT 官方联动页的对应商品品类图核对。"
     },
     {
       "id": "eternorecit-mini-card-set-a",
@@ -6368,13 +5848,13 @@
       "release_date": "2025-09-12",
       "list_price_yen": 550,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-defd770be72083f640f8.jpg",
+          "path": "images/items/eternorecit-mini-card-set-a.jpg",
           "thumbnail_path": "images/thumbs/eternorecit-mini-card-set-a.webp",
           "role": "lineup",
-          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4582636976516_1_1759982704.jpg&width=400&height=400&square=1"
+          "source_url": "https://www.eternorecit.jp/images/collabo/2025/er05-makeine-a/ermkino002.jpg"
         }
       ],
       "sales": [
@@ -6388,7 +5868,7 @@
         {
           "url": "https://www.eternorecit.jp/collabo/anime-game/202505er-makeine-a.html",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -6397,7 +5877,7 @@
         "爱心Q版",
         "温水佳树"
       ],
-      "notes": "Eterno Récit 活动页原商品图链接已失效，暂用同活动官方8人阵容图。"
+      "notes": "已按 ETERNO RÉCIT 官方联动页的对应商品品类图核对。"
     },
     {
       "id": "eternorecit-keychain-kaju",
@@ -6420,13 +5900,13 @@
       "release_date": "2025-09-12",
       "list_price_yen": 880,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-defd770be72083f640f8.jpg",
+          "path": "images/items/eternorecit-keychain-kaju.jpg",
           "thumbnail_path": "images/thumbs/eternorecit-keychain-kaju.webp",
           "role": "lineup",
-          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4582636976516_1_1759982704.jpg&width=400&height=400&square=1"
+          "source_url": "https://www.eternorecit.jp/images/collabo/2025/er05-makeine-a/ermkino021-028.jpg"
         }
       ],
       "sales": [
@@ -6440,7 +5920,7 @@
         {
           "url": "https://www.eternorecit.jp/collabo/anime-game/202505er-makeine-a.html",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -6449,7 +5929,7 @@
         "爱心Q版",
         "温水佳树"
       ],
-      "notes": "Eterno Récit 活动页原商品图链接已失效，暂用同活动官方8人阵容图。 当前使用明确包含温水佳树的官方活动阵容图，佳树单品图仍待替换。"
+      "notes": "已按 ETERNO RÉCIT 官方联动页的对应商品品类图核对。"
     },
     {
       "id": "animega-chibi-2025-trading-keychain-kaju",
@@ -7025,10 +6505,10 @@
       "verification": "confirmed_text",
       "images": [
         {
-          "path": "images/items/source-5b310ed63f937bf0a89a.jpg",
+          "path": "images/items/gamers-first-anniv-sns-keychain-kaju.jpg",
           "thumbnail_path": "images/thumbs/gamers-first-anniv-sns-keychain-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/16756/6627/16756-6627-ea9f60c2922c4895f59480a6f5308775-500x500.jpg"
+          "role": "product",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/16756/6627/16756-6627-961b0df66aa7ccf13859664b1ed0dc98-800x800.jpg"
         }
       ],
       "sales": [
@@ -7042,7 +6522,7 @@
         {
           "url": "https://prtimes.jp/main/html/rd/p/000006627.000016756.html",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -7051,7 +6531,7 @@
         "温水佳树",
         "新规绘制"
       ],
-      "notes": "当前使用明确包含温水佳树的官方活动阵容图，佳树单品图仍待替换。"
+      "notes": null
     },
     {
       "id": "gamers-first-anniv-mini-art",
@@ -7129,10 +6609,10 @@
       "verification": "confirmed_text",
       "images": [
         {
-          "path": "images/items/source-5b310ed63f937bf0a89a.jpg",
+          "path": "images/items/gamers-first-anniv-microfiber-kaju.jpg",
           "thumbnail_path": "images/thumbs/gamers-first-anniv-microfiber-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/16756/6627/16756-6627-ea9f60c2922c4895f59480a6f5308775-500x500.jpg"
+          "role": "product",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/16756/6627/16756-6627-d05e4a737ddacf7e008da6e024c89c6b-800x800.jpg"
         }
       ],
       "sales": [
@@ -7146,7 +6626,7 @@
         {
           "url": "https://prtimes.jp/main/html/rd/p/000006627.000016756.html",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -7155,7 +6635,7 @@
         "温水佳树",
         "新规绘制"
       ],
-      "notes": "当前使用明确包含温水佳树的官方活动阵容图，佳树单品图仍待替换。"
+      "notes": null
     },
     {
       "id": "gamers-first-anniv-holo-stand-kaju",
@@ -7181,10 +6661,10 @@
       "verification": "confirmed_text",
       "images": [
         {
-          "path": "images/items/source-5b310ed63f937bf0a89a.jpg",
+          "path": "images/items/gamers-first-anniv-holo-stand-kaju.jpg",
           "thumbnail_path": "images/thumbs/gamers-first-anniv-holo-stand-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/16756/6627/16756-6627-ea9f60c2922c4895f59480a6f5308775-500x500.jpg"
+          "role": "product",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/16756/6627/16756-6627-675cb1bf9054712ab9588895d0dd38b5-800x800.jpg"
         }
       ],
       "sales": [
@@ -7198,7 +6678,7 @@
         {
           "url": "https://prtimes.jp/main/html/rd/p/000006627.000016756.html",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -7207,7 +6687,7 @@
         "温水佳树",
         "新规绘制"
       ],
-      "notes": "当前使用明确包含温水佳树的官方活动阵容图，佳树单品图仍待替换。"
+      "notes": null
     },
     {
       "id": "gamers-first-anniv-holo-badge",
@@ -7337,10 +6817,10 @@
       "verification": "confirmed_text",
       "images": [
         {
-          "path": "images/items/source-5b310ed63f937bf0a89a.jpg",
+          "path": "images/items/gamers-first-anniv-cutout-board-kaju.jpg",
           "thumbnail_path": "images/thumbs/gamers-first-anniv-cutout-board-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/16756/6627/16756-6627-ea9f60c2922c4895f59480a6f5308775-500x500.jpg"
+          "role": "product",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/16756/6627/16756-6627-528d4859cd4542883c80a22a914e0e09-500x500.jpg"
         }
       ],
       "sales": [
@@ -7354,7 +6834,7 @@
         {
           "url": "https://prtimes.jp/main/html/rd/p/000006627.000016756.html",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -7363,7 +6843,7 @@
         "温水佳树",
         "新规绘制"
       ],
-      "notes": "当前使用明确包含温水佳树的官方活动阵容图，佳树单品图仍待替换。"
+      "notes": null
     },
     {
       "id": "gamers-first-anniv-clock",
@@ -7698,27 +7178,27 @@
       "release_date": "2025-07-09",
       "list_price_yen": 990,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-d80b6bddc8ae0db299a9.jpg",
+          "path": "images/items/cider-mini-stand-kaju.jpg",
           "thumbnail_path": "images/thumbs/cider-mini-stand-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://www.curtain-damashii.com/index_ag/wp/wp-content/uploads/badgebox_makeine01_1.jpg"
+          "role": "product",
+          "source_url": "https://www.curtain-damashii.com/index_ag/wp/wp-content/uploads/astand_makeine05-mini_1.jpg"
         }
       ],
       "sales": [
         {
           "seller": "カーテン魂",
-          "phase": "event_sale",
-          "url": "https://www.curtain-damashii.com/item/tag/makeine/"
+          "phase": "general_sale",
+          "url": "https://www.curtain-damashii.com/item/astand_makeine05-mini/"
         }
       ],
       "sources": [
         {
-          "url": "https://www.curtain-damashii.com/item/tag/makeine/",
+          "url": "https://www.curtain-damashii.com/item/astand_makeine05-mini/",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -7750,27 +7230,27 @@
       "release_date": "2025-07-09",
       "list_price_yen": 990,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-d80b6bddc8ae0db299a9.jpg",
+          "path": "images/items/cider-keychain-kaju.jpg",
           "thumbnail_path": "images/thumbs/cider-keychain-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://www.curtain-damashii.com/index_ag/wp/wp-content/uploads/badgebox_makeine01_1.jpg"
+          "role": "product",
+          "source_url": "https://www.curtain-damashii.com/index_ag/wp/wp-content/uploads/keyholderacr_makeine05_1.jpg"
         }
       ],
       "sales": [
         {
           "seller": "カーテン魂",
-          "phase": "event_sale",
-          "url": "https://www.curtain-damashii.com/item/tag/makeine/"
+          "phase": "general_sale",
+          "url": "https://www.curtain-damashii.com/item/keyholderacr_makeine05/"
         }
       ],
       "sources": [
         {
-          "url": "https://www.curtain-damashii.com/item/tag/makeine/",
+          "url": "https://www.curtain-damashii.com/item/keyholderacr_makeine05/",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -7802,27 +7282,27 @@
       "release_date": "2025-07-09",
       "list_price_yen": 990,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-d80b6bddc8ae0db299a9.jpg",
+          "path": "images/items/cider-acrylic-block-kaju.jpg",
           "thumbnail_path": "images/thumbs/cider-acrylic-block-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://www.curtain-damashii.com/index_ag/wp/wp-content/uploads/badgebox_makeine01_1.jpg"
+          "role": "product",
+          "source_url": "https://www.curtain-damashii.com/index_ag/wp/wp-content/uploads/ablock_makeine05_1.jpg"
         }
       ],
       "sales": [
         {
           "seller": "カーテン魂",
-          "phase": "event_sale",
-          "url": "https://www.curtain-damashii.com/item/tag/makeine/"
+          "phase": "general_sale",
+          "url": "https://www.curtain-damashii.com/item/ablock_makeine05/"
         }
       ],
       "sources": [
         {
-          "url": "https://www.curtain-damashii.com/item/tag/makeine/",
+          "url": "https://www.curtain-damashii.com/item/ablock_makeine05/",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -8689,7 +8169,7 @@
       "global_product_id": "sanrio-big-figure-kaju",
       "character_id": "nukumizu-kaju",
       "name_ja": "箔押しBIGアクリルフィギュア 温水佳樹×ポムポムプリン",
-      "name_zh": "三丽鸥联动 烫印大型亚克力立牌 温水佳树×布丁狗",
+      "name_zh": "三丽鸥联动 烫金BIG亚克力立牌 温水佳树×布丁狗",
       "category_id": "acrylic_stand",
       "campaign_id": "sanrio-characters-2025",
       "manufacturer_id": "up-fields-premiumshop",
@@ -9189,7 +8669,7 @@
       "global_product_id": "bellhouse-gyugyutto-keychain-kaju",
       "character_id": "nukumizu-kaju",
       "name_ja": "ぎゅぎゅっとアクリルキーホルダー 温水佳樹",
-      "name_zh": "ぎゅぎゅっと 亚克力挂件 温水佳树",
+      "name_zh": "Bell House ぎゅぎゅっと 亚克力挂件 温水佳树",
       "category_id": "acrylic_keychain",
       "campaign_id": "bellhouse-gyugyutto-2025",
       "manufacturer_id": "bell-house",
@@ -9389,7 +8869,7 @@
       "global_product_id": "bellhouse-memories-mini-stand-b-kaju",
       "character_id": "nukumizu-kaju",
       "name_ja": "メモリーズミニスタンド 温水佳樹B",
-      "name_zh": "Memories 迷你立牌 温水佳树 B",
+      "name_zh": "Bell House Memories 迷你立牌 温水佳树 B",
       "category_id": "acrylic_stand",
       "campaign_id": "bellhouse-memories-2025",
       "manufacturer_id": "bell-house",
@@ -9439,7 +8919,7 @@
       "global_product_id": "bellhouse-memories-mini-stand-a-kaju",
       "character_id": "nukumizu-kaju",
       "name_ja": "メモリーズミニスタンド 温水佳樹A",
-      "name_zh": "Memories 迷你立牌 温水佳树 A",
+      "name_zh": "Bell House Memories 迷你立牌 温水佳树 A",
       "category_id": "acrylic_stand",
       "campaign_id": "bellhouse-memories-2025",
       "manufacturer_id": "bell-house",
@@ -9489,7 +8969,7 @@
       "global_product_id": "bellhouse-memories-badge-b-kaju",
       "character_id": "nukumizu-kaju",
       "name_ja": "メモリーズ缶バッジ 温水佳樹B",
-      "name_zh": "Memories 徽章 温水佳树 B",
+      "name_zh": "Bell House Memories 徽章 温水佳树 B",
       "category_id": "can_badge",
       "campaign_id": "bellhouse-memories-2025",
       "manufacturer_id": "bell-house",
@@ -9539,7 +9019,7 @@
       "global_product_id": "bellhouse-memories-badge-a-kaju",
       "character_id": "nukumizu-kaju",
       "name_ja": "メモリーズ缶バッジ 温水佳樹A",
-      "name_zh": "Memories 徽章 温水佳树 A",
+      "name_zh": "Bell House Memories 徽章 温水佳树 A",
       "category_id": "can_badge",
       "campaign_id": "bellhouse-memories-2025",
       "manufacturer_id": "bell-house",
@@ -10359,10 +9839,10 @@
       "verification": "confirmed_text",
       "images": [
         {
-          "path": "images/items/source-35678c788018abd2dd19.jpg",
+          "path": "images/items/loft-cheerleader-tshirt-kaju.jpg",
           "thumbnail_path": "images/thumbs/loft-cheerleader-tshirt-kaju.webp",
           "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/90064/32/90064-32-a857b0567e7fe1715bdc4645df23a2d1-2373x1425.jpg"
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/90064/32/90064-32-8b4c78c036251ebbaa98217077e9087f-3900x969.jpg"
         }
       ],
       "sales": [
@@ -10386,7 +9866,7 @@
         "温水佳树",
         "新规绘制"
       ],
-      "notes": "当前使用明确包含温水佳树的官方活动阵容图，佳树单品图仍待替换。"
+      "notes": "已按 LOFT 官方新闻稿中的对应品类商品图核对。"
     },
     {
       "id": "loft-cheerleader-trading-badge",
@@ -10403,11 +9883,11 @@
         "total_variants": 9
       },
       "spec": {
-        "size": null,
-        "material": null
+        "size": "直径56mm",
+        "material": "马口铁、合金、薄膜、纸"
       },
       "release_date": "2024-11-13",
-      "list_price_yen": null,
+      "list_price_yen": 550,
       "official_status": "official",
       "verification": "confirmed_text",
       "images": [
@@ -10465,10 +9945,10 @@
       "verification": "confirmed_text",
       "images": [
         {
-          "path": "images/items/source-35678c788018abd2dd19.jpg",
+          "path": "images/items/loft-cheerleader-stand-kaju.jpg",
           "thumbnail_path": "images/thumbs/loft-cheerleader-stand-kaju.webp",
           "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/90064/32/90064-32-a857b0567e7fe1715bdc4645df23a2d1-2373x1425.jpg"
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/90064/32/90064-32-d18033691487c2f5f1fe341aecbe50cf-3014x1965.jpg"
         }
       ],
       "sales": [
@@ -10492,7 +9972,7 @@
         "温水佳树",
         "新规绘制"
       ],
-      "notes": "当前使用明确包含温水佳树的官方活动阵容图，佳树单品图仍待替换。"
+      "notes": "已按 LOFT 官方新闻稿中的对应品类商品图核对。"
     },
     {
       "id": "loft-cheerleader-name-badge",
@@ -10562,11 +10042,11 @@
         "total_variants": 8
       },
       "spec": {
-        "size": null,
-        "material": null
+        "size": "高约50mm",
+        "material": "亚克力"
       },
       "release_date": "2024-11-13",
-      "list_price_yen": null,
+      "list_price_yen": 660,
       "official_status": "official",
       "verification": "confirmed_text",
       "images": [
@@ -10624,10 +10104,10 @@
       "verification": "confirmed_text",
       "images": [
         {
-          "path": "images/items/source-35678c788018abd2dd19.jpg",
+          "path": "images/items/loft-cheerleader-illustration-card-kaju.jpg",
           "thumbnail_path": "images/thumbs/loft-cheerleader-illustration-card-kaju.webp",
           "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/90064/32/90064-32-a857b0567e7fe1715bdc4645df23a2d1-2373x1425.jpg"
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/90064/32/90064-32-47ed90894b3370bca5444c4ad0fc0779-3900x3900.jpg"
         }
       ],
       "sales": [
@@ -10651,7 +10131,7 @@
         "温水佳树",
         "新规绘制"
       ],
-      "notes": "满额特典，非单独销售。 当前使用明确包含温水佳树的官方活动阵容图，佳树单品图仍待替换。"
+      "notes": "已按 LOFT 官方新闻稿中的对应品类商品图核对。"
     },
     {
       "id": "loft-cheerleader-clear-file-anna-kaju",
@@ -10677,10 +10157,10 @@
       "verification": "confirmed_text",
       "images": [
         {
-          "path": "images/items/source-35678c788018abd2dd19.jpg",
+          "path": "images/items/loft-cheerleader-clear-file-anna-kaju.jpg",
           "thumbnail_path": "images/thumbs/loft-cheerleader-clear-file-anna-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/90064/32/90064-32-a857b0567e7fe1715bdc4645df23a2d1-2373x1425.jpg"
+          "role": "product",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/90064/32/90064-32-00803d44aca880dc4188bd8ac18c85bc-1819x2576.jpg"
         }
       ],
       "sales": [
@@ -10704,7 +10184,7 @@
         "温水佳树",
         "新规绘制"
       ],
-      "notes": "当前使用明确包含温水佳树的官方活动阵容图，佳树单品图仍待替换。"
+      "notes": "已按 LOFT 官方新闻稿中的对应品类商品图核对。"
     },
     {
       "id": "loft-cheerleader-book-cover",
@@ -11530,13 +11010,13 @@
       "release_date": "2024-09-27",
       "list_price_yen": null,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-abc3fd1f8d8c38e77059.jpg",
+          "path": "images/items/cure-maid-collab-card-kaju.jpg",
           "thumbnail_path": "images/thumbs/cure-maid-collab-card-kaju.webp",
           "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/99047/945/99047-945-2667355109aa19420a85398d271e60e6-1280x720.jpg"
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/99047/938/99047-938-281654e00bf7ed9c1979a67d51a0f586-849x1200.jpg"
         }
       ],
       "sales": [
@@ -11550,7 +11030,7 @@
         {
           "url": "https://prtimes.jp/main/html/rd/p/000000945.000099047.html",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -11558,7 +11038,7 @@
         "COSPA",
         "温水佳树"
       ],
-      "notes": "点购联动餐饮每份赠1张，或购买相关商品每满2,000日元赠1张；非单独销售。 当前使用明确包含温水佳树的官方活动阵容图，佳树单品图仍待替换。"
+      "notes": "已按同活动的官方商品品类图与其他角色项目交叉核对。"
     },
     {
       "id": "cospa-cure-maid-mug-group",
@@ -12544,568 +12024,6 @@
       "notes": null
     },
     {
-      "id": "thechara-valentine-tapestry-kaju",
-      "global_product_id": "thechara-valentine-tapestry-kaju",
-      "character_id": "nukumizu-kaju",
-      "name_ja": "特大タペストリー 温水佳樹 バレンタイン ver.",
-      "name_zh": "情人节 特大挂毯 温水佳树",
-      "category_id": "tapestry",
-      "campaign_id": "valentine-version",
-      "manufacturer_id": "contents-seed-the-chara",
-      "variant": "温水佳树",
-      "sale_format": {
-        "type": "single",
-        "total_variants": null
-      },
-      "spec": {
-        "size": null,
-        "material": null
-      },
-      "release_date": null,
-      "list_price_yen": 8800,
-      "official_status": "official",
-      "verification": "confirmed_text",
-      "images": [
-        {
-          "path": "images/items/source-96aee5fd74bc7cf953dc.jpg",
-          "thumbnail_path": "images/thumbs/thechara-valentine-tapestry-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=01271413_69784997b48cb.jpg&width=1200&height=630"
-        }
-      ],
-      "sales": [
-        {
-          "seller": "ゲーマーズ",
-          "phase": "general_sale",
-          "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7160"
-        }
-      ],
-      "sources": [
-        {
-          "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7160",
-          "type": "official",
-          "checked_at": "2026-10-04"
-        }
-      ],
-      "tags": [
-        "动画版",
-        "情人节",
-        "温水佳树",
-        "新规绘制"
-      ],
-      "notes": "资料图待补 当前使用明确包含温水佳树的官方活动阵容图，佳树单品图仍待替换。"
-    },
-    {
-      "id": "thechara-valentine-stand-kaju",
-      "global_product_id": "thechara-valentine-stand-kaju",
-      "character_id": "nukumizu-kaju",
-      "name_ja": "デカアクリルスタンド 温水佳樹 バレンタイン ver.",
-      "name_zh": "情人节 大型亚克力立牌 温水佳树",
-      "category_id": "acrylic_stand",
-      "campaign_id": "valentine-version",
-      "manufacturer_id": "contents-seed-the-chara",
-      "variant": "温水佳树",
-      "sale_format": {
-        "type": "single",
-        "total_variants": null
-      },
-      "spec": {
-        "size": "全高约 180mm 以内",
-        "material": "アクリル"
-      },
-      "release_date": null,
-      "list_price_yen": 2200,
-      "official_status": "official",
-      "verification": "confirmed_text",
-      "images": [
-        {
-          "path": "images/items/source-96aee5fd74bc7cf953dc.jpg",
-          "thumbnail_path": "images/thumbs/thechara-valentine-stand-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=01271413_69784997b48cb.jpg&width=1200&height=630"
-        }
-      ],
-      "sales": [
-        {
-          "seller": "ゲーマーズ",
-          "phase": "event_presale",
-          "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7160"
-        }
-      ],
-      "sources": [
-        {
-          "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7160",
-          "type": "official",
-          "checked_at": "2026-10-04"
-        }
-      ],
-      "tags": [
-        "动画版",
-        "情人节",
-        "温水佳树",
-        "新规绘制"
-      ],
-      "notes": "商品代码 0_4570179858598；资料图待补 当前使用明确包含温水佳树的官方活动阵容图，佳树单品图仍待替换。"
-    },
-    {
-      "id": "thechara-valentine-mug",
-      "global_product_id": "thechara-valentine-mug",
-      "character_id": "nukumizu-kaju",
-      "name_ja": "マグカップ バレンタイン ver.",
-      "name_zh": "情人节 马克杯",
-      "category_id": "tableware",
-      "campaign_id": "valentine-version",
-      "manufacturer_id": "contents-seed",
-      "variant": "群像图案包含温水佳树",
-      "sale_format": {
-        "type": "single",
-        "total_variants": null
-      },
-      "spec": {
-        "size": null,
-        "material": null
-      },
-      "release_date": null,
-      "list_price_yen": 1980,
-      "official_status": "official",
-      "verification": "confirmed_text",
-      "images": [
-        {
-          "path": "images/items/source-91be0e27b4c00ce1ebfb.jpg",
-          "thumbnail_path": "images/thumbs/thechara-valentine-mug.webp",
-          "role": "lineup",
-          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=01271419_69784aff7bbbf.jpg&width=1200&height=630"
-        }
-      ],
-      "sales": [
-        {
-          "seller": "コンテンツシード",
-          "phase": "general_sale",
-          "url": "https://www.gamers.co.jp/pn/pd/10870420/"
-        }
-      ],
-      "sources": [
-        {
-          "url": "https://www.gamers.co.jp/pn/pd/10870420/",
-          "type": "seller",
-          "checked_at": "2026-10-04"
-        }
-      ],
-      "tags": [
-        "情人节",
-        "温水佳树"
-      ],
-      "notes": null
-    },
-    {
-      "id": "thechara-valentine-mini-art",
-      "global_product_id": "thechara-valentine-mini-art",
-      "character_id": "nukumizu-kaju",
-      "name_ja": "ミニアクリルアート バレンタイン ver.",
-      "name_zh": "情人节 迷你亚克力艺术板",
-      "category_id": "acrylic_art",
-      "campaign_id": "valentine-version",
-      "manufacturer_id": "contents-seed",
-      "variant": "群像图案包含温水佳树",
-      "sale_format": {
-        "type": "single",
-        "total_variants": null
-      },
-      "spec": {
-        "size": null,
-        "material": null
-      },
-      "release_date": null,
-      "list_price_yen": 2640,
-      "official_status": "official",
-      "verification": "confirmed_text",
-      "images": [
-        {
-          "path": "images/items/source-3456f1f0c67522e8bc12.jpg",
-          "thumbnail_path": "images/thumbs/thechara-valentine-mini-art.webp",
-          "role": "lineup",
-          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=01271417_69784a659b7d9.jpg&width=1200&height=630"
-        }
-      ],
-      "sales": [
-        {
-          "seller": "コンテンツシード",
-          "phase": "general_sale",
-          "url": "https://www.gamers.co.jp/pn/pd/10870408/"
-        }
-      ],
-      "sources": [
-        {
-          "url": "https://www.gamers.co.jp/pn/pd/10870408/",
-          "type": "seller",
-          "checked_at": "2026-10-04"
-        }
-      ],
-      "tags": [
-        "情人节",
-        "温水佳树"
-      ],
-      "notes": null
-    },
-    {
-      "id": "thechara-valentine-microfiber-kaju",
-      "global_product_id": "thechara-valentine-microfiber-kaju",
-      "character_id": "nukumizu-kaju",
-      "name_ja": "マイクロファイバー 温水佳樹 バレンタイン ver.",
-      "name_zh": "情人节 超细纤维布 温水佳树",
-      "category_id": "fabric_goods",
-      "campaign_id": "valentine-version",
-      "manufacturer_id": "contents-seed-the-chara",
-      "variant": "温水佳树",
-      "sale_format": {
-        "type": "single",
-        "total_variants": null
-      },
-      "spec": {
-        "size": null,
-        "material": "超细纤维"
-      },
-      "release_date": null,
-      "list_price_yen": 825,
-      "official_status": "official",
-      "verification": "confirmed_text",
-      "images": [
-        {
-          "path": "images/items/source-96aee5fd74bc7cf953dc.jpg",
-          "thumbnail_path": "images/thumbs/thechara-valentine-microfiber-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=01271413_69784997b48cb.jpg&width=1200&height=630"
-        }
-      ],
-      "sales": [
-        {
-          "seller": "ゲーマーズ",
-          "phase": "general_sale",
-          "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7160"
-        }
-      ],
-      "sources": [
-        {
-          "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7160",
-          "type": "official",
-          "checked_at": "2026-10-04"
-        }
-      ],
-      "tags": [
-        "动画版",
-        "情人节",
-        "温水佳树",
-        "新规绘制"
-      ],
-      "notes": "资料图待补 当前使用明确包含温水佳树的官方活动阵容图，佳树单品图仍待替换。"
-    },
-    {
-      "id": "thechara-valentine-memorial-art",
-      "global_product_id": "thechara-valentine-memorial-art",
-      "character_id": "nukumizu-kaju",
-      "name_ja": "メモリアルアート バレンタイン ver.",
-      "name_zh": "情人节 纪念画",
-      "category_id": "acrylic_art",
-      "campaign_id": "valentine-version",
-      "manufacturer_id": "contents-seed",
-      "variant": "群像图案包含温水佳树",
-      "sale_format": {
-        "type": "single",
-        "total_variants": null
-      },
-      "spec": {
-        "size": null,
-        "material": null
-      },
-      "release_date": null,
-      "list_price_yen": 16500,
-      "official_status": "official",
-      "verification": "confirmed_text",
-      "images": [
-        {
-          "path": "images/items/source-88e429b25f9ad3c168ce.jpg",
-          "thumbnail_path": "images/thumbs/thechara-valentine-memorial-art.webp",
-          "role": "lineup",
-          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=01271427_69784cd633c6a.jpg&width=1200&height=630"
-        }
-      ],
-      "sales": [
-        {
-          "seller": "コンテンツシード",
-          "phase": "general_sale",
-          "url": "https://www.gamers.co.jp/pn/pd/10870427/"
-        }
-      ],
-      "sources": [
-        {
-          "url": "https://www.gamers.co.jp/pn/pd/10870427/",
-          "type": "seller",
-          "checked_at": "2026-10-04"
-        }
-      ],
-      "tags": [
-        "情人节",
-        "温水佳树"
-      ],
-      "notes": null
-    },
-    {
-      "id": "thechara-valentine-lottery-figure-kaju",
-      "global_product_id": "thechara-valentine-lottery-figure-kaju",
-      "character_id": "nukumizu-kaju",
-      "name_ja": "A賞 特大アクリルフィギュア 温水佳樹 バレンタイン ver.",
-      "name_zh": "情人节 A奖特大亚克力立牌 温水佳树",
-      "category_id": "acrylic_stand",
-      "campaign_id": "valentine-version",
-      "manufacturer_id": "gamers-content-seed",
-      "variant": "温水佳树（抽选奖品）",
-      "sale_format": {
-        "type": "random",
-        "total_variants": 6
-      },
-      "spec": {
-        "size": "约30cm",
-        "material": "アクリル"
-      },
-      "release_date": null,
-      "list_price_yen": null,
-      "official_status": "official",
-      "verification": "confirmed_text",
-      "images": [
-        {
-          "path": "images/items/source-96aee5fd74bc7cf953dc.jpg",
-          "thumbnail_path": "images/thumbs/thechara-valentine-lottery-figure-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=01271413_69784997b48cb.jpg&width=1200&height=630"
-        }
-      ],
-      "sales": [
-        {
-          "seller": "ゲーマーズ",
-          "phase": "lottery_prize",
-          "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7160"
-        }
-      ],
-      "sources": [
-        {
-          "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7160",
-          "type": "official",
-          "checked_at": "2026-10-04"
-        }
-      ],
-      "tags": [
-        "动画版",
-        "情人节",
-        "温水佳树",
-        "新规绘制"
-      ],
-      "notes": "店铺抽奖A赏；图片为同系列天爱星角色图参考。 当前使用明确包含温水佳树的官方活动阵容图，佳树单品图仍待替换。"
-    },
-    {
-      "id": "thechara-valentine-keychain-kaju",
-      "global_product_id": "thechara-valentine-keychain-kaju",
-      "character_id": "nukumizu-kaju",
-      "name_ja": "ホログラムアクリルキーホルダー 温水佳樹 バレンタイン ver.",
-      "name_zh": "情人节 镭射亚克力挂件 温水佳树",
-      "category_id": "acrylic_keychain",
-      "campaign_id": "valentine-version",
-      "manufacturer_id": "contents-seed-the-chara",
-      "variant": "温水佳树",
-      "sale_format": {
-        "type": "single",
-        "total_variants": null
-      },
-      "spec": {
-        "size": null,
-        "material": "アクリル"
-      },
-      "release_date": null,
-      "list_price_yen": 990,
-      "official_status": "official",
-      "verification": "confirmed_text",
-      "images": [
-        {
-          "path": "images/items/source-96aee5fd74bc7cf953dc.jpg",
-          "thumbnail_path": "images/thumbs/thechara-valentine-keychain-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=01271413_69784997b48cb.jpg&width=1200&height=630"
-        }
-      ],
-      "sales": [
-        {
-          "seller": "ゲーマーズ",
-          "phase": "event_presale",
-          "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7160"
-        }
-      ],
-      "sources": [
-        {
-          "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7160",
-          "type": "official",
-          "checked_at": "2026-10-04"
-        }
-      ],
-      "tags": [
-        "动画版",
-        "情人节",
-        "温水佳树",
-        "新规绘制"
-      ],
-      "notes": "资料图待补 当前使用明确包含温水佳树的官方活动阵容图，佳树单品图仍待替换。"
-    },
-    {
-      "id": "thechara-valentine-deskmat",
-      "global_product_id": "thechara-valentine-deskmat",
-      "character_id": "nukumizu-kaju",
-      "name_ja": "ラバーデスクマット バレンタイン ver.",
-      "name_zh": "情人节 橡胶桌垫",
-      "category_id": "stationery",
-      "campaign_id": "valentine-version",
-      "manufacturer_id": "contents-seed",
-      "variant": "群像图案包含温水佳树",
-      "sale_format": {
-        "type": "single",
-        "total_variants": null
-      },
-      "spec": {
-        "size": null,
-        "material": null
-      },
-      "release_date": null,
-      "list_price_yen": 4400,
-      "official_status": "official",
-      "verification": "confirmed_text",
-      "images": [
-        {
-          "path": "images/items/source-273879b9dfd15c6aa4ba.jpg",
-          "thumbnail_path": "images/thumbs/thechara-valentine-deskmat.webp",
-          "role": "lineup",
-          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=01271419_69784ad955c60.jpg&width=1200&height=630"
-        }
-      ],
-      "sales": [
-        {
-          "seller": "コンテンツシード",
-          "phase": "general_sale",
-          "url": "https://www.gamers.co.jp/pn/pd/10870417/"
-        }
-      ],
-      "sources": [
-        {
-          "url": "https://www.gamers.co.jp/pn/pd/10870417/",
-          "type": "seller",
-          "checked_at": "2026-10-04"
-        }
-      ],
-      "tags": [
-        "情人节",
-        "温水佳树"
-      ],
-      "notes": null
-    },
-    {
-      "id": "thechara-valentine-bromide-kaju",
-      "global_product_id": "thechara-valentine-bromide-kaju",
-      "character_id": "nukumizu-kaju",
-      "name_ja": "購入特典 ブロマイド 温水佳樹 バレンタイン ver.",
-      "name_zh": "情人节 满额特典照片卡 温水佳树",
-      "category_id": "card",
-      "campaign_id": "valentine-version",
-      "manufacturer_id": "gamers-content-seed",
-      "variant": "温水佳树（随机特典）",
-      "sale_format": {
-        "type": "random",
-        "total_variants": 7
-      },
-      "spec": {
-        "size": null,
-        "material": null
-      },
-      "release_date": null,
-      "list_price_yen": null,
-      "official_status": "official",
-      "verification": "confirmed_text",
-      "images": [
-        {
-          "path": "images/items/source-96aee5fd74bc7cf953dc.jpg",
-          "thumbnail_path": "images/thumbs/thechara-valentine-bromide-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=01271413_69784997b48cb.jpg&width=1200&height=630"
-        }
-      ],
-      "sales": [
-        {
-          "seller": "ゲーマーズ",
-          "phase": "purchase_bonus",
-          "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7160"
-        }
-      ],
-      "sources": [
-        {
-          "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7160",
-          "type": "official",
-          "checked_at": "2026-10-04"
-        }
-      ],
-      "tags": [
-        "动画版",
-        "情人节",
-        "温水佳树",
-        "新规绘制"
-      ],
-      "notes": "每购买活动商品3,000日元随机赠送1枚；图片为同系列角色图参考。 当前使用明确包含温水佳树的官方活动阵容图，佳树单品图仍待替换。"
-    },
-    {
-      "id": "thechara-valentine-badge",
-      "global_product_id": "thechara-valentine-badge",
-      "character_id": "nukumizu-kaju",
-      "name_ja": "ホログラムカンバッジ（ブラインド）バレンタイン ver.",
-      "name_zh": "情人节 随机镭射徽章",
-      "category_id": "can_badge",
-      "campaign_id": "valentine-version",
-      "manufacturer_id": "contents-seed",
-      "variant": "随机款式包含温水佳树",
-      "sale_format": {
-        "type": "random",
-        "total_variants": 6
-      },
-      "spec": {
-        "size": null,
-        "material": null
-      },
-      "release_date": null,
-      "list_price_yen": 660,
-      "official_status": "official",
-      "verification": "confirmed_text",
-      "images": [
-        {
-          "path": "images/items/source-96aee5fd74bc7cf953dc.jpg",
-          "thumbnail_path": "images/thumbs/thechara-valentine-badge.webp",
-          "role": "lineup",
-          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=01271413_69784997b48cb.jpg&width=1200&height=630"
-        }
-      ],
-      "sales": [
-        {
-          "seller": "コンテンツシード",
-          "phase": "general_sale",
-          "url": "https://www.gamers.co.jp/pn/pd/10870393/"
-        }
-      ],
-      "sources": [
-        {
-          "url": "https://www.gamers.co.jp/pn/pd/10870393/",
-          "type": "seller",
-          "checked_at": "2026-10-04"
-        }
-      ],
-      "tags": [
-        "情人节",
-        "温水佳树"
-      ],
-      "notes": null
-    },
-    {
       "id": "suzuki-haruka-trading-metallic-badge",
       "global_product_id": "suzuki-haruka-trading-metallic-badge",
       "character_id": "nukumizu-kaju",
@@ -13476,13 +12394,13 @@
       "release_date": null,
       "list_price_yen": null,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-3e989e6a29ed68711781.webp",
+          "path": "images/items/lifecard-point-stand-keyholder-kaju.webp",
           "thumbnail_path": "images/thumbs/lifecard-point-stand-keyholder-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://www.lifecard.co.jp/lp/makeine/assets/img/cp_present.webp"
+          "role": "product",
+          "source_url": "https://www.lifecard.co.jp/lp/makeine/assets/img/change04.webp"
         }
       ],
       "sales": [
@@ -13496,7 +12414,7 @@
         {
           "url": "https://www.lifecard.co.jp/lp/makeine/",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -13505,7 +12423,7 @@
         "积分兑换",
         "温水佳树"
       ],
-      "notes": "需使用380点Life Card积分兑换，非一般销售商品。 当前使用明确包含温水佳树的官方活动阵容图，佳树单品图仍待替换。"
+      "notes": "已按 Life Card 官方积分兑换区的角色单品图核对。"
     },
     {
       "id": "lifecard-entry-wire-keychain",
@@ -13665,7 +12583,7 @@
       "id": "keyth-kemomimi-stand-kaju",
       "global_product_id": "keyth-kemomimi-stand-kaju",
       "character_id": "nukumizu-kaju",
-      "name_ja": "アクリルスタンド 温水佳樹 けもみみパーカー",
+      "name_ja": "アクリルスタンド 温水佳樹／ケモミミパーカー",
       "name_zh": "兽耳连帽衫 亚克力立牌 温水佳树",
       "category_id": "acrylic_stand",
       "campaign_id": "kemomimi-parka",
@@ -13695,14 +12613,14 @@
         {
           "seller": "Animate",
           "phase": "general_sale",
-          "url": "https://www.animate-onlineshop.jp/pd/3496860/"
+          "url": "https://www.animate-onlineshop.jp/pd/3496854/"
         }
       ],
       "sources": [
         {
-          "url": "https://www.animate-onlineshop.jp/pd/3496860/",
+          "url": "https://www.animate-onlineshop.jp/pd/3496854/",
           "type": "seller",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -13817,7 +12735,7 @@
       "id": "keyth-kemomimi-keychain-kaju",
       "global_product_id": "keyth-kemomimi-keychain-kaju",
       "character_id": "nukumizu-kaju",
-      "name_ja": "アクリルキーホルダー 温水佳樹 けもみみパーカー",
+      "name_ja": "アクリルキーホルダー 温水佳樹／ケモミミパーカー",
       "name_zh": "兽耳连帽衫 亚克力挂件 温水佳树",
       "category_id": "acrylic_keychain",
       "campaign_id": "kemomimi-parka",
@@ -13867,7 +12785,7 @@
       "id": "keyth-kemomimi-block-kaju",
       "global_product_id": "keyth-kemomimi-block-kaju",
       "character_id": "nukumizu-kaju",
-      "name_ja": "ダイカットアクリルブロック 温水佳樹 けもみみパーカー",
+      "name_ja": "ダイカットアクリルブロック 温水佳樹／ケモミミパーカー",
       "name_zh": "兽耳连帽衫 异形亚克力砖 温水佳树",
       "category_id": "acrylic_art",
       "campaign_id": "kemomimi-parka",
@@ -13897,14 +12815,14 @@
         {
           "seller": "Animate",
           "phase": "general_sale",
-          "url": "https://www.animate-onlineshop.jp/pd/3496861/"
+          "url": "https://www.animate-onlineshop.jp/pd/3496846/"
         }
       ],
       "sources": [
         {
-          "url": "https://www.animate-onlineshop.jp/pd/3496861/",
+          "url": "https://www.animate-onlineshop.jp/pd/3496846/",
           "type": "seller",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -14090,10 +13008,10 @@
       "verification": "confirmed_text",
       "images": [
         {
-          "path": "images/items/source-5b310ed63f937bf0a89a.jpg",
+          "path": "images/items/gamers-first-anniv-tapestry-kaju.jpg",
           "thumbnail_path": "images/thumbs/gamers-first-anniv-tapestry-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/16756/6627/16756-6627-ea9f60c2922c4895f59480a6f5308775-500x500.jpg"
+          "role": "product",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/16756/6627/16756-6627-dad4cf71358be4893a2e1e68631346c1-800x800.jpg"
         }
       ],
       "sales": [
@@ -14107,7 +13025,7 @@
         {
           "url": "https://prtimes.jp/main/html/rd/p/000006627.000016756.html",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -14116,7 +13034,7 @@
         "温水佳树",
         "新规绘制"
       ],
-      "notes": "当前使用明确包含温水佳树的官方活动阵容图，佳树单品图仍待替换。"
+      "notes": null
     },
     {
       "id": "gamers-first-anniv-memorial-art",
@@ -14194,10 +13112,10 @@
       "verification": "confirmed_text",
       "images": [
         {
-          "path": "images/items/source-5b310ed63f937bf0a89a.jpg",
+          "path": "images/items/gamers-first-anniv-lottery-figure-kaju.jpg",
           "thumbnail_path": "images/thumbs/gamers-first-anniv-lottery-figure-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/16756/6627/16756-6627-ea9f60c2922c4895f59480a6f5308775-500x500.jpg"
+          "role": "bonus",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/16756/6627/16756-6627-adaea8214b7955a89b5368a75cd28f1d-810x425.jpg"
         }
       ],
       "sales": [
@@ -14211,7 +13129,7 @@
         {
           "url": "https://prtimes.jp/main/html/rd/p/000006627.000016756.html",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -14220,7 +13138,7 @@
         "温水佳树",
         "新规绘制"
       ],
-      "notes": "活动特典或抽选品，非单独销售。 当前使用明确包含温水佳树的官方活动阵容图，佳树单品图仍待替换。"
+      "notes": "活动特典或抽选品，非单独销售。"
     },
     {
       "id": "gamers-first-anniv-bromide-kaju",
@@ -14246,10 +13164,10 @@
       "verification": "confirmed_text",
       "images": [
         {
-          "path": "images/items/source-5b310ed63f937bf0a89a.jpg",
+          "path": "images/items/gamers-first-anniv-bromide-kaju.jpg",
           "thumbnail_path": "images/thumbs/gamers-first-anniv-bromide-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/16756/6627/16756-6627-ea9f60c2922c4895f59480a6f5308775-500x500.jpg"
+          "role": "bonus",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/16756/6627/16756-6627-cb97144c70077bc0980f21557bee716d-600x600.jpg"
         }
       ],
       "sales": [
@@ -14263,7 +13181,7 @@
         {
           "url": "https://prtimes.jp/main/html/rd/p/000006627.000016756.html",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -14272,7 +13190,7 @@
         "温水佳树",
         "新规绘制"
       ],
-      "notes": "活动特典或抽选品，非单独销售。 当前使用明确包含温水佳树的官方活动阵容图，佳树单品图仍待替换。"
+      "notes": "活动特典或抽选品，非单独销售。"
     },
     {
       "id": "gamers-broadcast-tapestry-kaju",
@@ -14445,7 +13363,7 @@
       },
       "spec": {
         "size": null,
-        "material": null
+        "material": "アクリル"
       },
       "release_date": null,
       "list_price_yen": 660,
@@ -14484,8 +13402,8 @@
       "id": "gagaga-j20260011",
       "global_product_id": "gagaga-j20260011",
       "character_id": "nukumizu-kaju",
-      "name_ja": "『負けヒロインが多すぎる！』 8.5巻 アクリルアートパネル ～パジャマ、パーティー･･･？～ B",
-      "name_zh": "小说第8.5卷亚克力艺术板 睡衣派对……？ B",
+      "name_ja": "『負けヒロインが多すぎる！』 8.5巻 アクリルアートパネル C",
+      "name_zh": "小说第 8.5 卷亚克力艺术板 C",
       "category_id": "acrylic_art",
       "campaign_id": "novel-volume-8-5",
       "manufacturer_id": "gagaga-shop-online",
@@ -14501,7 +13419,7 @@
       "release_date": null,
       "list_price_yen": 3850,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/source-cff5a5e3cb2020131af6.jpg",
@@ -14521,7 +13439,7 @@
         {
           "url": "https://lifetunes-mall.jp/shop/g/gJ20260011/",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -14535,8 +13453,8 @@
       "id": "gagaga-j20260010",
       "global_product_id": "gagaga-j20260010",
       "character_id": "nukumizu-kaju",
-      "name_ja": "『負けヒロインが多すぎる！』 8.5巻 アクリルアートパネル ～パジャマ、パーティー･･･？～ A",
-      "name_zh": "小说第8.5卷亚克力艺术板 睡衣派对……？ A",
+      "name_ja": "『負けヒロインが多すぎる！』 8.5巻 アクリルアートパネル B",
+      "name_zh": "小说第 8.5 卷亚克力艺术板 B",
       "category_id": "acrylic_art",
       "campaign_id": "novel-volume-8-5",
       "manufacturer_id": "gagaga-shop-online",
@@ -14552,7 +13470,7 @@
       "release_date": null,
       "list_price_yen": 3850,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/source-5cdab94650f70c3fe561.jpg",
@@ -14572,7 +13490,7 @@
         {
           "url": "https://lifetunes-mall.jp/shop/g/gJ20260010/",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -14586,8 +13504,8 @@
       "id": "gagaga-j20260008",
       "global_product_id": "gagaga-j20260008",
       "character_id": "nukumizu-kaju",
-      "name_ja": "『負けヒロインが多すぎる！』 8.5巻 口絵タペストリー ～パジャマ、パーティー･･･？～ B",
-      "name_zh": "小说第8.5卷彩页挂毯 睡衣派对……？ B",
+      "name_ja": "『負けヒロインが多すぎる！』 8.5巻 口絵タペストリー C",
+      "name_zh": "小说第 8.5 卷彩页挂毯 C",
       "category_id": "tapestry",
       "campaign_id": "novel-volume-8-5",
       "manufacturer_id": "gagaga-shop-online",
@@ -14603,7 +13521,7 @@
       "release_date": null,
       "list_price_yen": 3300,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/source-cca667900df6892f8316.jpg",
@@ -14623,7 +13541,7 @@
         {
           "url": "https://lifetunes-mall.jp/shop/g/gJ20260008/",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -14637,8 +13555,8 @@
       "id": "gagaga-j20260007",
       "global_product_id": "gagaga-j20260007",
       "character_id": "nukumizu-kaju",
-      "name_ja": "『負けヒロインが多すぎる！』 8.5巻 口絵タペストリー ～パジャマ、パーティー･･･？～ A",
-      "name_zh": "小说第8.5卷彩页挂毯 睡衣派对……？ A",
+      "name_ja": "『負けヒロインが多すぎる！』 8.5巻 口絵タペストリー B",
+      "name_zh": "小说第 8.5 卷彩页挂毯 B",
       "category_id": "tapestry",
       "campaign_id": "novel-volume-8-5",
       "manufacturer_id": "gagaga-shop-online",
@@ -14654,7 +13572,7 @@
       "release_date": null,
       "list_price_yen": 3300,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/source-b3ba299fa4ff976d12d7.jpg",
@@ -14674,7 +13592,7 @@
         {
           "url": "https://lifetunes-mall.jp/shop/g/gJ20260007/",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -14699,7 +13617,7 @@
         "total_variants": null
       },
       "spec": {
-        "size": null,
+        "size": "A4",
         "material": null
       },
       "release_date": null,
@@ -14900,21 +13818,21 @@
       "variant": "温水佳树款包含在随机阵容中",
       "sale_format": {
         "type": "random",
-        "total_variants": null
+        "total_variants": 9
       },
       "spec": {
         "size": null,
         "material": null
       },
-      "release_date": null,
+      "release_date": "2026-02-18",
       "list_price_yen": 500,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/source-eba8be37ecdbcfa26039.jpg",
           "thumbnail_path": "images/thumbs/gagaga-j20250040.webp",
-          "role": "product",
+          "role": "lineup",
           "source_url": "https://lifetunes-mall.jp/img/3030/goods/S/J20250040-01.jpg"
         }
       ],
@@ -14929,7 +13847,7 @@
         {
           "url": "https://lifetunes-mall.jp/shop/g/gJ20250040/",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -14937,7 +13855,7 @@
         "GAGAGA SHOP",
         "温水佳树"
       ],
-      "notes": null
+      "notes": "官方商品页确认盲抽规格；商品图为全9种阵容。"
     },
     {
       "id": "gagaga-j20250024",
@@ -15521,13 +14439,13 @@
       "release_date": null,
       "list_price_yen": 550,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-defd770be72083f640f8.jpg",
+          "path": "images/items/eternorecit-trading-badge.jpg",
           "thumbnail_path": "images/thumbs/eternorecit-trading-badge.webp",
           "role": "lineup",
-          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4582636976516_1_1759982704.jpg&width=400&height=400&square=1"
+          "source_url": "https://www.eternorecit.jp/images/collabo/2025/er05-makeine-a/ermkino001.jpg"
         }
       ],
       "sales": [
@@ -15539,16 +14457,16 @@
       ],
       "sources": [
         {
-          "url": "https://www.animate-onlineshop.jp/pn/pd/3277872/",
-          "type": "seller",
-          "checked_at": "2026-10-04"
+          "url": "https://www.eternorecit.jp/collabo/anime-game/202505er-makeine-a.html",
+          "type": "official",
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
         "随机",
         "温水佳树"
       ],
-      "notes": null
+      "notes": "已按 ETERNO RÉCIT 官方联动页的对应商品品类图核对。"
     },
     {
       "id": "eternorecit-stickers",
@@ -15571,13 +14489,13 @@
       "release_date": null,
       "list_price_yen": 770,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-cbeea8e02650d3b73052.jpg",
+          "path": "images/items/eternorecit-stickers.jpg",
           "thumbnail_path": "images/thumbs/eternorecit-stickers.webp",
           "role": "lineup",
-          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4582636976622_1_1759982706.jpg&width=400&height=400&square=1"
+          "source_url": "https://www.eternorecit.jp/images/collabo/2025/er05-makeine-a/ermkino012.jpg"
         }
       ],
       "sales": [
@@ -15589,16 +14507,16 @@
       ],
       "sources": [
         {
-          "url": "https://www.animate-onlineshop.jp/pn/pd/3277883/",
-          "type": "seller",
-          "checked_at": "2026-10-04"
+          "url": "https://www.eternorecit.jp/collabo/anime-game/202505er-makeine-a.html",
+          "type": "official",
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
         "套装",
         "温水佳树"
       ],
-      "notes": null
+      "notes": "已按 ETERNO RÉCIT 官方联动页的对应商品品类图核对。"
     },
     {
       "id": "csfront-05-sticker-kaju",
@@ -15854,8 +14772,8 @@
       "id": "cospa-cure-maid-stand-kaju",
       "global_product_id": "cospa-cure-maid-stand-kaju",
       "character_id": "nukumizu-kaju",
-      "name_ja": "温水佳樹 アクリルスタンド キュアメイドカフェVer.",
-      "name_zh": "CURE MAID CAFE 亚克力立牌 温水佳树",
+      "name_ja": "★限定★温水佳樹 アクリルスタンド キュアメイドカフェVer.",
+      "name_zh": "Cure Maid Cafe 限定亚克力立牌 温水佳树",
       "category_id": "acrylic_stand",
       "campaign_id": "cure-maid-cafe-2024",
       "manufacturer_id": "cospa",
@@ -15871,34 +14789,39 @@
       "release_date": null,
       "list_price_yen": 1650,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-abc3fd1f8d8c38e77059.jpg",
+          "path": "images/items/cospa-cure-maid-stand-kaju.jpg",
           "thumbnail_path": "images/thumbs/cospa-cure-maid-stand-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/99047/945/99047-945-2667355109aa19420a85398d271e60e6-1280x720.jpg"
+          "role": "product",
+          "source_url": "https://www.cospa.com/images/items/pc/202409/SRw0GpHkktEH.jpg"
         }
       ],
       "sales": [
         {
-          "seller": "二次元コスパ",
+          "seller": "COSPA",
           "phase": "general_sale",
-          "url": "https://prtimes.jp/main/html/rd/p/000000945.000099047.html"
+          "url": "https://www.cospa.com/nijigencospa/detail/id/00000133383"
         }
       ],
       "sources": [
         {
+          "url": "https://www.cospa.com/nijigencospa/detail/id/00000133383",
+          "type": "official",
+          "checked_at": "2026-10-07"
+        },
+        {
           "url": "https://prtimes.jp/main/html/rd/p/000000945.000099047.html",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
         "动画版",
         "温水佳树"
       ],
-      "notes": "CURE MAID CAFE限定先行；2024年12月上旬一般发售 当前使用明确包含温水佳树的官方活动阵容图，佳树单品图仍待替换。"
+      "notes": "已按 COSPA 官方角色单品页核对图片。"
     },
     {
       "id": "cospa-acrylic-tsumamare-kaju",
@@ -16123,13 +15046,13 @@
       "release_date": null,
       "list_price_yen": 275,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-b779cf2bd7dfbd25d873.jpg",
+          "path": "images/items/amnibus-uniform-apron-2026-trading-illustration-card-kaju.jpg",
           "thumbnail_path": "images/thumbs/amnibus-uniform-apron-2026-trading-illustration-card-kaju.webp",
           "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/9173/16064-9173-87409a964612b1fb3c106dca21625145-720x800.jpg"
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/9173/16064-9173-f95292f1d207c6e862392289a2a132eb-720x800.jpg"
         }
       ],
       "sales": [
@@ -16143,7 +15066,7 @@
         {
           "url": "https://prtimes.jp/main/html/rd/p/000009173.000016064.html",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -16173,13 +15096,13 @@
       "release_date": null,
       "list_price_yen": 275,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-5589ff0eb9fcbe10c6c0.jpg",
+          "path": "images/items/amnibus-uniform-apron-2026-trading-bromide-kaju.jpg",
           "thumbnail_path": "images/thumbs/amnibus-uniform-apron-2026-trading-bromide-kaju.webp",
           "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/9173/16064-9173-8415502491b13e8503a585d6092ea708-720x800.jpg"
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/9173/16064-9173-87409a964612b1fb3c106dca21625145-720x800.jpg"
         }
       ],
       "sales": [
@@ -16193,7 +15116,7 @@
         {
           "url": "https://prtimes.jp/main/html/rd/p/000009173.000016064.html",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -16273,20 +15196,20 @@
       "release_date": null,
       "list_price_yen": 10780,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-a11a5fec39e2d4f846b9.jpg",
+          "path": "images/items/amnibus-uniform-apron-2026-life-size-tapestry-kaju.jpg",
           "thumbnail_path": "images/thumbs/amnibus-uniform-apron-2026-life-size-tapestry-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://cdn.amnibus.com/upload/save_image/thumb_20260316163801_69b7b359e1a087.13583742.jpg"
+          "role": "product",
+          "source_url": "https://cdn.amnibus.com/upload/save_image/20260316163806_69b7b35e63c359.20065404.jpg"
         }
       ],
       "sales": [
         {
           "seller": "AMNIBUS",
           "phase": "general_sale",
-          "url": "https://prtimes.jp/main/html/rd/p/000009173.000016064.html"
+          "url": "https://amnibus.com/products/detail/114414"
         }
       ],
       "sources": [
@@ -16294,13 +15217,18 @@
           "url": "https://prtimes.jp/main/html/rd/p/000009173.000016064.html",
           "type": "official",
           "checked_at": "2026-10-04"
+        },
+        {
+          "url": "https://amnibus.com/products/detail/114414",
+          "type": "seller",
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
         "动画版",
         "温水佳树"
       ],
-      "notes": "官方公告的单品示例图仅展示八奈见，故采用含温水佳树的联动总图"
+      "notes": "已核对 AMNIBUS 官方角色单品页与商品图。"
     },
     {
       "id": "amnibus-uniform-apron-2026-extra-large-stand-kaju",
@@ -16323,20 +15251,20 @@
       "release_date": null,
       "list_price_yen": 3300,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-b880b81a71b5f5f48525.jpg",
+          "path": "images/items/amnibus-uniform-apron-2026-extra-large-stand-kaju.jpg",
           "thumbnail_path": "images/thumbs/amnibus-uniform-apron-2026-extra-large-stand-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://cdn.amnibus.com/upload/save_image/thumb_20260316164027_69b7b3eb256280.09929982.jpg"
+          "role": "product",
+          "source_url": "https://cdn.amnibus.com/upload/save_image/20260316164031_69b7b3efda16a1.16866627.jpg"
         }
       ],
       "sales": [
         {
           "seller": "AMNIBUS",
           "phase": "general_sale",
-          "url": "https://prtimes.jp/main/html/rd/p/000009173.000016064.html"
+          "url": "https://amnibus.com/products/detail/115508"
         }
       ],
       "sources": [
@@ -16344,13 +15272,18 @@
           "url": "https://prtimes.jp/main/html/rd/p/000009173.000016064.html",
           "type": "official",
           "checked_at": "2026-10-04"
+        },
+        {
+          "url": "https://amnibus.com/products/detail/115508",
+          "type": "seller",
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
         "动画版",
         "温水佳树"
       ],
-      "notes": "官方公告的单品示例图仅展示八奈见，故采用含温水佳树的联动总图"
+      "notes": "已核对 AMNIBUS 官方角色单品页与商品图。"
     },
     {
       "id": "amnibus-uniform-apron-2026-desk-mat-kaju",
@@ -16373,20 +15306,20 @@
       "release_date": null,
       "list_price_yen": 3960,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-fa619cda042e6fca4f4a.jpg",
+          "path": "images/items/amnibus-uniform-apron-2026-desk-mat-kaju.jpg",
           "thumbnail_path": "images/thumbs/amnibus-uniform-apron-2026-desk-mat-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://cdn.amnibus.com/upload/save_image/thumb_20260316163903_69b7b39706f2b7.29379864.jpg"
+          "role": "product",
+          "source_url": "https://cdn.amnibus.com/upload/save_image/20260316163907_69b7b39b39d570.57546044.jpg"
         }
       ],
       "sales": [
         {
           "seller": "AMNIBUS",
           "phase": "general_sale",
-          "url": "https://prtimes.jp/main/html/rd/p/000009173.000016064.html"
+          "url": "https://amnibus.com/products/detail/114409"
         }
       ],
       "sources": [
@@ -16394,13 +15327,18 @@
           "url": "https://prtimes.jp/main/html/rd/p/000009173.000016064.html",
           "type": "official",
           "checked_at": "2026-10-04"
+        },
+        {
+          "url": "https://amnibus.com/products/detail/114409",
+          "type": "seller",
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
         "动画版",
         "温水佳树"
       ],
-      "notes": "官方公告的单品示例图仅展示八奈见，故采用含温水佳树的联动总图"
+      "notes": "已核对 AMNIBUS 官方角色单品页与商品图。"
     },
     {
       "id": "amnibus-uniform-apron-2026-big-stand-kaju",
@@ -16423,20 +15361,20 @@
       "release_date": null,
       "list_price_yen": 1980,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-029373d3e581f1e321db.jpg",
+          "path": "images/items/amnibus-uniform-apron-2026-big-stand-kaju.jpg",
           "thumbnail_path": "images/thumbs/amnibus-uniform-apron-2026-big-stand-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://cdn.amnibus.com/upload/save_image/thumb_20260316164402_69b7b4c21fdd46.47132107.jpg"
+          "role": "product",
+          "source_url": "https://cdn.amnibus.com/upload/save_image/20260316164406_69b7b4c6efe470.55147105.jpg"
         }
       ],
       "sales": [
         {
           "seller": "AMNIBUS",
           "phase": "general_sale",
-          "url": "https://prtimes.jp/main/html/rd/p/000009173.000016064.html"
+          "url": "https://amnibus.com/products/detail/115504"
         }
       ],
       "sources": [
@@ -16444,13 +15382,18 @@
           "url": "https://prtimes.jp/main/html/rd/p/000009173.000016064.html",
           "type": "official",
           "checked_at": "2026-10-04"
+        },
+        {
+          "url": "https://amnibus.com/products/detail/115504",
+          "type": "seller",
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
         "动画版",
         "温水佳树"
       ],
-      "notes": "官方公告的单品示例图仅展示八奈见，故采用含温水佳树的联动总图"
+      "notes": "已核对 AMNIBUS 官方角色单品页与商品图。"
     },
     {
       "id": "amnibus-uniform-apron-2026-big-keychain-kaju",
@@ -16473,20 +15416,20 @@
       "release_date": null,
       "list_price_yen": 1100,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-dc2e3da376206f092e45.jpg",
+          "path": "images/items/amnibus-uniform-apron-2026-big-keychain-kaju.jpg",
           "thumbnail_path": "images/thumbs/amnibus-uniform-apron-2026-big-keychain-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://cdn.amnibus.com/upload/save_image/thumb_20260316164717_69b7b5852431b4.31988702.jpg"
+          "role": "product",
+          "source_url": "https://cdn.amnibus.com/upload/save_image/20260316164722_69b7b58a801515.11139270.jpg"
         }
       ],
       "sales": [
         {
           "seller": "AMNIBUS",
           "phase": "general_sale",
-          "url": "https://prtimes.jp/main/html/rd/p/000009173.000016064.html"
+          "url": "https://amnibus.com/products/detail/116943"
         }
       ],
       "sources": [
@@ -16494,13 +15437,18 @@
           "url": "https://prtimes.jp/main/html/rd/p/000009173.000016064.html",
           "type": "official",
           "checked_at": "2026-10-04"
+        },
+        {
+          "url": "https://amnibus.com/products/detail/116943",
+          "type": "seller",
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
         "动画版",
         "温水佳树"
       ],
-      "notes": "官方公告的单品示例图仅展示八奈见，故采用含温水佳树的联动总图"
+      "notes": "已核对 AMNIBUS 官方角色单品页与商品图。"
     },
     {
       "id": "amnibus-uniform-apron-2026-a3-poster-kaju",
@@ -16523,20 +15471,20 @@
       "release_date": null,
       "list_price_yen": 880,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-5012a1bb59bd2eb7b342.jpg",
+          "path": "images/items/amnibus-uniform-apron-2026-a3-poster-kaju.jpg",
           "thumbnail_path": "images/thumbs/amnibus-uniform-apron-2026-a3-poster-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://cdn.amnibus.com/upload/save_image/thumb_20260316164907_69b7b5f3257311.94046067.jpg"
+          "role": "product",
+          "source_url": "https://cdn.amnibus.com/upload/save_image/20260316164911_69b7b5f7523ae7.73046266.jpg"
         }
       ],
       "sales": [
         {
           "seller": "AMNIBUS",
           "phase": "general_sale",
-          "url": "https://prtimes.jp/main/html/rd/p/000009173.000016064.html"
+          "url": "https://amnibus.com/products/detail/115512"
         }
       ],
       "sources": [
@@ -16544,13 +15492,18 @@
           "url": "https://prtimes.jp/main/html/rd/p/000009173.000016064.html",
           "type": "official",
           "checked_at": "2026-10-04"
+        },
+        {
+          "url": "https://amnibus.com/products/detail/115512",
+          "type": "seller",
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
         "动画版",
         "温水佳树"
       ],
-      "notes": "官方公告的单品示例图仅展示八奈见，故采用含温水佳树的联动总图"
+      "notes": "已核对 AMNIBUS 官方角色单品页与商品图。"
     },
     {
       "id": "amnibus-uniform-apron-2026-100mm-badge-kaju",
@@ -16573,20 +15526,20 @@
       "release_date": null,
       "list_price_yen": 715,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-306fb4c559ed9671179c.jpg",
+          "path": "images/items/amnibus-uniform-apron-2026-100mm-badge-kaju.jpg",
           "thumbnail_path": "images/thumbs/amnibus-uniform-apron-2026-100mm-badge-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://cdn.amnibus.com/upload/save_image/thumb_20260316165100_69b7b6643093c8.40894893.jpg"
+          "role": "product",
+          "source_url": "https://cdn.amnibus.com/upload/save_image/20260316165117_69b7b675dc2b76.35543411.jpg"
         }
       ],
       "sales": [
         {
           "seller": "AMNIBUS",
           "phase": "general_sale",
-          "url": "https://prtimes.jp/main/html/rd/p/000009173.000016064.html"
+          "url": "https://amnibus.com/products/detail/116939"
         }
       ],
       "sources": [
@@ -16594,13 +15547,18 @@
           "url": "https://prtimes.jp/main/html/rd/p/000009173.000016064.html",
           "type": "official",
           "checked_at": "2026-10-04"
+        },
+        {
+          "url": "https://amnibus.com/products/detail/116939",
+          "type": "seller",
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
         "动画版",
         "温水佳树"
       ],
-      "notes": "官方公告的单品示例图仅展示八奈见，故采用含温水佳树的联动总图"
+      "notes": "已核对 AMNIBUS 官方角色单品页与商品图。"
     },
     {
       "id": "amnibus-nonhoi-trading-sticker",
@@ -16762,7 +15720,7 @@
       "id": "amnibus-nonhoi-sns-keychain-kaju",
       "global_product_id": "amnibus-nonhoi-sns-keychain-kaju",
       "character_id": "nukumizu-kaju",
-      "name_ja": "描き下ろし 温水 佳樹 動物とのふれあいver. SNS風BIGアクリルキーホルダー",
+      "name_ja": "描き下ろし 温水佳樹 動物とのふれあいver. SNS風BIGアクリルキーホルダー",
       "name_zh": "动物互动主题 SNS风BIG亚克力挂件 温水佳树",
       "category_id": "acrylic_keychain",
       "campaign_id": "nonhoi-park",
@@ -16782,24 +15740,29 @@
       "verification": "confirmed_text",
       "images": [
         {
-          "path": "images/items/source-d5b17b46f9639bb8f5b6.jpg",
+          "path": "images/items/amnibus-nonhoi-sns-keychain-kaju.jpg",
           "thumbnail_path": "images/thumbs/amnibus-nonhoi-sns-keychain-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/8499/16064-8499-d256a6424d919730be15438b496dbb54-1350x1500.jpg"
+          "role": "product",
+          "source_url": "https://cdn.amnibus.com/upload/save_image/20251001173657_68dce829c98272.83045376.jpg"
         }
       ],
       "sales": [
         {
           "seller": "AMNIBUS",
           "phase": "general_sale",
-          "url": "https://prtimes.jp/main/html/rd/p/000008499.000016064.html"
+          "url": "https://amnibus.com/products/detail/97271"
         }
       ],
       "sources": [
         {
+          "url": "https://amnibus.com/products/detail/97271",
+          "type": "official",
+          "checked_at": "2026-10-07"
+        },
+        {
           "url": "https://prtimes.jp/main/html/rd/p/000008499.000016064.html",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -16808,7 +15771,7 @@
         "丰桥综合动植物公园",
         "温水佳树"
       ],
-      "notes": "当前使用明确包含温水佳树的官方活动阵容图，佳树单品图仍待替换。"
+      "notes": "已按 AMNIBUS 官方角色单品页核对图片与商品编号。"
     },
     {
       "id": "amnibus-nonhoi-instant-card",
@@ -16918,7 +15881,7 @@
       "id": "amnibus-nonhoi-extra-large-stand-kaju",
       "global_product_id": "amnibus-nonhoi-extra-large-stand-kaju",
       "character_id": "nukumizu-kaju",
-      "name_ja": "描き下ろし 温水 佳樹 動物とのふれあいver. 特大アクリルスタンド",
+      "name_ja": "描き下ろし 温水佳樹 動物とのふれあいver. 特大アクリルスタンド",
       "name_zh": "动物互动主题 特大亚克力立牌 温水佳树",
       "category_id": "acrylic_stand",
       "campaign_id": "nonhoi-park",
@@ -16938,24 +15901,29 @@
       "verification": "confirmed_text",
       "images": [
         {
-          "path": "images/items/source-d5b17b46f9639bb8f5b6.jpg",
+          "path": "images/items/amnibus-nonhoi-extra-large-stand-kaju.jpg",
           "thumbnail_path": "images/thumbs/amnibus-nonhoi-extra-large-stand-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/8499/16064-8499-d256a6424d919730be15438b496dbb54-1350x1500.jpg"
+          "role": "product",
+          "source_url": "https://cdn.amnibus.com/upload/save_image/20251001173222_68dce716f06b49.01728358.jpg"
         }
       ],
       "sales": [
         {
           "seller": "AMNIBUS",
           "phase": "general_sale",
-          "url": "https://prtimes.jp/main/html/rd/p/000008499.000016064.html"
+          "url": "https://amnibus.com/products/detail/97266"
         }
       ],
       "sources": [
         {
+          "url": "https://amnibus.com/products/detail/97266",
+          "type": "official",
+          "checked_at": "2026-10-07"
+        },
+        {
           "url": "https://prtimes.jp/main/html/rd/p/000008499.000016064.html",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -16964,13 +15932,13 @@
         "丰桥综合动植物公园",
         "温水佳树"
       ],
-      "notes": "当前使用明确包含温水佳树的官方活动阵容图，佳树单品图仍待替换。"
+      "notes": "已按 AMNIBUS 官方角色单品页核对图片与商品编号。"
     },
     {
       "id": "amnibus-nonhoi-deskmat-kaju",
       "global_product_id": "amnibus-nonhoi-deskmat-kaju",
       "character_id": "nukumizu-kaju",
-      "name_ja": "描き下ろし 温水 佳樹 動物とのふれあいver. マルチデスクマット",
+      "name_ja": "描き下ろし 温水佳樹 動物とのふれあいver. マルチデスクマット",
       "name_zh": "动物互动主题 多功能桌垫 温水佳树",
       "category_id": "stationery",
       "campaign_id": "nonhoi-park",
@@ -16990,24 +15958,29 @@
       "verification": "confirmed_text",
       "images": [
         {
-          "path": "images/items/source-d5b17b46f9639bb8f5b6.jpg",
+          "path": "images/items/amnibus-nonhoi-deskmat-kaju.jpg",
           "thumbnail_path": "images/thumbs/amnibus-nonhoi-deskmat-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/8499/16064-8499-d256a6424d919730be15438b496dbb54-1350x1500.jpg"
+          "role": "product",
+          "source_url": "https://cdn.amnibus.com/upload/save_image/20251001173043_68dce6b310f740.97431792.jpg"
         }
       ],
       "sales": [
         {
           "seller": "AMNIBUS",
           "phase": "general_sale",
-          "url": "https://prtimes.jp/main/html/rd/p/000008499.000016064.html"
+          "url": "https://amnibus.com/products/detail/97247"
         }
       ],
       "sources": [
         {
+          "url": "https://amnibus.com/products/detail/97247",
+          "type": "official",
+          "checked_at": "2026-10-07"
+        },
+        {
           "url": "https://prtimes.jp/main/html/rd/p/000008499.000016064.html",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -17016,7 +15989,7 @@
         "丰桥综合动植物公园",
         "温水佳树"
       ],
-      "notes": "当前使用明确包含温水佳树的官方活动阵容图，佳树单品图仍待替换。"
+      "notes": "已按 AMNIBUS 官方角色单品页核对图片与商品编号。"
     },
     {
       "id": "amnibus-nonhoi-chibi-sticker",
@@ -17277,7 +16250,7 @@
       "id": "amnibus-nonhoi-big-stand-kaju",
       "global_product_id": "amnibus-nonhoi-big-stand-kaju",
       "character_id": "nukumizu-kaju",
-      "name_ja": "描き下ろし 温水 佳樹 動物とのふれあいver. BIGアクリルスタンド",
+      "name_ja": "描き下ろし 温水佳樹 動物とのふれあいver. BIGアクリルスタンド",
       "name_zh": "动物互动主题 BIG亚克力立牌 温水佳树",
       "category_id": "acrylic_stand",
       "campaign_id": "nonhoi-park",
@@ -17297,24 +16270,29 @@
       "verification": "confirmed_text",
       "images": [
         {
-          "path": "images/items/source-d5b17b46f9639bb8f5b6.jpg",
+          "path": "images/items/amnibus-nonhoi-big-stand-kaju.jpg",
           "thumbnail_path": "images/thumbs/amnibus-nonhoi-big-stand-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/8499/16064-8499-d256a6424d919730be15438b496dbb54-1350x1500.jpg"
+          "role": "product",
+          "source_url": "https://cdn.amnibus.com/upload/save_image/20251001173524_68dce7ccc42055.38585254.jpg"
         }
       ],
       "sales": [
         {
           "seller": "AMNIBUS",
           "phase": "general_sale",
-          "url": "https://prtimes.jp/main/html/rd/p/000008499.000016064.html"
+          "url": "https://amnibus.com/products/detail/96245"
         }
       ],
       "sources": [
         {
+          "url": "https://amnibus.com/products/detail/96245",
+          "type": "official",
+          "checked_at": "2026-10-07"
+        },
+        {
           "url": "https://prtimes.jp/main/html/rd/p/000008499.000016064.html",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -17323,7 +16301,7 @@
         "丰桥综合动植物公园",
         "温水佳树"
       ],
-      "notes": "当前使用明确包含温水佳树的官方活动阵容图，佳树单品图仍待替换。"
+      "notes": "已按 AMNIBUS 官方角色单品页核对图片与商品编号。"
     },
     {
       "id": "amnibus-jr2-trading-stand",
@@ -17353,57 +16331,6 @@
           "thumbnail_path": "images/thumbs/amnibus-jr2-trading-stand.webp",
           "role": "lineup",
           "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/8501/16064-8501-06af6e9e07dd87a67cb0fa1b8b69df77-1350x1500.jpg"
-        }
-      ],
-      "sales": [
-        {
-          "seller": "アルマビアンカ",
-          "phase": "general_sale",
-          "url": "https://prtimes.jp/main/html/rd/p/000008501.000016064.html"
-        }
-      ],
-      "sources": [
-        {
-          "url": "https://prtimes.jp/main/html/rd/p/000008501.000016064.html",
-          "type": "official",
-          "checked_at": "2026-10-04"
-        }
-      ],
-      "tags": [
-        "JR东海",
-        "推し旅",
-        "温水佳树"
-      ],
-      "notes": null
-    },
-    {
-      "id": "amnibus-jr2-postcards",
-      "global_product_id": "amnibus-jr2-postcards",
-      "character_id": "nukumizu-kaju",
-      "name_ja": "描き下ろし 駅員ver. 第2弾 ポストカード3枚セット",
-      "name_zh": "JR 东海第二弹新绘明信片 3 枚套装",
-      "category_id": "card",
-      "campaign_id": "jr-central-oshi-tabi-station-staff-2",
-      "manufacturer_id": "arma-bianca",
-      "variant": "套装包含温水佳树",
-      "sale_format": {
-        "type": "set",
-        "total_variants": 3
-      },
-      "spec": {
-        "size": "约148×100mm",
-        "material": "紙"
-      },
-      "release_date": null,
-      "list_price_yen": 550,
-      "official_status": "official",
-      "verification": "confirmed_text",
-      "images": [
-        {
-          "path": "images/items/source-3459cd4efbf4e8f2c2e1.jpg",
-          "thumbnail_path": "images/thumbs/amnibus-jr2-postcards.webp",
-          "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/8501/16064-8501-8738b20e6dd3a533983fa35680c4b42a-1350x1500.jpg"
         }
       ],
       "sales": [
@@ -17479,61 +16406,10 @@
       "notes": null
     },
     {
-      "id": "amnibus-jr2-glitter-badge",
-      "global_product_id": "amnibus-jr2-glitter-badge",
-      "character_id": "nukumizu-kaju",
-      "name_ja": "描き下ろし 駅員ver. 第2弾 トレーディンググリッター缶バッジ",
-      "name_zh": "JR 东海第二弹新绘随机闪粉徽章",
-      "category_id": "can_badge",
-      "campaign_id": "jr-central-oshi-tabi-station-staff-2",
-      "manufacturer_id": "arma-bianca",
-      "variant": "随机款式包含温水佳树",
-      "sale_format": {
-        "type": "random",
-        "total_variants": 9
-      },
-      "spec": {
-        "size": "直径约56mm",
-        "material": "紙・ブリキ"
-      },
-      "release_date": null,
-      "list_price_yen": 605,
-      "official_status": "official",
-      "verification": "confirmed_text",
-      "images": [
-        {
-          "path": "images/items/source-cf6d0c1671c0e15fdd37.jpg",
-          "thumbnail_path": "images/thumbs/amnibus-jr2-glitter-badge.webp",
-          "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/8501/16064-8501-7f79795a179c3a20834e583429d5d58c-1350x1500.jpg"
-        }
-      ],
-      "sales": [
-        {
-          "seller": "アルマビアンカ",
-          "phase": "general_sale",
-          "url": "https://prtimes.jp/main/html/rd/p/000008501.000016064.html"
-        }
-      ],
-      "sources": [
-        {
-          "url": "https://prtimes.jp/main/html/rd/p/000008501.000016064.html",
-          "type": "official",
-          "checked_at": "2026-10-04"
-        }
-      ],
-      "tags": [
-        "JR东海",
-        "推し旅",
-        "温水佳树"
-      ],
-      "notes": null
-    },
-    {
       "id": "amnibus-jr2-extra-large-stand-kaju",
       "global_product_id": "amnibus-jr2-extra-large-stand-kaju",
       "character_id": "nukumizu-kaju",
-      "name_ja": "描き下ろし 温水 佳樹 駅員ver. 第2弾 特大アクリルスタンド",
+      "name_ja": "描き下ろし 温水佳樹 駅員ver. 第2弾 特大アクリルスタンド",
       "name_zh": "JR东海站员第二弹 特大亚克力立牌 温水佳树",
       "category_id": "acrylic_stand",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
@@ -17550,27 +16426,27 @@
       "release_date": null,
       "list_price_yen": 3300,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-36ed4fa906a6a84ca70b.jpg",
+          "path": "images/items/amnibus-jr2-extra-large-stand-kaju.jpg",
           "thumbnail_path": "images/thumbs/amnibus-jr2-extra-large-stand-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://cdn.amnibus.com/upload/save_image/thumb_20250930145542_68db70de46c9b0.91270556.jpg"
+          "role": "product",
+          "source_url": "https://cdn.amnibus.com/upload/save_image/20250930145603_68db70f362e2c6.36544636.jpg"
         }
       ],
       "sales": [
         {
           "seller": "AMNIBUS",
           "phase": "general_sale",
-          "url": "https://prtimes.jp/main/html/rd/p/000008501.000016064.html"
+          "url": "https://amnibus.com/products/detail/93964"
         }
       ],
       "sources": [
         {
-          "url": "https://prtimes.jp/main/html/rd/p/000008501.000016064.html",
-          "type": "official",
-          "checked_at": "2026-10-04"
+          "url": "https://amnibus.com/products/detail/93964",
+          "type": "official_retail",
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -17579,13 +16455,13 @@
         "站员装",
         "温水佳树"
       ],
-      "notes": null
+      "notes": "已按 AMNIBUS 官方角色单品页核对商品编号和图片。"
     },
     {
       "id": "amnibus-jr2-double-wire-keychain-kaju",
       "global_product_id": "amnibus-jr2-double-wire-keychain-kaju",
       "character_id": "nukumizu-kaju",
-      "name_ja": "描き下ろし 温水 佳樹 駅員ver. 第2弾 2連ワイヤーBIGアクリルキーホルダー",
+      "name_ja": "描き下ろし 温水佳樹 駅員ver. 第2弾 2連ワイヤーBIGアクリルキーホルダー",
       "name_zh": "JR东海站员第二弹 双联钢丝大型亚克力挂件 温水佳树",
       "category_id": "acrylic_keychain",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
@@ -17602,27 +16478,27 @@
       "release_date": null,
       "list_price_yen": 1320,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-4348eab68d8af4a93cc0.jpg",
+          "path": "images/items/amnibus-jr2-double-wire-keychain-kaju.jpg",
           "thumbnail_path": "images/thumbs/amnibus-jr2-double-wire-keychain-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://cdn.amnibus.com/upload/save_image/thumb_20250930151021_68db744d4e0b52.25761890.jpg"
+          "role": "product",
+          "source_url": "https://cdn.amnibus.com/upload/save_image/20250930151026_68db7452b98bb3.28319333.jpg"
         }
       ],
       "sales": [
         {
           "seller": "AMNIBUS",
           "phase": "general_sale",
-          "url": "https://prtimes.jp/main/html/rd/p/000008501.000016064.html"
+          "url": "https://amnibus.com/products/detail/93954"
         }
       ],
       "sources": [
         {
-          "url": "https://prtimes.jp/main/html/rd/p/000008501.000016064.html",
-          "type": "official",
-          "checked_at": "2026-10-04"
+          "url": "https://amnibus.com/products/detail/93954",
+          "type": "official_retail",
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -17631,7 +16507,7 @@
         "站员装",
         "温水佳树"
       ],
-      "notes": null
+      "notes": "已按 AMNIBUS 官方角色单品页核对商品编号和图片。"
     },
     {
       "id": "amnibus-jr2-diorama-a",
@@ -17689,7 +16565,7 @@
       "id": "amnibus-jr2-diecut-sticker-kaju",
       "global_product_id": "amnibus-jr2-diecut-sticker-kaju",
       "character_id": "nukumizu-kaju",
-      "name_ja": "描き下ろし 温水 佳樹 駅員ver. 第2弾 ダイカットステッカー",
+      "name_ja": "描き下ろし 温水佳樹 駅員ver. 第2弾 ダイカットステッカー",
       "name_zh": "JR东海站员第二弹 异形贴纸 温水佳树",
       "category_id": "sticker",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
@@ -17706,27 +16582,27 @@
       "release_date": null,
       "list_price_yen": 550,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-ee1eac802c0f348d0154.jpg",
+          "path": "images/items/amnibus-jr2-diecut-sticker-kaju.jpg",
           "thumbnail_path": "images/thumbs/amnibus-jr2-diecut-sticker-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://cdn.amnibus.com/upload/save_image/thumb_20250930151245_68db74dda3eb65.43616070.jpg"
+          "role": "product",
+          "source_url": "https://cdn.amnibus.com/upload/save_image/20250930151436_68db754c9e3255.54383301.jpg"
         }
       ],
       "sales": [
         {
           "seller": "AMNIBUS",
           "phase": "general_sale",
-          "url": "https://prtimes.jp/main/html/rd/p/000008501.000016064.html"
+          "url": "https://amnibus.com/products/detail/93941"
         }
       ],
       "sources": [
         {
-          "url": "https://prtimes.jp/main/html/rd/p/000008501.000016064.html",
-          "type": "official",
-          "checked_at": "2026-10-04"
+          "url": "https://amnibus.com/products/detail/93941",
+          "type": "official_retail",
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -17735,59 +16611,7 @@
         "站员装",
         "温水佳树"
       ],
-      "notes": null
-    },
-    {
-      "id": "amnibus-jr2-deskmat-kaju",
-      "global_product_id": "amnibus-jr2-deskmat-kaju",
-      "character_id": "nukumizu-kaju",
-      "name_ja": "描き下ろし 温水 佳樹 駅員ver. 第2弾 マルチデスクマット",
-      "name_zh": "JR东海站员第二弹 多功能桌垫 温水佳树",
-      "category_id": "stationery",
-      "campaign_id": "jr-central-oshi-tabi-station-staff-2",
-      "manufacturer_id": "arma-bianca",
-      "variant": "温水佳树",
-      "sale_format": {
-        "type": "single",
-        "total_variants": 5
-      },
-      "spec": {
-        "size": "约60×35cm",
-        "material": "聚酯纤维、橡胶"
-      },
-      "release_date": null,
-      "list_price_yen": 3960,
-      "official_status": "official",
-      "verification": "confirmed_text",
-      "images": [
-        {
-          "path": "images/items/source-7de90b75e97b3e3a8fec.jpg",
-          "thumbnail_path": "images/thumbs/amnibus-jr2-deskmat-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://cdn.amnibus.com/upload/save_image/thumb_20250930145357_68db70754a30b5.81091001.jpg"
-        }
-      ],
-      "sales": [
-        {
-          "seller": "AMNIBUS",
-          "phase": "general_sale",
-          "url": "https://prtimes.jp/main/html/rd/p/000008501.000016064.html"
-        }
-      ],
-      "sources": [
-        {
-          "url": "https://prtimes.jp/main/html/rd/p/000008501.000016064.html",
-          "type": "official",
-          "checked_at": "2026-10-04"
-        }
-      ],
-      "tags": [
-        "动画版",
-        "JR东海",
-        "站员装",
-        "温水佳树"
-      ],
-      "notes": null
+      "notes": "已按 AMNIBUS 官方角色单品页核对商品编号和图片。"
     },
     {
       "id": "amnibus-jr2-chibi-stickers",
@@ -17868,57 +16692,6 @@
           "thumbnail_path": "images/thumbs/amnibus-jr2-chibi-keychain.webp",
           "role": "lineup",
           "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/8501/16064-8501-09a10740ac8c9e12c927eff1583c5c8c-1350x1500.jpg"
-        }
-      ],
-      "sales": [
-        {
-          "seller": "アルマビアンカ",
-          "phase": "general_sale",
-          "url": "https://prtimes.jp/main/html/rd/p/000008501.000016064.html"
-        }
-      ],
-      "sources": [
-        {
-          "url": "https://prtimes.jp/main/html/rd/p/000008501.000016064.html",
-          "type": "official",
-          "checked_at": "2026-10-04"
-        }
-      ],
-      "tags": [
-        "JR东海",
-        "推し旅",
-        "温水佳树"
-      ],
-      "notes": null
-    },
-    {
-      "id": "amnibus-jr2-acrylic-card",
-      "global_product_id": "amnibus-jr2-acrylic-card",
-      "character_id": "nukumizu-kaju",
-      "name_ja": "描き下ろし 駅員ver. 第2弾 トレーディングアクリルカード",
-      "name_zh": "JR 东海第二弹新绘随机亚克力卡",
-      "category_id": "card",
-      "campaign_id": "jr-central-oshi-tabi-station-staff-2",
-      "manufacturer_id": "arma-bianca",
-      "variant": "随机款式包含温水佳树",
-      "sale_format": {
-        "type": "random",
-        "total_variants": 9
-      },
-      "spec": {
-        "size": "约70×55mm",
-        "material": "アクリル"
-      },
-      "release_date": null,
-      "list_price_yen": 715,
-      "official_status": "official",
-      "verification": "confirmed_text",
-      "images": [
-        {
-          "path": "images/items/source-d33b9d072472426f55f0.jpg",
-          "thumbnail_path": "images/thumbs/amnibus-jr2-acrylic-card.webp",
-          "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/8501/16064-8501-7c1cd79bf7a6a1df4c2ec57819d10247-1350x1500.jpg"
         }
       ],
       "sales": [
@@ -18216,31 +16989,31 @@
       "verification": "confirmed_text",
       "images": [
         {
-          "path": "images/items/source-3182363c7477c8df2586.jpg",
+          "path": "images/items/amnibus-jr1-big-stand-kaju.jpg",
           "thumbnail_path": "images/thumbs/amnibus-jr1-big-stand-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/7075/16064-7075-5375aa7e39cfa409cc90c3c7e06e4cd0-1152x648.jpg"
+          "role": "product",
+          "source_url": "https://cdn.amnibus.com/upload/save_image/20241126114419_67453603ba4c44.39050728.jpg"
         }
       ],
       "sales": [
         {
           "seller": "AMNIBUS",
           "phase": "general_sale",
-          "url": "https://prtimes.jp/main/html/rd/p/000007075.000016064.html"
+          "url": "https://amnibus.com/products/detail/72869"
         }
       ],
       "sources": [
         {
-          "url": "https://prtimes.jp/main/html/rd/p/000007075.000016064.html",
+          "url": "https://amnibus.com/products/detail/72869",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
         "动画版",
         "温水佳树"
       ],
-      "notes": "2025年1月8日开始接受预订。"
+      "notes": "已按 AMNIBUS 官方单品页与主图核对。"
     },
     {
       "id": "amnibus-jr1-acrylic-card",
@@ -18344,57 +17117,6 @@
       "notes": null
     },
     {
-      "id": "amnibus-chibitoko-parts-big-stand-kaju",
-      "global_product_id": "amnibus-chibitoko-parts-big-stand-kaju",
-      "character_id": "nukumizu-kaju",
-      "name_ja": "温水 佳樹 ちびとこ パーツ付きBIGアクリルスタンド",
-      "name_zh": "ちびとこ 带配件BIG亚克力立牌 温水佳树",
-      "category_id": "acrylic_stand",
-      "campaign_id": "amnibus-chibitoko-2024",
-      "manufacturer_id": "arma-bianca",
-      "variant": "温水佳树",
-      "sale_format": {
-        "type": "single",
-        "total_variants": 3
-      },
-      "spec": {
-        "size": null,
-        "material": null
-      },
-      "release_date": null,
-      "list_price_yen": 1980,
-      "official_status": "official",
-      "verification": "confirmed_text",
-      "images": [
-        {
-          "path": "images/items/source-d0e20dcf12af04bef17d.jpg",
-          "thumbnail_path": "images/thumbs/amnibus-chibitoko-parts-big-stand-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://cdn.amnibus.com/upload/save_image/thumb_20241024155956_6719f06c48a2f3.53152730.jpg"
-        }
-      ],
-      "sales": [
-        {
-          "seller": "AMNIBUS",
-          "phase": "general_sale",
-          "url": "https://prtimes.jp/main/html/rd/p/000006757.000016064.html"
-        }
-      ],
-      "sources": [
-        {
-          "url": "https://prtimes.jp/main/html/rd/p/000006757.000016064.html",
-          "type": "official",
-          "checked_at": "2026-10-04"
-        }
-      ],
-      "tags": [
-        "动画版",
-        "ちびとこ",
-        "温水佳树"
-      ],
-      "notes": "当前使用明确包含温水佳树的官方活动阵容图，佳树单品图仍待替换。"
-    },
-    {
       "id": "amnibus-chibitoko-matte-badge",
       "global_product_id": "amnibus-chibitoko-matte-badge",
       "character_id": "nukumizu-kaju",
@@ -18449,7 +17171,7 @@
       "id": "amnibus-chibitoko-kazuhiko-kaju-illustration-cards",
       "global_product_id": "amnibus-chibitoko-kazuhiko-kaju-illustration-cards",
       "character_id": "nukumizu-kaju",
-      "name_ja": "温水 和彦＆温水 佳樹 ちびとこ イラストカード3枚セット",
+      "name_ja": "温水 和彦＆温水佳樹 ちびとこ イラストカード3枚セット",
       "name_zh": "ちびとこ 温水兄妹插画卡三枚套装",
       "category_id": "card",
       "campaign_id": "amnibus-chibitoko-2024",
@@ -18547,61 +17269,10 @@
       "notes": null
     },
     {
-      "id": "amnibus-chibitoko-3way-badge-kaju",
-      "global_product_id": "amnibus-chibitoko-3way-badge-kaju",
-      "character_id": "nukumizu-kaju",
-      "name_ja": "温水 佳樹 ちびとこ 3WAY缶バッジ",
-      "name_zh": "ちびとこ 3WAY徽章 温水佳树",
-      "category_id": "can_badge",
-      "campaign_id": "amnibus-chibitoko-2024",
-      "manufacturer_id": "arma-bianca",
-      "variant": "温水佳树",
-      "sale_format": {
-        "type": "single",
-        "total_variants": 3
-      },
-      "spec": {
-        "size": "直径约76mm",
-        "material": "纸、马口铁"
-      },
-      "release_date": null,
-      "list_price_yen": 880,
-      "official_status": "official",
-      "verification": "confirmed_text",
-      "images": [
-        {
-          "path": "images/items/source-d0e20dcf12af04bef17d.jpg",
-          "thumbnail_path": "images/thumbs/amnibus-chibitoko-3way-badge-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://cdn.amnibus.com/upload/save_image/thumb_20241024155956_6719f06c48a2f3.53152730.jpg"
-        }
-      ],
-      "sales": [
-        {
-          "seller": "AMNIBUS",
-          "phase": "general_sale",
-          "url": "https://prtimes.jp/main/html/rd/p/000006757.000016064.html"
-        }
-      ],
-      "sources": [
-        {
-          "url": "https://prtimes.jp/main/html/rd/p/000006757.000016064.html",
-          "type": "official",
-          "checked_at": "2026-10-04"
-        }
-      ],
-      "tags": [
-        "动画版",
-        "ちびとこ",
-        "温水佳树"
-      ],
-      "notes": "当前使用明确包含温水佳树的官方活动阵容图，佳树单品图仍待替换。"
-    },
-    {
       "id": "amnibus-beach-date-life-size-tapestry-kaju",
       "global_product_id": "amnibus-beach-date-life-size-tapestry-kaju",
       "character_id": "nukumizu-kaju",
-      "name_ja": "描き下ろし 温水 佳樹 ビーチデートver. 等身大タペストリー",
+      "name_ja": "描き下ろし 温水佳樹 ビーチデートver. 等身大タペストリー",
       "name_zh": "海滩约会 等身挂毯 温水佳树",
       "category_id": "tapestry",
       "campaign_id": "beach-date-2026",
@@ -18621,24 +17292,24 @@
       "verification": "confirmed_text",
       "images": [
         {
-          "path": "images/items/source-f32b1a74f0a4051b3cb7.jpg",
+          "path": "images/items/amnibus-beach-date-life-size-tapestry-kaju.jpg",
           "thumbnail_path": "images/thumbs/amnibus-beach-date-life-size-tapestry-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/8976/16064-8976-eeb3356030c43707a220ef5ab6454fdc-720x800.jpg"
+          "role": "product",
+          "source_url": "https://cdn.amnibus.com/upload/save_image/20260217185430_69943ad6249130.40063760.jpg"
         }
       ],
       "sales": [
         {
           "seller": "AMNIBUS",
           "phase": "general_sale",
-          "url": "https://prtimes.jp/main/html/rd/p/000008976.000016064.html"
+          "url": "https://amnibus.com/products/detail/115787"
         }
       ],
       "sources": [
         {
-          "url": "https://prtimes.jp/main/html/rd/p/000008976.000016064.html",
+          "url": "https://amnibus.com/products/detail/115787",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -18647,7 +17318,7 @@
         "温水佳树",
         "新规绘制"
       ],
-      "notes": "当前使用明确包含温水佳树的官方活动阵容图，佳树单品图仍待替换。"
+      "notes": "已按 AMNIBUS 官方角色单品页与主图核对。"
     },
     {
       "id": "amnibus-beach-date-illustration-card",
@@ -18809,7 +17480,7 @@
       "id": "amnibus-beach-date-extra-large-stand-kaju",
       "global_product_id": "amnibus-beach-date-extra-large-stand-kaju",
       "character_id": "nukumizu-kaju",
-      "name_ja": "描き下ろし 温水 佳樹 ビーチデートver. 特大アクリルスタンド",
+      "name_ja": "描き下ろし 温水佳樹 ビーチデートver. 特大アクリルスタンド",
       "name_zh": "海滩约会 特大亚克力立牌 温水佳树",
       "category_id": "acrylic_stand",
       "campaign_id": "beach-date-2026",
@@ -18829,24 +17500,24 @@
       "verification": "confirmed_text",
       "images": [
         {
-          "path": "images/items/source-f32b1a74f0a4051b3cb7.jpg",
+          "path": "images/items/amnibus-beach-date-extra-large-stand-kaju.jpg",
           "thumbnail_path": "images/thumbs/amnibus-beach-date-extra-large-stand-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/8976/16064-8976-eeb3356030c43707a220ef5ab6454fdc-720x800.jpg"
+          "role": "product",
+          "source_url": "https://cdn.amnibus.com/upload/save_image/20260217185816_69943bb8c89355.14236159.jpg"
         }
       ],
       "sales": [
         {
           "seller": "AMNIBUS",
           "phase": "general_sale",
-          "url": "https://prtimes.jp/main/html/rd/p/000008976.000016064.html"
+          "url": "https://amnibus.com/products/detail/115775"
         }
       ],
       "sources": [
         {
-          "url": "https://prtimes.jp/main/html/rd/p/000008976.000016064.html",
+          "url": "https://amnibus.com/products/detail/115775",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -18855,7 +17526,7 @@
         "温水佳树",
         "新规绘制"
       ],
-      "notes": "当前使用明确包含温水佳树的官方活动阵容图，佳树单品图仍待替换。"
+      "notes": "已按 AMNIBUS 官方角色单品页与主图核对。"
     },
     {
       "id": "amnibus-beach-date-bromide",
@@ -18913,7 +17584,7 @@
       "id": "amnibus-beach-date-big-stand-kaju",
       "global_product_id": "amnibus-beach-date-big-stand-kaju",
       "character_id": "nukumizu-kaju",
-      "name_ja": "描き下ろし 温水 佳樹 ビーチデートver. BIGアクリルスタンド",
+      "name_ja": "描き下ろし 温水佳樹 ビーチデートver. BIGアクリルスタンド",
       "name_zh": "海滩约会 BIG亚克力立牌 温水佳树",
       "category_id": "acrylic_stand",
       "campaign_id": "beach-date-2026",
@@ -18933,24 +17604,24 @@
       "verification": "confirmed_text",
       "images": [
         {
-          "path": "images/items/source-f32b1a74f0a4051b3cb7.jpg",
+          "path": "images/items/amnibus-beach-date-big-stand-kaju.jpg",
           "thumbnail_path": "images/thumbs/amnibus-beach-date-big-stand-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/8976/16064-8976-eeb3356030c43707a220ef5ab6454fdc-720x800.jpg"
+          "role": "product",
+          "source_url": "https://cdn.amnibus.com/upload/save_image/20260217185934_69943c06b26908.54589086.jpg"
         }
       ],
       "sales": [
         {
           "seller": "AMNIBUS",
           "phase": "general_sale",
-          "url": "https://prtimes.jp/main/html/rd/p/000008976.000016064.html"
+          "url": "https://amnibus.com/products/detail/115771"
         }
       ],
       "sources": [
         {
-          "url": "https://prtimes.jp/main/html/rd/p/000008976.000016064.html",
+          "url": "https://amnibus.com/products/detail/115771",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -18959,13 +17630,13 @@
         "温水佳树",
         "新规绘制"
       ],
-      "notes": "当前使用明确包含温水佳树的官方活动阵容图，佳树单品图仍待替换。"
+      "notes": "已按 AMNIBUS 官方角色单品页与主图核对。"
     },
     {
       "id": "amnibus-beach-date-big-silhouette-tshirt-kaju",
       "global_product_id": "amnibus-beach-date-big-silhouette-tshirt-kaju",
       "character_id": "nukumizu-kaju",
-      "name_ja": "温水 佳樹 ビーチデートver. 着用BIGシルエットTシャツ",
+      "name_ja": "温水佳樹 ビーチデートver. 着用BIGシルエットTシャツ",
       "name_zh": "海滩约会 宽松T恤 温水佳树",
       "category_id": "apparel",
       "campaign_id": "beach-date-2026",
@@ -18985,24 +17656,24 @@
       "verification": "confirmed_text",
       "images": [
         {
-          "path": "images/items/source-f32b1a74f0a4051b3cb7.jpg",
+          "path": "images/items/amnibus-beach-date-big-silhouette-tshirt-kaju.jpg",
           "thumbnail_path": "images/thumbs/amnibus-beach-date-big-silhouette-tshirt-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/8976/16064-8976-eeb3356030c43707a220ef5ab6454fdc-720x800.jpg"
+          "role": "product",
+          "source_url": "https://cdn.amnibus.com/upload/save_image/20260217185320_69943a903410c6.06974043.jpg"
         }
       ],
       "sales": [
         {
           "seller": "AMNIBUS",
           "phase": "general_sale",
-          "url": "https://prtimes.jp/main/html/rd/p/000008976.000016064.html"
+          "url": "https://amnibus.com/products/detail/103725"
         }
       ],
       "sources": [
         {
-          "url": "https://prtimes.jp/main/html/rd/p/000008976.000016064.html",
+          "url": "https://amnibus.com/products/detail/103725",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -19011,13 +17682,13 @@
         "温水佳树",
         "新规绘制"
       ],
-      "notes": "当前使用明确包含温水佳树的官方活动阵容图，佳树单品图仍待替换。"
+      "notes": "已按 AMNIBUS 官方角色单品页与主图核对。"
     },
     {
       "id": "amnibus-beach-date-big-keychain-kaju",
       "global_product_id": "amnibus-beach-date-big-keychain-kaju",
       "character_id": "nukumizu-kaju",
-      "name_ja": "描き下ろし 温水 佳樹 ビーチデートver. BIGアクリルキーホルダー",
+      "name_ja": "描き下ろし 温水佳樹 ビーチデートver. BIGアクリルキーホルダー",
       "name_zh": "海滩约会 BIG亚克力挂件 温水佳树",
       "category_id": "acrylic_keychain",
       "campaign_id": "beach-date-2026",
@@ -19037,24 +17708,24 @@
       "verification": "confirmed_text",
       "images": [
         {
-          "path": "images/items/source-f32b1a74f0a4051b3cb7.jpg",
+          "path": "images/items/amnibus-beach-date-big-keychain-kaju.jpg",
           "thumbnail_path": "images/thumbs/amnibus-beach-date-big-keychain-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/8976/16064-8976-eeb3356030c43707a220ef5ab6454fdc-720x800.jpg"
+          "role": "product",
+          "source_url": "https://cdn.amnibus.com/upload/save_image/20260217190033_69943c41871c82.11149789.jpg"
         }
       ],
       "sales": [
         {
           "seller": "AMNIBUS",
           "phase": "general_sale",
-          "url": "https://prtimes.jp/main/html/rd/p/000008976.000016064.html"
+          "url": "https://amnibus.com/products/detail/115779"
         }
       ],
       "sources": [
         {
-          "url": "https://prtimes.jp/main/html/rd/p/000008976.000016064.html",
+          "url": "https://amnibus.com/products/detail/115779",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -19063,7 +17734,7 @@
         "温水佳树",
         "新规绘制"
       ],
-      "notes": "当前使用明确包含温水佳树的官方活动阵容图，佳树单品图仍待替换。"
+      "notes": "已按 AMNIBUS 官方角色单品页与主图核对。"
     },
     {
       "id": "amnibus-beach-date-acrylic-card",
@@ -19121,7 +17792,7 @@
       "id": "amnibus-beach-date-100mm-badge-kaju",
       "global_product_id": "amnibus-beach-date-100mm-badge-kaju",
       "character_id": "nukumizu-kaju",
-      "name_ja": "描き下ろし 温水 佳樹 ビーチデートver. 100mm缶バッジ",
+      "name_ja": "描き下ろし 温水佳樹 ビーチデートver. 100mm缶バッジ",
       "name_zh": "海滩约会 100mm徽章 温水佳树",
       "category_id": "can_badge",
       "campaign_id": "beach-date-2026",
@@ -19141,24 +17812,24 @@
       "verification": "confirmed_text",
       "images": [
         {
-          "path": "images/items/source-f32b1a74f0a4051b3cb7.jpg",
+          "path": "images/items/amnibus-beach-date-100mm-badge-kaju.jpg",
           "thumbnail_path": "images/thumbs/amnibus-beach-date-100mm-badge-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/8976/16064-8976-eeb3356030c43707a220ef5ab6454fdc-720x800.jpg"
+          "role": "product",
+          "source_url": "https://cdn.amnibus.com/upload/save_image/20260217190120_69943c70691264.17036423.jpg"
         }
       ],
       "sales": [
         {
           "seller": "AMNIBUS",
           "phase": "general_sale",
-          "url": "https://prtimes.jp/main/html/rd/p/000008976.000016064.html"
+          "url": "https://amnibus.com/products/detail/115783"
         }
       ],
       "sources": [
         {
-          "url": "https://prtimes.jp/main/html/rd/p/000008976.000016064.html",
+          "url": "https://amnibus.com/products/detail/115783",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -19167,7 +17838,7 @@
         "温水佳树",
         "新规绘制"
       ],
-      "notes": "当前使用明确包含温水佳树的官方活动阵容图，佳树单品图仍待替换。"
+      "notes": "已按 AMNIBUS 官方角色单品页与主图核对。"
     },
     {
       "id": "animate-2990536",
@@ -19779,6 +18450,162 @@
         "温水佳树"
       ],
       "notes": null
+    },
+    {
+      "id": "bddvd-animate-anna-kaju-tapestry",
+      "global_product_id": "bddvd-animate-anna-kaju-tapestry",
+      "character_id": "nukumizu-kaju",
+      "name_ja": "全巻特典 描き下ろし 八奈見杏菜＆温水佳樹 イラスト B2タペストリー",
+      "name_zh": "Blu-ray/DVD Animate 全卷特典 B2挂毯 八奈见杏菜＆温水佳树",
+      "category_id": "tapestry",
+      "campaign_id": "anime-bddvd-store-benefits",
+      "manufacturer_id": "aniplex",
+      "variant": "八奈见杏菜＆温水佳树",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": null,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/bddvd-animate-anna-kaju-tapestry.jpg",
+          "thumbnail_path": "images/thumbs/bddvd-animate-anna-kaju-tapestry.webp",
+          "role": "product",
+          "source_url": "https://makeine-anime.com/assets/img/bddvd/img_goods_animate_02.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "Animate",
+          "phase": "purchase_bonus",
+          "url": "https://makeine-anime.com/bddvd/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://makeine-anime.com/bddvd/",
+          "type": "official",
+          "checked_at": "2026-10-07"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "Blu-ray/DVD",
+        "店铺特典",
+        "八奈见杏菜＆温水佳树"
+      ],
+      "notes": "已按动画官网 Blu-ray/DVD 店铺特典清单与官方商品图核对。"
+    },
+    {
+      "id": "bddvd-animate-anna-kaju-acrylic-stand",
+      "global_product_id": "bddvd-animate-anna-kaju-acrylic-stand",
+      "character_id": "nukumizu-kaju",
+      "name_ja": "全巻特典 描き下ろし 八奈見杏菜＆温水佳樹 イラストアクリルスタンド",
+      "name_zh": "Blu-ray/DVD Animate 全卷特典 亚克力立牌 八奈见杏菜＆温水佳树",
+      "category_id": "acrylic_stand",
+      "campaign_id": "anime-bddvd-store-benefits",
+      "manufacturer_id": "aniplex",
+      "variant": "八奈见杏菜＆温水佳树",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": null,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/bddvd-animate-anna-kaju-acrylic-stand.jpg",
+          "thumbnail_path": "images/thumbs/bddvd-animate-anna-kaju-acrylic-stand.webp",
+          "role": "product",
+          "source_url": "https://makeine-anime.com/assets/img/bddvd/img_goods_animate_01.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "Animate",
+          "phase": "purchase_bonus",
+          "url": "https://makeine-anime.com/bddvd/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://makeine-anime.com/bddvd/",
+          "type": "official",
+          "checked_at": "2026-10-07"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "Blu-ray/DVD",
+        "店铺特典",
+        "八奈见杏菜＆温水佳树"
+      ],
+      "notes": "已按动画官网 Blu-ray/DVD 店铺特典清单与官方商品图核对。"
+    },
+    {
+      "id": "amnibus-jr2-deskmat-a",
+      "global_product_id": "amnibus-jr2-deskmat-a",
+      "character_id": "nukumizu-kaju",
+      "name_ja": "描き下ろし 集合A 駅員ver. 第2弾 マルチデスクマット",
+      "name_zh": "JR 东海第二弹新绘多用途桌垫 A",
+      "category_id": "stationery",
+      "campaign_id": "jr-central-oshi-tabi-station-staff-2",
+      "manufacturer_id": "arma-bianca",
+      "variant": "集合A图案包含温水佳树",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "约60×35cm",
+        "material": "ポリエステル・ラバー"
+      },
+      "release_date": null,
+      "list_price_yen": 3960,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/amnibus-jr2-deskmat-a.jpg",
+          "thumbnail_path": "images/thumbs/amnibus-jr2-deskmat-a.webp",
+          "role": "product",
+          "source_url": "https://cdn.amnibus.com/upload/save_image/20250930145403_68db707be1e015.92481735.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "AMNIBUS",
+          "phase": "general_sale",
+          "url": "https://amnibus.com/products/detail/93948"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://amnibus.com/products/detail/93948",
+          "type": "official_retail",
+          "checked_at": "2026-10-07"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "JR东海",
+        "站员装",
+        "温水佳树"
+      ],
+      "notes": "官方商品图确认集合A图案包含温水和彦、八奈见杏菜、烧盐柠檬、小鞠知花、温水佳树。"
     }
   ]
 }
