@@ -4,7 +4,7 @@
   "catalog": {
     "title": "温水佳树制品图鉴",
     "scope": "《败犬女主太多了！》中明确包含温水佳树的官方实体制品",
-    "updated_at": "2026-10-07",
+    "updated_at": "2026-10-08",
     "status": "collecting"
   },
   "character": {
@@ -1742,7 +1742,7 @@
       "name_ja": "まるっとスタンドキーホルダー /01 全9種",
       "name_zh": "CS.FRONT /01 随机竖牌挂件",
       "category_id": "acrylic_keychain",
-      "campaign_id": "cs-front-01",
+      "campaign_id": "cs-front",
       "manufacturer_id": "cs-front",
       "variant": "随机款式包含温水佳树",
       "sale_format": {
@@ -1793,7 +1793,7 @@
       "name_ja": "缶バッジ /01 全9種",
       "name_zh": "CS.FRONT /01 随机徽章",
       "category_id": "can_badge",
-      "campaign_id": "cs-front-01",
+      "campaign_id": "cs-front",
       "manufacturer_id": "cs-front",
       "variant": "随机款式包含温水佳树",
       "sale_format": {
@@ -1844,7 +1844,7 @@
       "name_ja": "アクリルカード /01 全9種",
       "name_zh": "CS.FRONT /01 随机亚克力卡",
       "category_id": "card",
-      "campaign_id": "cs-front-01",
+      "campaign_id": "cs-front",
       "manufacturer_id": "cs-front",
       "variant": "随机款式包含温水佳树",
       "sale_format": {
@@ -1895,7 +1895,7 @@
       "name_ja": "アクリルボード -技- /01 集合",
       "name_zh": "CS.FRONT /01 集合亚克力板",
       "category_id": "acrylic_art",
-      "campaign_id": "cs-front-01",
+      "campaign_id": "cs-front",
       "manufacturer_id": "cs-front",
       "variant": "群像图案包含温水佳树",
       "sale_format": {
@@ -5376,7 +5376,7 @@
       "global_product_id": "retro-cafe-sns-keychain-kaju",
       "character_id": "nukumizu-kaju",
       "name_ja": "SNS風アクリルキーホルダー 温水佳樹 レトロカフェ ver.",
-      "name_zh": "复古咖啡厅 SNS风亚克力挂件 温水佳树",
+      "name_zh": "京まふ 2025 复古咖啡厅 SNS风亚克力挂件 温水佳树",
       "category_id": "acrylic_keychain",
       "campaign_id": "kyomaf-retro-cafe-2025",
       "manufacturer_id": "contents-seed",
@@ -5426,7 +5426,7 @@
       "global_product_id": "retro-cafe-mini-acrylic-art",
       "character_id": "nukumizu-kaju",
       "name_ja": "ミニアクリルアート レトロカフェ ver.",
-      "name_zh": "复古咖啡厅 迷你亚克力艺术板",
+      "name_zh": "京まふ 2025 复古咖啡厅 迷你亚克力艺术板",
       "category_id": "acrylic_art",
       "campaign_id": "kyomaf-retro-cafe-2025",
       "manufacturer_id": "contents-seed",
@@ -5476,7 +5476,7 @@
       "global_product_id": "retro-cafe-hologram-badge",
       "character_id": "nukumizu-kaju",
       "name_ja": "ホログラムカンバッジ(ランダム) レトロカフェ ver.",
-      "name_zh": "复古咖啡厅 随机镭射徽章",
+      "name_zh": "京まふ 2025 复古咖啡厅 随机镭射徽章",
       "category_id": "can_badge",
       "campaign_id": "kyomaf-retro-cafe-2025",
       "manufacturer_id": "contents-seed",
@@ -5526,7 +5526,7 @@
       "global_product_id": "retro-cafe-extra-large-tapestry-kaju",
       "character_id": "nukumizu-kaju",
       "name_ja": "特大タペストリー 温水佳樹 レトロカフェ ver.",
-      "name_zh": "复古咖啡厅 特大挂毯 温水佳树",
+      "name_zh": "京まふ 2025 复古咖啡厅 特大挂毯 温水佳树",
       "category_id": "tapestry",
       "campaign_id": "kyomaf-retro-cafe-2025",
       "manufacturer_id": "contents-seed",
@@ -5576,7 +5576,7 @@
       "global_product_id": "retro-cafe-deka-stand-kaju",
       "character_id": "nukumizu-kaju",
       "name_ja": "デカアクリルスタンド 温水佳樹 レトロカフェ ver.",
-      "name_zh": "复古咖啡厅 大型亚克力立牌 温水佳树",
+      "name_zh": "京まふ 2025 复古咖啡厅 大型亚克力立牌 温水佳树",
       "category_id": "acrylic_stand",
       "campaign_id": "kyomaf-retro-cafe-2025",
       "manufacturer_id": "contents-seed",
@@ -5626,7 +5626,7 @@
       "global_product_id": "retro-cafe-bromide-bonus",
       "character_id": "nukumizu-kaju",
       "name_ja": "購入特典 ブロマイド レトロカフェ ver.",
-      "name_zh": "复古咖啡厅 满额赠品照片卡",
+      "name_zh": "京まふ 2025 复古咖啡厅 满额赠品照片卡",
       "category_id": "card",
       "campaign_id": "kyomaf-retro-cafe-2025",
       "manufacturer_id": "contents-seed",
@@ -5936,7 +5936,7 @@
       "global_product_id": "animega-chibi-2025-trading-keychain",
       "character_id": "nukumizu-kaju",
       "name_ja": "トレーディングアクリルキーホルダー",
-      "name_zh": "Animega原创Q版 随机亚克力挂件",
+      "name_zh": "Animega×Sofmap Q版 随机亚克力挂件",
       "category_id": "acrylic_keychain",
       "campaign_id": "animega-chibi-2025",
       "manufacturer_id": "edieth-animega-sofmap",
@@ -5955,6 +5955,12 @@
       "verification": "confirmed_text",
       "images": [
         {
+          "path": "images/items/source-7e8f4f8b636353a08c62.jpg",
+          "thumbnail_path": "images/thumbs/suzuki-haruka-trading-keychain.webp",
+          "role": "lineup",
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4571694210106_1_1762945517.jpg"
+        },
+        {
           "path": "images/items/source-563d81da31be575b2319.jpg",
           "thumbnail_path": "images/thumbs/animega-chibi-2025-trading-keychain-kaju.webp",
           "role": "lineup",
@@ -5966,6 +5972,11 @@
           "seller": "アニメガ×ソフマップ",
           "phase": "general_sale",
           "url": "https://prtimes.jp/main/html/rd/p/000000244.000066407.html"
+        },
+        {
+          "seller": "Animate",
+          "phase": "general_sale",
+          "url": "https://www.animate-onlineshop.jp/products/detail.php?product_id=3306414"
         }
       ],
       "sources": [
@@ -5973,20 +5984,25 @@
           "url": "https://prtimes.jp/main/html/rd/p/000000244.000066407.html",
           "type": "official",
           "checked_at": "2026-10-04"
+        },
+        {
+          "url": "https://www.animate-onlineshop.jp/products/detail.php?product_id=3306414",
+          "type": "seller",
+          "checked_at": "2026-10-04"
         }
       ],
       "tags": [
         "动画版",
         "温水佳树"
       ],
-      "notes": null
+      "notes": "JAN 4571694210106。"
     },
     {
       "id": "animega-chibi-2025-trading-card-kaju",
       "global_product_id": "animega-chibi-2025-trading-card",
       "character_id": "nukumizu-kaju",
       "name_ja": "トレーディングカード",
-      "name_zh": "Animega原创Q版 随机卡片",
+      "name_zh": "Animega×Sofmap Q版 随机卡片",
       "category_id": "card",
       "campaign_id": "animega-chibi-2025",
       "manufacturer_id": "edieth-animega-sofmap",
@@ -6005,6 +6021,12 @@
       "verification": "confirmed_text",
       "images": [
         {
+          "path": "images/items/source-54026cb2af7ee0453c4d.jpg",
+          "thumbnail_path": "images/thumbs/suzuki-haruka-trading-card.webp",
+          "role": "lineup",
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4571694210151_1_1762945516.jpg"
+        },
+        {
           "path": "images/items/source-1e94d3998ba680221f8d.jpg",
           "thumbnail_path": "images/thumbs/animega-chibi-2025-trading-card-kaju.webp",
           "role": "lineup",
@@ -6016,6 +6038,11 @@
           "seller": "アニメガ×ソフマップ",
           "phase": "general_sale",
           "url": "https://prtimes.jp/main/html/rd/p/000000244.000066407.html"
+        },
+        {
+          "seller": "Animate",
+          "phase": "general_sale",
+          "url": "https://www.animate-onlineshop.jp/products/detail.php?product_id=3306417"
         }
       ],
       "sources": [
@@ -6023,20 +6050,25 @@
           "url": "https://prtimes.jp/main/html/rd/p/000000244.000066407.html",
           "type": "official",
           "checked_at": "2026-10-04"
+        },
+        {
+          "url": "https://www.animate-onlineshop.jp/products/detail.php?product_id=3306417",
+          "type": "seller",
+          "checked_at": "2026-10-04"
         }
       ],
       "tags": [
         "动画版",
         "温水佳树"
       ],
-      "notes": null
+      "notes": "JAN 4571694210151。"
     },
     {
       "id": "animega-chibi-2025-sticker-set",
       "global_product_id": "animega-chibi-2025-sticker-set",
       "character_id": "nukumizu-kaju",
       "name_ja": "ダイカットステッカーセット",
-      "name_zh": "Animega原创Q版 异形贴纸套装",
+      "name_zh": "Animega×Sofmap Q版 异形贴纸套装",
       "category_id": "sticker",
       "campaign_id": "animega-chibi-2025",
       "manufacturer_id": "edieth-animega-sofmap",
@@ -6055,6 +6087,12 @@
       "verification": "confirmed_text",
       "images": [
         {
+          "path": "images/items/source-0b4135c9e217e7907399.jpg",
+          "thumbnail_path": "images/thumbs/suzuki-haruka-diecut-sticker-set.webp",
+          "role": "lineup",
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4571694210144_1_1762945521.jpg"
+        },
+        {
           "path": "images/items/source-590dde5a130626589b8d.jpg",
           "thumbnail_path": "images/thumbs/animega-chibi-2025-sticker-set.webp",
           "role": "lineup",
@@ -6066,6 +6104,11 @@
           "seller": "アニメガ×ソフマップ",
           "phase": "general_sale",
           "url": "https://prtimes.jp/main/html/rd/p/000000244.000066407.html"
+        },
+        {
+          "seller": "Animate",
+          "phase": "general_sale",
+          "url": "https://www.animate-onlineshop.jp/products/detail.php?product_id=3306416"
         }
       ],
       "sources": [
@@ -6073,20 +6116,25 @@
           "url": "https://prtimes.jp/main/html/rd/p/000000244.000066407.html",
           "type": "official",
           "checked_at": "2026-10-04"
+        },
+        {
+          "url": "https://www.animate-onlineshop.jp/products/detail.php?product_id=3306416",
+          "type": "seller",
+          "checked_at": "2026-10-04"
         }
       ],
       "tags": [
         "动画版",
         "温水佳树"
       ],
-      "notes": null
+      "notes": "JAN 4571694210144。"
     },
     {
       "id": "animega-chibi-2025-stand-kaju",
       "global_product_id": "animega-chibi-2025-stand-kaju",
       "character_id": "nukumizu-kaju",
       "name_ja": "アクリルスタンド 温水佳樹",
-      "name_zh": "Animega原创Q版 亚克力立牌 温水佳树",
+      "name_zh": "Animega×Sofmap Q版 亚克力立牌 温水佳树",
       "category_id": "acrylic_stand",
       "campaign_id": "animega-chibi-2025",
       "manufacturer_id": "edieth-animega-sofmap",
@@ -6105,6 +6153,12 @@
       "verification": "confirmed_text",
       "images": [
         {
+          "path": "images/items/source-c97faf2a31cfdac21fe2.jpg",
+          "thumbnail_path": "images/thumbs/suzuki-haruka-stand-kaju.webp",
+          "role": "product",
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4571694210069_1_1762945506.jpg"
+        },
+        {
           "path": "images/items/source-c38e0d3bed541e016279.jpg",
           "thumbnail_path": "images/thumbs/animega-chibi-2025-stand-kaju.webp",
           "role": "lineup",
@@ -6116,6 +6170,11 @@
           "seller": "アニメガ×ソフマップ",
           "phase": "general_sale",
           "url": "https://prtimes.jp/main/html/rd/p/000000244.000066407.html"
+        },
+        {
+          "seller": "Animate",
+          "phase": "general_sale",
+          "url": "https://www.animate-onlineshop.jp/products/detail.php?product_id=3306410"
         }
       ],
       "sources": [
@@ -6123,20 +6182,25 @@
           "url": "https://prtimes.jp/main/html/rd/p/000000244.000066407.html",
           "type": "official",
           "checked_at": "2026-10-04"
+        },
+        {
+          "url": "https://www.animate-onlineshop.jp/products/detail.php?product_id=3306410",
+          "type": "seller",
+          "checked_at": "2026-10-04"
         }
       ],
       "tags": [
         "动画版",
         "温水佳树"
       ],
-      "notes": null
+      "notes": "JAN 4571694210069。"
     },
     {
       "id": "animega-chibi-2025-postcard-bonus-kaju",
       "global_product_id": "animega-chibi-2025-postcard-bonus-kaju",
       "character_id": "nukumizu-kaju",
       "name_ja": "ノベルティポストカード 温水佳樹",
-      "name_zh": "Animega原创Q版 购入特典明信片 温水佳树款",
+      "name_zh": "Animega×Sofmap Q版 购入特典明信片 温水佳树款",
       "category_id": "card",
       "campaign_id": "animega-chibi-2025",
       "manufacturer_id": "edieth-animega-sofmap",
@@ -6186,7 +6250,7 @@
       "global_product_id": "animega-chibi-2025-metal-badge",
       "character_id": "nukumizu-kaju",
       "name_ja": "トレーディングメタリック缶バッジ",
-      "name_zh": "Animega原创Q版 随机金属徽章",
+      "name_zh": "Animega×Sofmap Q版 随机金属徽章",
       "category_id": "can_badge",
       "campaign_id": "animega-chibi-2025",
       "manufacturer_id": "edieth-animega-sofmap",
@@ -6205,6 +6269,12 @@
       "verification": "confirmed_text",
       "images": [
         {
+          "path": "images/items/source-70a1e3c2e35d0d9bf008.jpg",
+          "thumbnail_path": "images/thumbs/suzuki-haruka-trading-metallic-badge.webp",
+          "role": "lineup",
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4571694210120_1_1762945521.jpg"
+        },
+        {
           "path": "images/items/source-d2b210c51d476d453ad5.jpg",
           "thumbnail_path": "images/thumbs/animega-chibi-2025-metal-badge-kaju.webp",
           "role": "lineup",
@@ -6216,6 +6286,11 @@
           "seller": "アニメガ×ソフマップ",
           "phase": "general_sale",
           "url": "https://prtimes.jp/main/html/rd/p/000000244.000066407.html"
+        },
+        {
+          "seller": "Animate",
+          "phase": "general_sale",
+          "url": "https://www.animate-onlineshop.jp/products/detail.php?product_id=3306415"
         }
       ],
       "sources": [
@@ -6223,20 +6298,25 @@
           "url": "https://prtimes.jp/main/html/rd/p/000000244.000066407.html",
           "type": "official",
           "checked_at": "2026-10-04"
+        },
+        {
+          "url": "https://www.animate-onlineshop.jp/products/detail.php?product_id=3306415",
+          "type": "seller",
+          "checked_at": "2026-10-04"
         }
       ],
       "tags": [
         "动画版",
         "温水佳树"
       ],
-      "notes": null
+      "notes": "JAN 4571694210120。"
     },
     {
       "id": "animega-chibi-2025-long-tshirt",
       "global_product_id": "animega-chibi-2025-long-tshirt",
       "character_id": "nukumizu-kaju",
       "name_ja": "ロングTシャツ",
-      "name_zh": "Animega原创Q版 长袖T恤",
+      "name_zh": "Animega×Sofmap Q版 长袖T恤",
       "category_id": "apparel",
       "campaign_id": "animega-chibi-2025",
       "manufacturer_id": "edieth-animega-sofmap",
@@ -6255,6 +6335,12 @@
       "verification": "confirmed_text",
       "images": [
         {
+          "path": "images/items/source-9b0261c2bc8db7170d63.jpg",
+          "thumbnail_path": "images/thumbs/suzuki-haruka-long-tshirt.webp",
+          "role": "product",
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4571694210199_1_1762945518.jpg"
+        },
+        {
           "path": "images/items/source-2dd9a98237ec3b342d8d.jpg",
           "thumbnail_path": "images/thumbs/animega-chibi-2025-long-tshirt.webp",
           "role": "lineup",
@@ -6266,6 +6352,11 @@
           "seller": "アニメガ×ソフマップ",
           "phase": "general_sale",
           "url": "https://prtimes.jp/main/html/rd/p/000000244.000066407.html"
+        },
+        {
+          "seller": "Animate",
+          "phase": "general_sale",
+          "url": "https://www.animate-onlineshop.jp/products/detail.php?product_id=3306419"
         }
       ],
       "sources": [
@@ -6273,20 +6364,25 @@
           "url": "https://prtimes.jp/main/html/rd/p/000000244.000066407.html",
           "type": "official",
           "checked_at": "2026-10-04"
+        },
+        {
+          "url": "https://www.animate-onlineshop.jp/products/detail.php?product_id=3306419",
+          "type": "seller",
+          "checked_at": "2026-10-04"
         }
       ],
       "tags": [
         "动画版",
         "温水佳树"
       ],
-      "notes": null
+      "notes": "M款 JAN 4571694210199；L款另有独立商品页。"
     },
     {
       "id": "animega-chibi-2025-frosted-mug",
       "global_product_id": "animega-chibi-2025-frosted-mug",
       "character_id": "nukumizu-kaju",
       "name_ja": "フロストマグカップ",
-      "name_zh": "Animega原创Q版 磨砂玻璃杯",
+      "name_zh": "Animega×Sofmap Q版 磨砂玻璃杯",
       "category_id": "tableware",
       "campaign_id": "animega-chibi-2025",
       "manufacturer_id": "edieth-animega-sofmap",
@@ -6305,6 +6401,12 @@
       "verification": "confirmed_text",
       "images": [
         {
+          "path": "images/items/source-ff6cb8a1094264dccb87.jpg",
+          "thumbnail_path": "images/thumbs/suzuki-haruka-frosted-mug.webp",
+          "role": "product",
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4571694210175_1_1762945511.jpg"
+        },
+        {
           "path": "images/items/source-96b65c8c3a72042f4d19.jpg",
           "thumbnail_path": "images/thumbs/animega-chibi-2025-frosted-mug.webp",
           "role": "lineup",
@@ -6316,6 +6418,11 @@
           "seller": "アニメガ×ソフマップ",
           "phase": "general_sale",
           "url": "https://prtimes.jp/main/html/rd/p/000000244.000066407.html"
+        },
+        {
+          "seller": "Animate",
+          "phase": "general_sale",
+          "url": "https://www.animate-onlineshop.jp/products/detail.php?product_id=3306418"
         }
       ],
       "sources": [
@@ -6323,20 +6430,25 @@
           "url": "https://prtimes.jp/main/html/rd/p/000000244.000066407.html",
           "type": "official",
           "checked_at": "2026-10-04"
+        },
+        {
+          "url": "https://www.animate-onlineshop.jp/products/detail.php?product_id=3306418",
+          "type": "seller",
+          "checked_at": "2026-10-04"
         }
       ],
       "tags": [
         "动画版",
         "温水佳树"
       ],
-      "notes": null
+      "notes": "JAN 4571694210175。"
     },
     {
       "id": "animega-chibi-2025-eco-bag",
       "global_product_id": "animega-chibi-2025-eco-bag",
       "character_id": "nukumizu-kaju",
       "name_ja": "エコバッグ",
-      "name_zh": "Animega原创Q版 环保袋",
+      "name_zh": "Animega×Sofmap Q版 环保袋",
       "category_id": "bag",
       "campaign_id": "animega-chibi-2025",
       "manufacturer_id": "edieth-animega-sofmap",
@@ -6386,7 +6498,7 @@
       "global_product_id": "animega-chibi-2025-cushion-kaju",
       "character_id": "nukumizu-kaju",
       "name_ja": "ダイカットクッション 温水佳樹",
-      "name_zh": "Animega原创Q版 异形抱枕 温水佳树",
+      "name_zh": "Animega×Sofmap Q版 异形抱枕 温水佳树",
       "category_id": "fabric_goods",
       "campaign_id": "animega-chibi-2025",
       "manufacturer_id": "edieth-animega-sofmap",
@@ -6436,7 +6548,7 @@
       "global_product_id": "animega-chibi-2025-big-stand-kaju",
       "character_id": "nukumizu-kaju",
       "name_ja": "ビッグアクリルスタンド 温水佳樹",
-      "name_zh": "Animega原创Q版 大型亚克力立牌 温水佳树",
+      "name_zh": "Animega×Sofmap Q版 大型亚克力立牌 温水佳树",
       "category_id": "acrylic_stand",
       "campaign_id": "animega-chibi-2025",
       "manufacturer_id": "edieth-animega-sofmap",
@@ -12024,356 +12136,6 @@
       "notes": null
     },
     {
-      "id": "suzuki-haruka-trading-metallic-badge",
-      "global_product_id": "suzuki-haruka-trading-metallic-badge",
-      "character_id": "nukumizu-kaju",
-      "name_ja": "鈴木ハルカ トレーディングメタリック缶バッジ",
-      "name_zh": "铃木ハルカ联动 随机金属质感徽章",
-      "category_id": "can_badge",
-      "campaign_id": "suzuki-haruka-illustration",
-      "manufacturer_id": "edieth-animega-sofmap",
-      "variant": "全8款中包含温水佳树",
-      "sale_format": {
-        "type": "random",
-        "total_variants": 8
-      },
-      "spec": {
-        "size": null,
-        "material": null
-      },
-      "release_date": null,
-      "list_price_yen": 550,
-      "official_status": "official",
-      "verification": "confirmed_text",
-      "images": [
-        {
-          "path": "images/items/source-70a1e3c2e35d0d9bf008.jpg",
-          "thumbnail_path": "images/thumbs/suzuki-haruka-trading-metallic-badge.webp",
-          "role": "lineup",
-          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4571694210120_1_1762945521.jpg"
-        }
-      ],
-      "sales": [
-        {
-          "seller": "Animate",
-          "phase": "general_sale",
-          "url": "https://www.animate-onlineshop.jp/products/detail.php?product_id=3306415"
-        }
-      ],
-      "sources": [
-        {
-          "url": "https://www.animate-onlineshop.jp/products/detail.php?product_id=3306415",
-          "type": "seller",
-          "checked_at": "2026-10-04"
-        }
-      ],
-      "tags": [
-        "动画版",
-        "温水佳树"
-      ],
-      "notes": "JAN 4571694210120。"
-    },
-    {
-      "id": "suzuki-haruka-trading-keychain",
-      "global_product_id": "suzuki-haruka-trading-keychain",
-      "character_id": "nukumizu-kaju",
-      "name_ja": "鈴木ハルカ トレーディングアクリルキーホルダー",
-      "name_zh": "铃木ハルカ联动 随机亚克力挂件",
-      "category_id": "acrylic_keychain",
-      "campaign_id": "suzuki-haruka-illustration",
-      "manufacturer_id": "edieth-animega-sofmap",
-      "variant": "全8款中包含温水佳树",
-      "sale_format": {
-        "type": "random",
-        "total_variants": 8
-      },
-      "spec": {
-        "size": "约65×65mm",
-        "material": "アクリル、鉄"
-      },
-      "release_date": null,
-      "list_price_yen": 990,
-      "official_status": "official",
-      "verification": "confirmed_text",
-      "images": [
-        {
-          "path": "images/items/source-7e8f4f8b636353a08c62.jpg",
-          "thumbnail_path": "images/thumbs/suzuki-haruka-trading-keychain.webp",
-          "role": "lineup",
-          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4571694210106_1_1762945517.jpg"
-        }
-      ],
-      "sales": [
-        {
-          "seller": "Animate",
-          "phase": "general_sale",
-          "url": "https://www.animate-onlineshop.jp/products/detail.php?product_id=3306414"
-        }
-      ],
-      "sources": [
-        {
-          "url": "https://www.animate-onlineshop.jp/products/detail.php?product_id=3306414",
-          "type": "seller",
-          "checked_at": "2026-10-04"
-        }
-      ],
-      "tags": [
-        "动画版",
-        "温水佳树"
-      ],
-      "notes": "JAN 4571694210106。"
-    },
-    {
-      "id": "suzuki-haruka-trading-card",
-      "global_product_id": "suzuki-haruka-trading-card",
-      "character_id": "nukumizu-kaju",
-      "name_ja": "鈴木ハルカ トレーディングカード",
-      "name_zh": "铃木ハルカ联动 随机卡片",
-      "category_id": "card",
-      "campaign_id": "suzuki-haruka-illustration",
-      "manufacturer_id": "edieth-animega-sofmap",
-      "variant": "全8款中包含温水佳树",
-      "sale_format": {
-        "type": "random",
-        "total_variants": 8
-      },
-      "spec": {
-        "size": "约63×88mm",
-        "material": "紙"
-      },
-      "release_date": null,
-      "list_price_yen": 440,
-      "official_status": "official",
-      "verification": "confirmed_text",
-      "images": [
-        {
-          "path": "images/items/source-54026cb2af7ee0453c4d.jpg",
-          "thumbnail_path": "images/thumbs/suzuki-haruka-trading-card.webp",
-          "role": "lineup",
-          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4571694210151_1_1762945516.jpg"
-        }
-      ],
-      "sales": [
-        {
-          "seller": "Animate",
-          "phase": "general_sale",
-          "url": "https://www.animate-onlineshop.jp/products/detail.php?product_id=3306417"
-        }
-      ],
-      "sources": [
-        {
-          "url": "https://www.animate-onlineshop.jp/products/detail.php?product_id=3306417",
-          "type": "seller",
-          "checked_at": "2026-10-04"
-        }
-      ],
-      "tags": [
-        "动画版",
-        "温水佳树"
-      ],
-      "notes": "JAN 4571694210151。"
-    },
-    {
-      "id": "suzuki-haruka-stand-kaju",
-      "global_product_id": "suzuki-haruka-stand-kaju",
-      "character_id": "nukumizu-kaju",
-      "name_ja": "鈴木ハルカ アクリルスタンド 温水佳樹",
-      "name_zh": "铃木遥香绘制 亚克力立牌 温水佳树",
-      "category_id": "acrylic_stand",
-      "campaign_id": "suzuki-haruka-illustration",
-      "manufacturer_id": "edieth-animega-sofmap",
-      "variant": "温水佳树",
-      "sale_format": {
-        "type": "single",
-        "total_variants": null
-      },
-      "spec": {
-        "size": "约100×120mm",
-        "material": "アクリル"
-      },
-      "release_date": null,
-      "list_price_yen": 1210,
-      "official_status": "official",
-      "verification": "confirmed_text",
-      "images": [
-        {
-          "path": "images/items/source-c97faf2a31cfdac21fe2.jpg",
-          "thumbnail_path": "images/thumbs/suzuki-haruka-stand-kaju.webp",
-          "role": "product",
-          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4571694210069_1_1762945506.jpg"
-        }
-      ],
-      "sales": [
-        {
-          "seller": "Animate",
-          "phase": "general_sale",
-          "url": "https://www.animate-onlineshop.jp/products/detail.php?product_id=3306410"
-        }
-      ],
-      "sources": [
-        {
-          "url": "https://www.animate-onlineshop.jp/products/detail.php?product_id=3306410",
-          "type": "seller",
-          "checked_at": "2026-10-04"
-        }
-      ],
-      "tags": [
-        "动画版",
-        "温水佳树"
-      ],
-      "notes": "JAN 4571694210069。"
-    },
-    {
-      "id": "suzuki-haruka-long-tshirt",
-      "global_product_id": "suzuki-haruka-long-tshirt",
-      "character_id": "nukumizu-kaju",
-      "name_ja": "鈴木ハルカ ロングTシャツ",
-      "name_zh": "铃木ハルカ联动 长袖T恤",
-      "category_id": "apparel",
-      "campaign_id": "suzuki-haruka-illustration",
-      "manufacturer_id": "edieth-animega-sofmap",
-      "variant": "群像图案包含温水佳树",
-      "sale_format": {
-        "type": "single",
-        "total_variants": null
-      },
-      "spec": {
-        "size": "M、L",
-        "material": "コットン"
-      },
-      "release_date": null,
-      "list_price_yen": 9350,
-      "official_status": "official",
-      "verification": "confirmed_text",
-      "images": [
-        {
-          "path": "images/items/source-9b0261c2bc8db7170d63.jpg",
-          "thumbnail_path": "images/thumbs/suzuki-haruka-long-tshirt.webp",
-          "role": "product",
-          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4571694210199_1_1762945518.jpg"
-        }
-      ],
-      "sales": [
-        {
-          "seller": "Animate",
-          "phase": "general_sale",
-          "url": "https://www.animate-onlineshop.jp/products/detail.php?product_id=3306419"
-        }
-      ],
-      "sources": [
-        {
-          "url": "https://www.animate-onlineshop.jp/products/detail.php?product_id=3306419",
-          "type": "seller",
-          "checked_at": "2026-10-04"
-        }
-      ],
-      "tags": [
-        "动画版",
-        "温水佳树"
-      ],
-      "notes": "M款 JAN 4571694210199；L款另有独立商品页。"
-    },
-    {
-      "id": "suzuki-haruka-frosted-mug",
-      "global_product_id": "suzuki-haruka-frosted-mug",
-      "character_id": "nukumizu-kaju",
-      "name_ja": "鈴木ハルカ フロストマグカップ",
-      "name_zh": "铃木ハルカ联动 磨砂马克杯",
-      "category_id": "tableware",
-      "campaign_id": "suzuki-haruka-illustration",
-      "manufacturer_id": "edieth-animega-sofmap",
-      "variant": "群像图案包含温水佳树",
-      "sale_format": {
-        "type": "single",
-        "total_variants": null
-      },
-      "spec": {
-        "size": "口径约80mm、高约97mm",
-        "material": "ガラス"
-      },
-      "release_date": null,
-      "list_price_yen": 2750,
-      "official_status": "official",
-      "verification": "confirmed_text",
-      "images": [
-        {
-          "path": "images/items/source-ff6cb8a1094264dccb87.jpg",
-          "thumbnail_path": "images/thumbs/suzuki-haruka-frosted-mug.webp",
-          "role": "product",
-          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4571694210175_1_1762945511.jpg"
-        }
-      ],
-      "sales": [
-        {
-          "seller": "Animate",
-          "phase": "general_sale",
-          "url": "https://www.animate-onlineshop.jp/products/detail.php?product_id=3306418"
-        }
-      ],
-      "sources": [
-        {
-          "url": "https://www.animate-onlineshop.jp/products/detail.php?product_id=3306418",
-          "type": "seller",
-          "checked_at": "2026-10-04"
-        }
-      ],
-      "tags": [
-        "动画版",
-        "温水佳树"
-      ],
-      "notes": "JAN 4571694210175。"
-    },
-    {
-      "id": "suzuki-haruka-diecut-sticker-set",
-      "global_product_id": "suzuki-haruka-diecut-sticker-set",
-      "character_id": "nukumizu-kaju",
-      "name_ja": "鈴木ハルカ ダイカットステッカーセット",
-      "name_zh": "铃木ハルカ联动 异形贴纸套装",
-      "category_id": "sticker",
-      "campaign_id": "suzuki-haruka-illustration",
-      "manufacturer_id": "edieth-animega-sofmap",
-      "variant": "八人套装包含温水佳树",
-      "sale_format": {
-        "type": "set",
-        "total_variants": null
-      },
-      "spec": {
-        "size": "约80×80mm",
-        "material": "紙"
-      },
-      "release_date": null,
-      "list_price_yen": 935,
-      "official_status": "official",
-      "verification": "confirmed_text",
-      "images": [
-        {
-          "path": "images/items/source-0b4135c9e217e7907399.jpg",
-          "thumbnail_path": "images/thumbs/suzuki-haruka-diecut-sticker-set.webp",
-          "role": "lineup",
-          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4571694210144_1_1762945521.jpg"
-        }
-      ],
-      "sales": [
-        {
-          "seller": "Animate",
-          "phase": "general_sale",
-          "url": "https://www.animate-onlineshop.jp/products/detail.php?product_id=3306416"
-        }
-      ],
-      "sources": [
-        {
-          "url": "https://www.animate-onlineshop.jp/products/detail.php?product_id=3306416",
-          "type": "seller",
-          "checked_at": "2026-10-04"
-        }
-      ],
-      "tags": [
-        "动画版",
-        "温水佳树"
-      ],
-      "notes": "JAN 4571694210144。"
-    },
-    {
       "id": "lifecard-point-stand-keyholder-kaju",
       "global_product_id": "lifecard-point-stand-keyholder-kaju",
       "character_id": "nukumizu-kaju",
@@ -13403,7 +13165,7 @@
       "global_product_id": "gagaga-j20260011",
       "character_id": "nukumizu-kaju",
       "name_ja": "『負けヒロインが多すぎる！』 8.5巻 アクリルアートパネル C",
-      "name_zh": "小说第 8.5 卷亚克力艺术板 C",
+      "name_zh": "小说第8.5卷 亚克力艺术板 C",
       "category_id": "acrylic_art",
       "campaign_id": "novel-volume-8-5",
       "manufacturer_id": "gagaga-shop-online",
@@ -13454,7 +13216,7 @@
       "global_product_id": "gagaga-j20260010",
       "character_id": "nukumizu-kaju",
       "name_ja": "『負けヒロインが多すぎる！』 8.5巻 アクリルアートパネル B",
-      "name_zh": "小说第 8.5 卷亚克力艺术板 B",
+      "name_zh": "小说第8.5卷 亚克力艺术板 B",
       "category_id": "acrylic_art",
       "campaign_id": "novel-volume-8-5",
       "manufacturer_id": "gagaga-shop-online",
@@ -13505,7 +13267,7 @@
       "global_product_id": "gagaga-j20260008",
       "character_id": "nukumizu-kaju",
       "name_ja": "『負けヒロインが多すぎる！』 8.5巻 口絵タペストリー C",
-      "name_zh": "小说第 8.5 卷彩页挂毯 C",
+      "name_zh": "小说第8.5卷 彩页挂毯 C",
       "category_id": "tapestry",
       "campaign_id": "novel-volume-8-5",
       "manufacturer_id": "gagaga-shop-online",
@@ -13556,7 +13318,7 @@
       "global_product_id": "gagaga-j20260007",
       "character_id": "nukumizu-kaju",
       "name_ja": "『負けヒロインが多すぎる！』 8.5巻 口絵タペストリー B",
-      "name_zh": "小说第 8.5 卷彩页挂毯 B",
+      "name_zh": "小说第8.5卷 彩页挂毯 B",
       "category_id": "tapestry",
       "campaign_id": "novel-volume-8-5",
       "manufacturer_id": "gagaga-shop-online",
@@ -13862,7 +13624,7 @@
       "global_product_id": "gagaga-j20250024",
       "character_id": "nukumizu-kaju",
       "name_ja": "『負けヒロインが多すぎる！ 7』 アクリルキーホルダーセット",
-      "name_zh": "亚克力挂件セット",
+      "name_zh": "小说第7卷 亚克力挂件套装",
       "category_id": "acrylic_keychain",
       "campaign_id": "novel-volume-7",
       "manufacturer_id": "gagaga-shop-online",
@@ -13913,7 +13675,7 @@
       "global_product_id": "gagaga-j20250023",
       "character_id": "nukumizu-kaju",
       "name_ja": "『負けヒロインが多すぎる！ 5』 アクリルキーホルダーセット",
-      "name_zh": "亚克力挂件セット",
+      "name_zh": "小说第5卷 亚克力挂件套装",
       "category_id": "acrylic_keychain",
       "campaign_id": "novel-volume-5",
       "manufacturer_id": "gagaga-shop-online",
@@ -14066,7 +13828,7 @@
       "global_product_id": "gagaga-j20230024",
       "character_id": "nukumizu-kaju",
       "name_ja": "『負けヒロインが多すぎる！ 5』アクリルアートパネル ～「どう育ってもそれはそれでーーいいんじゃね」～",
-      "name_zh": "亚克力艺术板 ～「どう育ってもそれはそれでーーいいんじゃね」～",
+      "name_zh": "小说第5卷 亚克力艺术板 不管怎样成长，那样也挺好的",
       "category_id": "acrylic_art",
       "campaign_id": "novel-volume-5",
       "manufacturer_id": "gagaga-shop-online",
@@ -14117,7 +13879,7 @@
       "global_product_id": "gagaga-j20230023",
       "character_id": "nukumizu-kaju",
       "name_ja": "『負けヒロインが多すぎる！ 5』アクリルアートパネル ～いつもとちょっと違う～",
-      "name_zh": "亚克力艺术板 ～いつもとちょっと違う～",
+      "name_zh": "小说第5卷 亚克力艺术板 与平时稍有不同",
       "category_id": "acrylic_art",
       "campaign_id": "novel-volume-5",
       "manufacturer_id": "gagaga-shop-online",
@@ -14168,7 +13930,7 @@
       "global_product_id": "gagaga-j20230018",
       "character_id": "nukumizu-kaju",
       "name_ja": "『負けヒロインが多すぎる！ 5』書影B2タペストリー",
-      "name_zh": "书影B2挂毯",
+      "name_zh": "小说第5卷 封面B2挂毯",
       "category_id": "tapestry",
       "campaign_id": "novel-volume-5",
       "manufacturer_id": "gagaga-shop-online",
@@ -14219,7 +13981,7 @@
       "global_product_id": "gagaga-j20220043",
       "character_id": "nukumizu-kaju",
       "name_ja": "『負けヒロインが多すぎる！ 2』 アクリルアートパネル ～佳樹のふわふわパンケーキ～",
-      "name_zh": "亚克力艺术板 ～佳樹のふわふわパンケーキ～",
+      "name_zh": "小说第2卷 亚克力艺术板 佳树的松软松饼",
       "category_id": "acrylic_art",
       "campaign_id": "novel-volume-2",
       "manufacturer_id": "gagaga-shop-online",
@@ -14270,7 +14032,7 @@
       "global_product_id": "gagaga-j20220040",
       "character_id": "nukumizu-kaju",
       "name_ja": "『負けヒロインが多すぎる！』 アクリルマグネットセット",
-      "name_zh": "小说第3卷亚克力磁贴套装",
+      "name_zh": "小说第3卷 亚克力磁贴套装",
       "category_id": "accessory",
       "campaign_id": "novel-volume-3",
       "manufacturer_id": "gagaga-shop-online",
@@ -14523,9 +14285,9 @@
       "global_product_id": "csfront-05-sticker-kaju",
       "character_id": "nukumizu-kaju",
       "name_ja": "ステッカー 05 温水佳樹",
-      "name_zh": "CS.FRONT /01 贴纸 05 温水佳树",
+      "name_zh": "CS.FRONT /05 贴纸 温水佳树",
       "category_id": "sticker",
-      "campaign_id": "cs-front-01",
+      "campaign_id": "cs-front",
       "manufacturer_id": "cs-front",
       "variant": "温水佳树",
       "sale_format": {
@@ -14573,9 +14335,9 @@
       "global_product_id": "csfront-05-shaker-kaju",
       "character_id": "nukumizu-kaju",
       "name_ja": "シャカシャカアクキー 05 温水佳樹",
-      "name_zh": "CS.FRONT /01 摇摇亚克力挂件 05 温水佳树",
+      "name_zh": "CS.FRONT /05 摇摇亚克力挂件 温水佳树",
       "category_id": "acrylic_keychain",
-      "campaign_id": "cs-front-01",
+      "campaign_id": "cs-front",
       "manufacturer_id": "cs-front",
       "variant": "温水佳树",
       "sale_format": {
@@ -14623,9 +14385,9 @@
       "global_product_id": "csfront-05-passcase-kaju",
       "character_id": "nukumizu-kaju",
       "name_ja": "レザーパスケース 05 温水佳樹",
-      "name_zh": "CS.FRONT /01 皮革卡套 05 温水佳树",
+      "name_zh": "CS.FRONT /05 皮革卡套 温水佳树",
       "category_id": "accessory",
-      "campaign_id": "cs-front-01",
+      "campaign_id": "cs-front",
       "manufacturer_id": "cs-front",
       "variant": "温水佳树",
       "sale_format": {
@@ -14673,9 +14435,9 @@
       "global_product_id": "csfront-05-diorama-kaju",
       "character_id": "nukumizu-kaju",
       "name_ja": "ジオラマアクリル 05 温水佳樹",
-      "name_zh": "CS.FRONT /01 场景亚克力 05 温水佳树",
+      "name_zh": "CS.FRONT /05 亚克力场景 温水佳树",
       "category_id": "acrylic_art",
-      "campaign_id": "cs-front-01",
+      "campaign_id": "cs-front",
       "manufacturer_id": "cs-front",
       "variant": "温水佳树",
       "sale_format": {
@@ -16308,7 +16070,7 @@
       "global_product_id": "amnibus-jr2-trading-stand",
       "character_id": "nukumizu-kaju",
       "name_ja": "描き下ろし 駅員ver. 第2弾 トレーディングアクリルスタンド",
-      "name_zh": "JR 东海第二弹新绘随机亚克力立牌",
+      "name_zh": "JR东海 推し旅 站员 第二弹 新绘随机亚克力立牌",
       "category_id": "acrylic_stand",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
       "manufacturer_id": "arma-bianca",
@@ -16359,7 +16121,7 @@
       "global_product_id": "amnibus-jr2-instant-card",
       "character_id": "nukumizu-kaju",
       "name_ja": "駅員ver. 第2弾 トレーディングインスタントカメラ風イラストカード",
-      "name_zh": "JR 东海第二弹随机拍立得风卡片",
+      "name_zh": "JR东海 推し旅 站员 第二弹 随机拍立得风卡片",
       "category_id": "card",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
       "manufacturer_id": "arma-bianca",
@@ -16410,7 +16172,7 @@
       "global_product_id": "amnibus-jr2-extra-large-stand-kaju",
       "character_id": "nukumizu-kaju",
       "name_ja": "描き下ろし 温水佳樹 駅員ver. 第2弾 特大アクリルスタンド",
-      "name_zh": "JR东海站员第二弹 特大亚克力立牌 温水佳树",
+      "name_zh": "JR东海 推し旅 站员 第二弹 特大亚克力立牌 温水佳树",
       "category_id": "acrylic_stand",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
       "manufacturer_id": "arma-bianca",
@@ -16462,7 +16224,7 @@
       "global_product_id": "amnibus-jr2-double-wire-keychain-kaju",
       "character_id": "nukumizu-kaju",
       "name_ja": "描き下ろし 温水佳樹 駅員ver. 第2弾 2連ワイヤーBIGアクリルキーホルダー",
-      "name_zh": "JR东海站员第二弹 双联钢丝大型亚克力挂件 温水佳树",
+      "name_zh": "JR东海 推し旅 站员 第二弹 双联钢丝大型亚克力挂件 温水佳树",
       "category_id": "acrylic_keychain",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
       "manufacturer_id": "arma-bianca",
@@ -16514,7 +16276,7 @@
       "global_product_id": "amnibus-jr2-diorama-a",
       "character_id": "nukumizu-kaju",
       "name_ja": "描き下ろし 駅員ver. 第2弾 アクリルジオラマ 集合A",
-      "name_zh": "JR东海站员第二弹 亚克力场景 A组",
+      "name_zh": "JR东海 推し旅 站员 第二弹 亚克力场景 A组",
       "category_id": "acrylic_art",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
       "manufacturer_id": "arma-bianca",
@@ -16566,7 +16328,7 @@
       "global_product_id": "amnibus-jr2-diecut-sticker-kaju",
       "character_id": "nukumizu-kaju",
       "name_ja": "描き下ろし 温水佳樹 駅員ver. 第2弾 ダイカットステッカー",
-      "name_zh": "JR东海站员第二弹 异形贴纸 温水佳树",
+      "name_zh": "JR东海 推し旅 站员 第二弹 异形贴纸 温水佳树",
       "category_id": "sticker",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
       "manufacturer_id": "arma-bianca",
@@ -16618,7 +16380,7 @@
       "global_product_id": "amnibus-jr2-chibi-stickers",
       "character_id": "nukumizu-kaju",
       "name_ja": "駅員ver. 第2弾 ちびキャラ フレークシール",
-      "name_zh": "JR 东海第二弹 Q 版散装贴纸",
+      "name_zh": "JR东海 推し旅 站员 第二弹 Q 版散装贴纸",
       "category_id": "sticker",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
       "manufacturer_id": "arma-bianca",
@@ -16669,7 +16431,7 @@
       "global_product_id": "amnibus-jr2-chibi-keychain",
       "character_id": "nukumizu-kaju",
       "name_ja": "駅員ver. 第2弾 ちびキャラ トレーディングアクリルキーホルダー",
-      "name_zh": "JR 东海第二弹 Q 版随机亚克力挂件",
+      "name_zh": "JR东海 推し旅 站员 第二弹 Q 版随机亚克力挂件",
       "category_id": "acrylic_keychain",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
       "manufacturer_id": "arma-bianca",
@@ -16720,7 +16482,7 @@
       "global_product_id": "amnibus-jr1-postcard-set",
       "character_id": "nukumizu-kaju",
       "name_ja": "描き下ろし 駅員ver. ポストカード6枚セット",
-      "name_zh": "JR东海站员第一弹明信片6枚套装",
+      "name_zh": "JR东海 推し旅 站员 第一弹 明信片6枚套装",
       "category_id": "card",
       "campaign_id": "jr-central-oshi-tabi-station-staff-1",
       "manufacturer_id": "arma-bianca",
@@ -16770,7 +16532,7 @@
       "global_product_id": "amnibus-jr1-glitter-badge",
       "character_id": "nukumizu-kaju",
       "name_ja": "描き下ろし 駅員ver. トレーディンググリッター缶バッジ",
-      "name_zh": "JR东海站员第一弹随机闪粉徽章",
+      "name_zh": "JR东海 推し旅 站员 第一弹 随机闪粉徽章",
       "category_id": "can_badge",
       "campaign_id": "jr-central-oshi-tabi-station-staff-1",
       "manufacturer_id": "arma-bianca",
@@ -16820,7 +16582,7 @@
       "global_product_id": "amnibus-jr1-chibi-stand",
       "character_id": "nukumizu-kaju",
       "name_ja": "トレーディング ちびキャラ 駅員ver. アクリルスタンド",
-      "name_zh": "JR东海站员第一弹Q版随机亚克力立牌",
+      "name_zh": "JR东海 推し旅 站员 第一弹 Q版随机亚克力立牌",
       "category_id": "acrylic_stand",
       "campaign_id": "jr-central-oshi-tabi-station-staff-1",
       "manufacturer_id": "arma-bianca",
@@ -16870,7 +16632,7 @@
       "global_product_id": "amnibus-jr1-chibi-mug",
       "character_id": "nukumizu-kaju",
       "name_ja": "ちびキャラ 駅員ver. マグカップ",
-      "name_zh": "JR东海站员第一弹Q版马克杯",
+      "name_zh": "JR东海 推し旅 站员 第一弹 Q版马克杯",
       "category_id": "tableware",
       "campaign_id": "jr-central-oshi-tabi-station-staff-1",
       "manufacturer_id": "arma-bianca",
@@ -16920,7 +16682,7 @@
       "global_product_id": "amnibus-jr1-chibi-matte-badge",
       "character_id": "nukumizu-kaju",
       "name_ja": "トレーディング ちびキャラ 駅員ver. マット缶バッジ",
-      "name_zh": "JR东海站员第一弹Q版随机磨砂徽章",
+      "name_zh": "JR东海 推し旅 站员 第一弹 Q版随机磨砂徽章",
       "category_id": "can_badge",
       "campaign_id": "jr-central-oshi-tabi-station-staff-1",
       "manufacturer_id": "arma-bianca",
@@ -16970,7 +16732,7 @@
       "global_product_id": "amnibus-jr1-big-stand-kaju",
       "character_id": "nukumizu-kaju",
       "name_ja": "描き下ろし 温水佳樹 駅員ver. BIGアクリルスタンド",
-      "name_zh": "JR东海站员第一弹 BIG亚克力立牌 温水佳树",
+      "name_zh": "JR东海 推し旅 站员 第一弹 BIG亚克力立牌 温水佳树",
       "category_id": "acrylic_stand",
       "campaign_id": "jr-central-oshi-tabi-station-staff-1",
       "manufacturer_id": "arma-bianca",
@@ -17020,7 +16782,7 @@
       "global_product_id": "amnibus-jr1-acrylic-card",
       "character_id": "nukumizu-kaju",
       "name_ja": "描き下ろし 駅員ver. トレーディングアクリルカード",
-      "name_zh": "JR东海站员第一弹随机亚克力卡",
+      "name_zh": "JR东海 推し旅 站员 第一弹 随机亚克力卡",
       "category_id": "card",
       "campaign_id": "jr-central-oshi-tabi-station-staff-1",
       "manufacturer_id": "arma-bianca",
@@ -18560,7 +18322,7 @@
       "global_product_id": "amnibus-jr2-deskmat-a",
       "character_id": "nukumizu-kaju",
       "name_ja": "描き下ろし 集合A 駅員ver. 第2弾 マルチデスクマット",
-      "name_zh": "JR 东海第二弹新绘多用途桌垫 A",
+      "name_zh": "JR东海 推し旅 站员 第二弹 新绘多用途桌垫 A",
       "category_id": "stationery",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
       "manufacturer_id": "arma-bianca",
