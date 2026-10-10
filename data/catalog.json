@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "registry_version": "2026-10-01",
+  "registry_version": "2026-10-10",
   "catalog": {
     "title": "温水佳树制品图鉴",
     "scope": "《败犬女主太多了！》中明确包含温水佳树的官方实体制品",
-    "updated_at": "2026-10-08",
+    "updated_at": "2026-10-10",
     "status": "collecting"
   },
   "character": {
@@ -74,7 +74,7 @@
       "global_product_id": "neogate-yumekawa-stand-kaju",
       "character_id": "nukumizu-kaju",
       "name_ja": "アクリルスタンド 《ゆめかわver.》 温水佳樹",
-      "name_zh": "梦幻可爱版 温水佳树 亚克力立牌",
+      "name_zh": "梦川 FAIR 亚克力立牌 温水佳树",
       "category_id": "acrylic_stand",
       "campaign_id": "yumekawa-fair-animate",
       "manufacturer_id": "neo-gate",
@@ -90,20 +90,20 @@
       "release_date": "2026-10-10",
       "list_price_yen": 1980,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-0e37d3cbed606d0d3993.webp",
+          "path": "images/items/neogate-yumekawa-stand-kaju.webp",
           "thumbnail_path": "images/thumbs/neogate-yumekawa-stand-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://www.neogate.jp/wp-content/uploads/makeine_goods_image03-1024x478.webp"
+          "role": "product",
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4580827096104_1_1786075517.jpg"
         }
       ],
       "sales": [
         {
           "seller": "アニメイト",
           "phase": "event_presale",
-          "url": "https://www.neogate.jp/makeine_goods/"
+          "url": "https://www.animate-onlineshop.jp/pd/3562497/"
         }
       ],
       "sources": [
@@ -111,22 +111,27 @@
           "url": "https://www.neogate.jp/makeine_goods/",
           "type": "official",
           "checked_at": "2026-10-04"
+        },
+        {
+          "url": "https://www.animate-onlineshop.jp/pd/3562497/",
+          "type": "official_retail",
+          "checked_at": "2026-10-08"
         }
       ],
       "tags": [
-        "梦幻可爱",
+        "梦川",
         "温水佳树",
         "单人",
         "新规绘制"
       ],
-      "notes": "官方五角色款式之一；当前使用官方全款式集合图。"
+      "notes": "官方五角色款式之一 图片已替换为 Animate 商品详情图。 图片已替换为 Animate 商品详情图。"
     },
     {
       "id": "neogate-yumekawa-postcards",
       "global_product_id": "neogate-yumekawa-postcards",
       "character_id": "nukumizu-kaju",
       "name_ja": "ポストカードセット 《ゆめかわver.》",
-      "name_zh": "梦幻可爱版明信片套装",
+      "name_zh": "梦川 FAIR 明信片套装",
       "category_id": "card",
       "campaign_id": "yumekawa-fair-animate",
       "manufacturer_id": "neo-gate",
@@ -145,17 +150,17 @@
       "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-86358e3611ea82e69391.webp",
+          "path": "images/items/neogate-yumekawa-postcards.webp",
           "thumbnail_path": "images/thumbs/neogate-yumekawa-postcards.webp",
           "role": "lineup",
-          "source_url": "https://www.neogate.jp/wp-content/uploads/makeine_goods_image08-1024x478.webp"
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4580827096289_1_1786075517.jpg"
         }
       ],
       "sales": [
         {
           "seller": "アニメイト",
           "phase": "event_presale",
-          "url": "https://www.neogate.jp/makeine_goods/"
+          "url": "https://www.animate-onlineshop.jp/pd/3562515/"
         }
       ],
       "sources": [
@@ -163,10 +168,15 @@
           "url": "https://www.neogate.jp/makeine_goods/",
           "type": "manufacturer",
           "checked_at": "2026-10-04"
+        },
+        {
+          "url": "https://www.animate-onlineshop.jp/pd/3562515/",
+          "type": "official_retail",
+          "checked_at": "2026-10-08"
         }
       ],
       "tags": [
-        "梦幻可爱",
+        "梦川",
         "套装",
         "群像",
         "温水佳树"
@@ -178,7 +188,7 @@
       "global_product_id": "neogate-yumekawa-panel-kaju",
       "character_id": "nukumizu-kaju",
       "name_ja": "ダイカットアクリルパネル 《ゆめかわver.》 温水佳樹",
-      "name_zh": "梦幻可爱版 温水佳树 异形亚克力面板",
+      "name_zh": "梦川 FAIR 异形亚克力面板 温水佳树",
       "category_id": "acrylic_art",
       "campaign_id": "yumekawa-fair-animate",
       "manufacturer_id": "neo-gate",
@@ -194,20 +204,20 @@
       "release_date": "2026-10-10",
       "list_price_yen": 3300,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-a00ea46c34aa10d6e56c.webp",
+          "path": "images/items/neogate-yumekawa-panel-kaju.webp",
           "thumbnail_path": "images/thumbs/neogate-yumekawa-panel-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://www.neogate.jp/wp-content/uploads/makeine_goods_image07-1024x478.webp"
+          "role": "product",
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4580827096265_1_1786075512.jpg"
         }
       ],
       "sales": [
         {
           "seller": "アニメイト",
           "phase": "event_presale",
-          "url": "https://www.neogate.jp/makeine_goods/"
+          "url": "https://www.animate-onlineshop.jp/pd/3562513/"
         }
       ],
       "sources": [
@@ -215,22 +225,27 @@
           "url": "https://www.neogate.jp/makeine_goods/",
           "type": "official",
           "checked_at": "2026-10-04"
+        },
+        {
+          "url": "https://www.animate-onlineshop.jp/pd/3562513/",
+          "type": "official_retail",
+          "checked_at": "2026-10-08"
         }
       ],
       "tags": [
-        "梦幻可爱",
+        "梦川",
         "温水佳树",
         "单人",
         "新规绘制"
       ],
-      "notes": "官方五角色款式之一；当前使用官方全款式集合图。"
+      "notes": "官方五角色款式之一 图片已替换为 Animate 商品详情图。 图片已替换为 Animate 商品详情图。"
     },
     {
       "id": "neogate-yumekawa-keychain-kaju",
       "global_product_id": "neogate-yumekawa-keychain-kaju",
       "character_id": "nukumizu-kaju",
       "name_ja": "アクリルキーホルダー 《ゆめかわver.》 温水佳樹",
-      "name_zh": "梦幻可爱版 温水佳树 亚克力挂件",
+      "name_zh": "梦川 FAIR 亚克力挂件 温水佳树",
       "category_id": "acrylic_keychain",
       "campaign_id": "yumekawa-fair-animate",
       "manufacturer_id": "neo-gate",
@@ -246,20 +261,20 @@
       "release_date": "2026-10-10",
       "list_price_yen": 715,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-e6f5a0212260ff92bf89.webp",
+          "path": "images/items/neogate-yumekawa-keychain-kaju.webp",
           "thumbnail_path": "images/thumbs/neogate-yumekawa-keychain-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://www.neogate.jp/wp-content/uploads/makeine_goods_image04-1024x478.webp"
+          "role": "product",
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4580827096159_1_1786075504.jpg"
         }
       ],
       "sales": [
         {
           "seller": "アニメイト",
           "phase": "event_presale",
-          "url": "https://www.neogate.jp/makeine_goods/"
+          "url": "https://www.animate-onlineshop.jp/pd/3562502/"
         }
       ],
       "sources": [
@@ -267,22 +282,27 @@
           "url": "https://www.neogate.jp/makeine_goods/",
           "type": "official",
           "checked_at": "2026-10-04"
+        },
+        {
+          "url": "https://www.animate-onlineshop.jp/pd/3562502/",
+          "type": "official_retail",
+          "checked_at": "2026-10-08"
         }
       ],
       "tags": [
-        "梦幻可爱",
+        "梦川",
         "温水佳树",
         "单人",
         "新规绘制"
       ],
-      "notes": "官方五角色款式之一；当前使用官方全款式集合图。"
+      "notes": "官方五角色款式之一 图片已替换为 Animate 商品详情图。 图片已替换为 Animate 商品详情图。"
     },
     {
       "id": "neogate-yumekawa-heart-card-kaju",
       "global_product_id": "neogate-yumekawa-heart-card-kaju",
       "character_id": "nukumizu-kaju",
       "name_ja": "ハート型ミニカード 温水佳樹 ゆめかわver.",
-      "name_zh": "梦幻可爱 温水佳树 心形迷你卡（通贩预订特典）",
+      "name_zh": "梦川 FAIR 心形迷你卡 温水佳树（通贩预订特典）",
       "category_id": "card",
       "campaign_id": "yumekawa-fair-animate",
       "manufacturer_id": "neo-gate-animate",
@@ -322,7 +342,7 @@
         }
       ],
       "tags": [
-        "梦幻可爱",
+        "梦川",
         "购入特典",
         "非卖品",
         "温水佳树"
@@ -334,7 +354,7 @@
       "global_product_id": "neogate-yumekawa-clear-file",
       "character_id": "nukumizu-kaju",
       "name_ja": "A4クリアファイル 《ゆめかわver.》",
-      "name_zh": "梦幻可爱版 A4 透明文件夹",
+      "name_zh": "梦川 FAIR A4 透明文件夹",
       "category_id": "clear_file",
       "campaign_id": "yumekawa-fair-animate",
       "manufacturer_id": "neo-gate",
@@ -353,17 +373,17 @@
       "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-a58207ebb92902101dab.webp",
+          "path": "images/items/neogate-yumekawa-clear-file.webp",
           "thumbnail_path": "images/thumbs/neogate-yumekawa-clear-file.webp",
           "role": "lineup",
-          "source_url": "https://www.neogate.jp/wp-content/uploads/makeine_goods_image06-1024x478.webp"
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4580827096227_1_1786075514.jpg"
         }
       ],
       "sales": [
         {
           "seller": "アニメイト",
           "phase": "event_presale",
-          "url": "https://www.neogate.jp/makeine_goods/"
+          "url": "https://www.animate-onlineshop.jp/pd/3562509/"
         }
       ],
       "sources": [
@@ -371,10 +391,15 @@
           "url": "https://www.neogate.jp/makeine_goods/",
           "type": "manufacturer",
           "checked_at": "2026-10-04"
+        },
+        {
+          "url": "https://www.animate-onlineshop.jp/pd/3562509/",
+          "type": "official_retail",
+          "checked_at": "2026-10-08"
         }
       ],
       "tags": [
-        "梦幻可爱",
+        "梦川",
         "群像",
         "温水佳树"
       ],
@@ -385,7 +410,7 @@
       "global_product_id": "neogate-yumekawa-clear-card",
       "character_id": "nukumizu-kaju",
       "name_ja": "トレーディングクリアカード 《ゆめかわver.》",
-      "name_zh": "梦幻可爱版随机透明卡",
+      "name_zh": "梦川 FAIR 随机透明卡",
       "category_id": "card",
       "campaign_id": "yumekawa-fair-animate",
       "manufacturer_id": "neo-gate",
@@ -404,17 +429,17 @@
       "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-c173f0bec46e337743e5.webp",
+          "path": "images/items/neogate-yumekawa-clear-card.webp",
           "thumbnail_path": "images/thumbs/neogate-yumekawa-clear-card.webp",
           "role": "lineup",
-          "source_url": "https://www.neogate.jp/wp-content/uploads/makeine_goods_image02-1024x478.webp"
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4580827096050_2_1786075509.jpg"
         }
       ],
       "sales": [
         {
           "seller": "アニメイト",
           "phase": "event_presale",
-          "url": "https://www.neogate.jp/makeine_goods/"
+          "url": "https://www.animate-onlineshop.jp/pd/3562493/"
         }
       ],
       "sources": [
@@ -422,10 +447,15 @@
           "url": "https://www.neogate.jp/makeine_goods/",
           "type": "manufacturer",
           "checked_at": "2026-10-04"
+        },
+        {
+          "url": "https://www.animate-onlineshop.jp/pd/3562493/",
+          "type": "official_retail",
+          "checked_at": "2026-10-08"
         }
       ],
       "tags": [
-        "梦幻可爱",
+        "梦川",
         "随机",
         "透明卡",
         "温水佳树"
@@ -437,7 +467,7 @@
       "global_product_id": "neogate-yumekawa-bookmark-kaju",
       "character_id": "nukumizu-kaju",
       "name_ja": "特製しおり 温水佳樹 ゆめかわver.",
-      "name_zh": "梦幻可爱 温水佳树 特制书签（店铺购入特典）",
+      "name_zh": "梦川 FAIR 特制书签 温水佳树（店铺购入特典）",
       "category_id": "card",
       "campaign_id": "yumekawa-fair-animate",
       "manufacturer_id": "neo-gate-animate",
@@ -477,7 +507,7 @@
         }
       ],
       "tags": [
-        "梦幻可爱",
+        "梦川",
         "购入特典",
         "非卖品",
         "温水佳树"
@@ -489,7 +519,7 @@
       "global_product_id": "neogate-yumekawa-big-badge-kaju",
       "character_id": "nukumizu-kaju",
       "name_ja": "BIGホログラム缶バッジ 《ゆめかわver.》 温水佳樹",
-      "name_zh": "梦幻可爱版 温水佳树 BIG 镭射徽章",
+      "name_zh": "梦川 FAIR BIG 镭射徽章 温水佳树",
       "category_id": "can_badge",
       "campaign_id": "yumekawa-fair-animate",
       "manufacturer_id": "neo-gate",
@@ -505,20 +535,20 @@
       "release_date": "2026-10-10",
       "list_price_yen": 660,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-8c145065e756ea2576bd.webp",
+          "path": "images/items/neogate-yumekawa-big-badge-kaju.webp",
           "thumbnail_path": "images/thumbs/neogate-yumekawa-big-badge-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://www.neogate.jp/wp-content/uploads/makeine_goods_image05-1024x478.webp"
+          "role": "product",
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4580827096203_1_1786075518.jpg"
         }
       ],
       "sales": [
         {
           "seller": "アニメイト",
           "phase": "event_presale",
-          "url": "https://www.neogate.jp/makeine_goods/"
+          "url": "https://www.animate-onlineshop.jp/pd/3562507/"
         }
       ],
       "sources": [
@@ -526,22 +556,27 @@
           "url": "https://www.neogate.jp/makeine_goods/",
           "type": "official",
           "checked_at": "2026-10-04"
+        },
+        {
+          "url": "https://www.animate-onlineshop.jp/pd/3562507/",
+          "type": "official_retail",
+          "checked_at": "2026-10-08"
         }
       ],
       "tags": [
-        "梦幻可爱",
+        "梦川",
         "温水佳树",
         "单人",
         "新规绘制"
       ],
-      "notes": "官方五角色款式之一；当前使用官方全款式集合图。"
+      "notes": "官方五角色款式之一 图片已替换为 Animate 商品详情图。 图片已替换为 Animate 商品详情图。"
     },
     {
       "id": "neogate-yumekawa-badge",
       "global_product_id": "neogate-yumekawa-badge",
       "character_id": "nukumizu-kaju",
       "name_ja": "トレーディング缶バッジ 《ゆめかわver.》",
-      "name_zh": "梦幻可爱版随机徽章",
+      "name_zh": "梦川 FAIR 随机徽章",
       "category_id": "can_badge",
       "campaign_id": "yumekawa-fair-animate",
       "manufacturer_id": "neo-gate",
@@ -557,20 +592,20 @@
       "release_date": "2026-10-10",
       "list_price_yen": 440,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-1320240c2cd9d4634307.webp",
+          "path": "images/items/neogate-yumekawa-badge.webp",
           "thumbnail_path": "images/thumbs/neogate-yumekawa-badge.webp",
           "role": "lineup",
-          "source_url": "https://www.neogate.jp/wp-content/uploads/makeine_goods_image01-1024x478.webp"
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4580827096036_2_1786075507.jpg"
         }
       ],
       "sales": [
         {
           "seller": "アニメイト",
           "phase": "event_presale",
-          "url": "https://www.neogate.jp/makeine_goods/"
+          "url": "https://www.animate-onlineshop.jp/pd/3562492/"
         }
       ],
       "sources": [
@@ -578,10 +613,15 @@
           "url": "https://www.neogate.jp/makeine_goods/",
           "type": "manufacturer",
           "checked_at": "2026-10-04"
+        },
+        {
+          "url": "https://www.animate-onlineshop.jp/pd/3562492/",
+          "type": "official_retail",
+          "checked_at": "2026-10-08"
         }
       ],
       "tags": [
-        "梦幻可爱",
+        "梦川",
         "随机",
         "新规绘制",
         "温水佳树"
@@ -2246,7 +2286,7 @@
       "name_ja": "Wチャンス賞 ビジュアルキャンバスボード 温水佳樹",
       "name_zh": "各自度过的秋日 网络抽奖 W Chance奖 视觉帆布板 温水佳树",
       "category_id": "fabric_goods",
-      "campaign_id": "charat-kuji-autumn-2026",
+      "campaign_id": "autumn-seasons-2026-charat-kuji",
       "manufacturer_id": "andblue",
       "variant": "W Chance奖／温水佳树",
       "sale_format": {
@@ -2298,7 +2338,7 @@
       "name_ja": "E-8賞 ホロ入り缶バッジ 温水佳樹B",
       "name_zh": "各自度过的秋日 网络抽奖 E-8奖 镭射星形徽章 温水佳树 B",
       "category_id": "can_badge",
-      "campaign_id": "charat-kuji-autumn-2026",
+      "campaign_id": "autumn-seasons-2026-charat-kuji",
       "manufacturer_id": "andblue",
       "variant": "E-8奖／B款／星形",
       "sale_format": {
@@ -2350,7 +2390,7 @@
       "name_ja": "E-4賞 ホロ入り缶バッジ 温水佳樹A",
       "name_zh": "各自度过的秋日 网络抽奖 E-4奖 镭射心形徽章 温水佳树 A",
       "category_id": "can_badge",
-      "campaign_id": "charat-kuji-autumn-2026",
+      "campaign_id": "autumn-seasons-2026-charat-kuji",
       "manufacturer_id": "andblue",
       "variant": "E-4奖／A款／心形",
       "sale_format": {
@@ -2402,7 +2442,7 @@
       "name_ja": "D-8賞 おでかけアクリルキーホルダー 温水佳樹B",
       "name_zh": "各自度过的秋日 网络抽奖 D-8奖 外出主题亚克力挂件 温水佳树 B",
       "category_id": "acrylic_keychain",
-      "campaign_id": "charat-kuji-autumn-2026",
+      "campaign_id": "autumn-seasons-2026-charat-kuji",
       "manufacturer_id": "andblue",
       "variant": "D-8奖／B款",
       "sale_format": {
@@ -2454,7 +2494,7 @@
       "name_ja": "D-4賞 おでかけアクリルキーホルダー 温水佳樹A",
       "name_zh": "各自度过的秋日 网络抽奖 D-4奖 外出主题亚克力挂件 温水佳树 A",
       "category_id": "acrylic_keychain",
-      "campaign_id": "charat-kuji-autumn-2026",
+      "campaign_id": "autumn-seasons-2026-charat-kuji",
       "manufacturer_id": "andblue",
       "variant": "D-4奖／A款",
       "sale_format": {
@@ -2506,7 +2546,7 @@
       "name_ja": "C-8賞 文庫カバー 温水佳樹B",
       "name_zh": "各自度过的秋日 网络抽奖 C-8奖 文库本书套 温水佳树 B",
       "category_id": "fabric_goods",
-      "campaign_id": "charat-kuji-autumn-2026",
+      "campaign_id": "autumn-seasons-2026-charat-kuji",
       "manufacturer_id": "andblue",
       "variant": "C-8奖／B款",
       "sale_format": {
@@ -2558,7 +2598,7 @@
       "name_ja": "C-4賞 文庫カバー 温水佳樹A",
       "name_zh": "各自度过的秋日 网络抽奖 C-4奖 文库本书套 温水佳树 A",
       "category_id": "fabric_goods",
-      "campaign_id": "charat-kuji-autumn-2026",
+      "campaign_id": "autumn-seasons-2026-charat-kuji",
       "manufacturer_id": "andblue",
       "variant": "C-4奖／A款",
       "sale_format": {
@@ -2610,7 +2650,7 @@
       "name_ja": "B-4賞 A5アクリルプレート 温水佳樹",
       "name_zh": "各自度过的秋日 网络抽奖 B-4奖 A5亚克力板 温水佳树",
       "category_id": "acrylic_art",
-      "campaign_id": "charat-kuji-autumn-2026",
+      "campaign_id": "autumn-seasons-2026-charat-kuji",
       "manufacturer_id": "andblue",
       "variant": "B-4奖",
       "sale_format": {
@@ -2662,7 +2702,7 @@
       "name_ja": "A-4賞 メガBIGアクリルスタンド 温水佳樹",
       "name_zh": "各自度过的秋日 网络抽奖 A-4奖 超大亚克力立牌 温水佳树",
       "category_id": "acrylic_stand",
-      "campaign_id": "charat-kuji-autumn-2026",
+      "campaign_id": "autumn-seasons-2026-charat-kuji",
       "manufacturer_id": "andblue",
       "variant": "A-4奖",
       "sale_format": {
@@ -2781,13 +2821,13 @@
       "release_date": "2026-01-17",
       "list_price_yen": 1650,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-8c629ccc231b938f48ac.jpg",
+          "path": "images/items/animate-alamode-stand-kaju.jpg",
           "thumbnail_path": "images/thumbs/animate-alamode-stand-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/16756/7790/16756-7790-bb88060af8f5d889b4cbe108f31198c0-516x1000.jpg"
+          "role": "product",
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4550621434419_1_1760673907.jpg"
         }
       ],
       "sales": [
@@ -2795,6 +2835,11 @@
           "seller": "アニメイト Space A la mode",
           "phase": "general_sale",
           "url": "https://prtimes.jp/main/html/rd/p/000007790.000016756.html"
+        },
+        {
+          "seller": "Animate Online Shop",
+          "phase": "general_sale",
+          "url": "https://www.animate-onlineshop.jp/pd/3284687/"
         }
       ],
       "sources": [
@@ -2802,6 +2847,11 @@
           "url": "https://prtimes.jp/main/html/rd/p/000007790.000016756.html",
           "type": "official",
           "checked_at": "2026-10-04"
+        },
+        {
+          "url": "https://www.animate-onlineshop.jp/pd/3284687/",
+          "type": "seller",
+          "checked_at": "2026-10-09"
         }
       ],
       "tags": [
@@ -2811,7 +2861,7 @@
         "温水佳树",
         "新规绘制"
       ],
-      "notes": null
+      "notes": "已核对 Animate 官方角色单品页，使用未经裁剪的完整商品图。"
     },
     {
       "id": "animate-alamode-keychain-kaju",
@@ -2834,13 +2884,13 @@
       "release_date": "2026-01-17",
       "list_price_yen": 715,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-542297d86a5108b4e29a.jpg",
+          "path": "images/items/animate-alamode-keychain-kaju.jpg",
           "thumbnail_path": "images/thumbs/animate-alamode-keychain-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/16756/7790/16756-7790-3e1217338d69273aadc8c80c529b9a61-653x1000.jpg"
+          "role": "product",
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4550621434464_1_1760673905.jpg"
         }
       ],
       "sales": [
@@ -2848,6 +2898,11 @@
           "seller": "アニメイト Space A la mode",
           "phase": "general_sale",
           "url": "https://prtimes.jp/main/html/rd/p/000007790.000016756.html"
+        },
+        {
+          "seller": "Animate Online Shop",
+          "phase": "general_sale",
+          "url": "https://www.animate-onlineshop.jp/pd/3284682/"
         }
       ],
       "sources": [
@@ -2855,6 +2910,11 @@
           "url": "https://prtimes.jp/main/html/rd/p/000007790.000016756.html",
           "type": "official",
           "checked_at": "2026-10-04"
+        },
+        {
+          "url": "https://www.animate-onlineshop.jp/pd/3284682/",
+          "type": "seller",
+          "checked_at": "2026-10-09"
         }
       ],
       "tags": [
@@ -2864,7 +2924,7 @@
         "温水佳树",
         "新规绘制"
       ],
-      "notes": null
+      "notes": "已核对 Animate 官方角色单品页，使用未经裁剪的完整商品图。"
     },
     {
       "id": "animate-alamode-badge-set",
@@ -3868,13 +3928,13 @@
       "release_date": "2025-10-18",
       "list_price_yen": 1100,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-ee5dacff8d71ea78ad56.jpg",
+          "path": "images/items/autumn-2025-yurari-acrylic-kaju.png",
           "thumbnail_path": "images/thumbs/autumn-2025-yurari-acrylic-kaju.webp",
           "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/163015/7/163015-7-7f530b5b5885825f3d0312e58b159fb7-1910x2700.jpg"
+          "source_url": "https://cdn.shopify.com/s/files/1/0519/5658/0516/files/mki_gigo_2510_img08.png"
         }
       ],
       "sales": [
@@ -3889,6 +3949,11 @@
           "url": "https://prtimes.jp/main/html/rd/p/000000007.000163015.html",
           "type": "official",
           "checked_at": "2026-10-04"
+        },
+        {
+          "url": "https://au-coop.jp/pages/mki_gigo_2510",
+          "type": "official",
+          "checked_at": "2026-10-08"
         }
       ],
       "tags": [
@@ -3918,13 +3983,13 @@
       "release_date": "2025-10-18",
       "list_price_yen": 600,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-ee5dacff8d71ea78ad56.jpg",
+          "path": "images/items/autumn-2025-trading-badge.png",
           "thumbnail_path": "images/thumbs/autumn-2025-trading-badge.webp",
           "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/163015/7/163015-7-7f530b5b5885825f3d0312e58b159fb7-1910x2700.jpg"
+          "source_url": "https://cdn.shopify.com/s/files/1/0519/5658/0516/files/mki_gigo_2510_img02.png"
         }
       ],
       "sales": [
@@ -3939,6 +4004,11 @@
           "url": "https://prtimes.jp/main/html/rd/p/000000007.000163015.html",
           "type": "official",
           "checked_at": "2026-10-04"
+        },
+        {
+          "url": "https://au-coop.jp/pages/mki_gigo_2510",
+          "type": "official",
+          "checked_at": "2026-10-08"
         }
       ],
       "tags": [
@@ -3968,13 +4038,13 @@
       "release_date": "2025-10-18",
       "list_price_yen": 1980,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-1de8e392350b115e8d32.jpg",
+          "path": "images/items/autumn-2025-stand-kaju.png",
           "thumbnail_path": "images/thumbs/autumn-2025-stand-kaju.webp",
           "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/163015/7/163015-7-8ce13e98ad451f70ba7b6919caab5787-1280x1280.jpg"
+          "source_url": "https://cdn.shopify.com/s/files/1/0519/5658/0516/files/mki_gigo_2510_img01.png"
         }
       ],
       "sales": [
@@ -3989,6 +4059,11 @@
           "url": "https://prtimes.jp/main/html/rd/p/000000007.000163015.html",
           "type": "official",
           "checked_at": "2026-10-04"
+        },
+        {
+          "url": "https://au-coop.jp/pages/mki_gigo_2510",
+          "type": "official",
+          "checked_at": "2026-10-08"
         }
       ],
       "tags": [
@@ -4018,13 +4093,13 @@
       "release_date": "2025-10-18",
       "list_price_yen": 770,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-ee5dacff8d71ea78ad56.jpg",
+          "path": "images/items/autumn-2025-pudding-package-clip-kaju.png",
           "thumbnail_path": "images/thumbs/autumn-2025-pudding-package-clip-kaju.webp",
           "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/163015/7/163015-7-7f530b5b5885825f3d0312e58b159fb7-1910x2700.jpg"
+          "source_url": "https://cdn.shopify.com/s/files/1/0519/5658/0516/files/mki_gigo_2510_img15.png"
         }
       ],
       "sales": [
@@ -4039,6 +4114,11 @@
           "url": "https://prtimes.jp/main/html/rd/p/000000007.000163015.html",
           "type": "official",
           "checked_at": "2026-10-04"
+        },
+        {
+          "url": "https://au-coop.jp/pages/mki_gigo_2510",
+          "type": "official",
+          "checked_at": "2026-10-08"
         }
       ],
       "tags": [
@@ -4068,13 +4148,13 @@
       "release_date": "2025-10-18",
       "list_price_yen": 660,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-42e975e431b420b95c9d.jpg",
+          "path": "images/items/autumn-2025-mini-shikishi.png",
           "thumbnail_path": "images/thumbs/autumn-2025-mini-shikishi.webp",
           "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/163015/7/163015-7-09837b49697439cedd50ee1ec9f66ec6-1280x1280.jpg"
+          "source_url": "https://cdn.shopify.com/s/files/1/0519/5658/0516/files/mki_gigo_2510_img04.png"
         }
       ],
       "sales": [
@@ -4089,6 +4169,11 @@
           "url": "https://prtimes.jp/main/html/rd/p/000000007.000163015.html",
           "type": "official",
           "checked_at": "2026-10-04"
+        },
+        {
+          "url": "https://au-coop.jp/pages/mki_gigo_2510",
+          "type": "official",
+          "checked_at": "2026-10-08"
         }
       ],
       "tags": [
@@ -4118,13 +4203,13 @@
       "release_date": "2025-10-18",
       "list_price_yen": null,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-7539b1bd94536429511d.jpeg",
+          "path": "images/items/autumn-2025-gigo-postcard-bonus.png",
           "thumbnail_path": "images/thumbs/autumn-2025-gigo-postcard-bonus.webp",
           "role": "lineup",
-          "source_url": "https://newscast.jp/attachments/4ah5iwENytLkdIlAEGw5.jpeg?w=940&h=940"
+          "source_url": "https://cdn.shopify.com/s/files/1/0519/5658/0516/files/mki_gigo_2510_postcard.png"
         }
       ],
       "sales": [
@@ -4169,13 +4254,13 @@
       "release_date": "2025-10-18",
       "list_price_yen": null,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-00015f2e8986ad0257fb.jpeg",
+          "path": "images/items/autumn-2025-gigo-coaster-bonus.png",
           "thumbnail_path": "images/thumbs/autumn-2025-gigo-coaster-bonus.webp",
           "role": "lineup",
-          "source_url": "https://newscast.jp/attachments/wxV1aOdjqTxSF8UhkYKm.jpeg?w=940&h=940"
+          "source_url": "https://cdn.shopify.com/s/files/1/0519/5658/0516/files/mki_gigo_2510_coaster.png"
         }
       ],
       "sales": [
@@ -4190,6 +4275,11 @@
           "url": "https://tempo.gendagigo.jp/cp25/makeine/",
           "type": "official",
           "checked_at": "2026-10-04"
+        },
+        {
+          "url": "https://au-coop.jp/pages/mki_gigo_2510",
+          "type": "official",
+          "checked_at": "2026-10-08"
         }
       ],
       "tags": [
@@ -4220,13 +4310,13 @@
       "release_date": "2025-10-18",
       "list_price_yen": null,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-f5ddeb88ef8d9e8a935f.jpg",
+          "path": "images/items/autumn-2025-gamers-bromide-bonus.png",
           "thumbnail_path": "images/thumbs/autumn-2025-gamers-bromide-bonus.webp",
           "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/16756/7238/16756-7238-7dcd8245b936a5dcd5e0e1b0f33e1d99-600x600.jpg"
+          "source_url": "https://cdn.shopify.com/s/files/1/0519/5658/0516/files/mki_gigo_2510_games02.png"
         }
       ],
       "sales": [
@@ -4241,6 +4331,11 @@
           "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=6699",
           "type": "official",
           "checked_at": "2026-10-04"
+        },
+        {
+          "url": "https://au-coop.jp/pages/mki_gigo_2510",
+          "type": "official",
+          "checked_at": "2026-10-08"
         }
       ],
       "tags": [
@@ -4271,13 +4366,13 @@
       "release_date": "2025-10-18",
       "list_price_yen": 880,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-769386a59b0485bd6938.jpg",
+          "path": "images/items/autumn-2025-gamers-a3-poster-kaju.png",
           "thumbnail_path": "images/thumbs/autumn-2025-gamers-a3-poster-kaju.webp",
-          "role": "product",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/16756/7238/16756-7238-6d3658b806136fdb0f302087fe9beb78-500x500.jpg"
+          "role": "lineup",
+          "source_url": "https://cdn.shopify.com/s/files/1/0519/5658/0516/files/mki_gigo_2510_games01.png"
         }
       ],
       "sales": [
@@ -4292,6 +4387,11 @@
           "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=6699",
           "type": "official",
           "checked_at": "2026-10-04"
+        },
+        {
+          "url": "https://au-coop.jp/pages/mki_gigo_2510",
+          "type": "official",
+          "checked_at": "2026-10-08"
         }
       ],
       "tags": [
@@ -4322,13 +4422,13 @@
       "release_date": "2025-10-18",
       "list_price_yen": 825,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-ee5dacff8d71ea78ad56.jpg",
+          "path": "images/items/autumn-2025-face-rubber-keychain.png",
           "thumbnail_path": "images/thumbs/autumn-2025-face-rubber-keychain.webp",
           "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/163015/7/163015-7-7f530b5b5885825f3d0312e58b159fb7-1910x2700.jpg"
+          "source_url": "https://cdn.shopify.com/s/files/1/0519/5658/0516/files/mki_gigo_2510_img11.png"
         }
       ],
       "sales": [
@@ -4343,6 +4443,11 @@
           "url": "https://prtimes.jp/main/html/rd/p/000000007.000163015.html",
           "type": "official",
           "checked_at": "2026-10-04"
+        },
+        {
+          "url": "https://au-coop.jp/pages/mki_gigo_2510",
+          "type": "official",
+          "checked_at": "2026-10-08"
         }
       ],
       "tags": [
@@ -4372,13 +4477,13 @@
       "release_date": "2025-10-18",
       "list_price_yen": 1430,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-ee5dacff8d71ea78ad56.jpg",
+          "path": "images/items/autumn-2025-face-hair-clip.png",
           "thumbnail_path": "images/thumbs/autumn-2025-face-hair-clip.webp",
           "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/163015/7/163015-7-7f530b5b5885825f3d0312e58b159fb7-1910x2700.jpg"
+          "source_url": "https://cdn.shopify.com/s/files/1/0519/5658/0516/files/mki_gigo_2510_img12.png"
         }
       ],
       "sales": [
@@ -4393,6 +4498,11 @@
           "url": "https://prtimes.jp/main/html/rd/p/000000007.000163015.html",
           "type": "official",
           "checked_at": "2026-10-04"
+        },
+        {
+          "url": "https://au-coop.jp/pages/mki_gigo_2510",
+          "type": "official",
+          "checked_at": "2026-10-08"
         }
       ],
       "tags": [
@@ -4422,13 +4532,13 @@
       "release_date": "2025-10-18",
       "list_price_yen": 1210,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-eb02e2b8a695c7e4a680.jpg",
+          "path": "images/items/autumn-2025-donut-package-keychain-kaju.png",
           "thumbnail_path": "images/thumbs/autumn-2025-donut-package-keychain-kaju.webp",
           "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/163015/7/163015-7-c3f807e96fbcd2715ad5980ca4252a2a-1280x1276.jpg"
+          "source_url": "https://cdn.shopify.com/s/files/1/0519/5658/0516/files/mki_gigo_2510_img14.png"
         }
       ],
       "sales": [
@@ -4443,6 +4553,11 @@
           "url": "https://prtimes.jp/main/html/rd/p/000000007.000163015.html",
           "type": "official",
           "checked_at": "2026-10-04"
+        },
+        {
+          "url": "https://au-coop.jp/pages/mki_gigo_2510",
+          "type": "official",
+          "checked_at": "2026-10-08"
         }
       ],
       "tags": [
@@ -4472,13 +4587,13 @@
       "release_date": "2025-10-18",
       "list_price_yen": 1320,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-ee5dacff8d71ea78ad56.jpg",
+          "path": "images/items/autumn-2025-donut-charm-kaju.png",
           "thumbnail_path": "images/thumbs/autumn-2025-donut-charm-kaju.webp",
           "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/163015/7/163015-7-7f530b5b5885825f3d0312e58b159fb7-1910x2700.jpg"
+          "source_url": "https://cdn.shopify.com/s/files/1/0519/5658/0516/files/mki_gigo_2510_img13.png"
         }
       ],
       "sales": [
@@ -4493,6 +4608,11 @@
           "url": "https://prtimes.jp/main/html/rd/p/000000007.000163015.html",
           "type": "official",
           "checked_at": "2026-10-04"
+        },
+        {
+          "url": "https://au-coop.jp/pages/mki_gigo_2510",
+          "type": "official",
+          "checked_at": "2026-10-08"
         }
       ],
       "tags": [
@@ -4522,13 +4642,13 @@
       "release_date": "2025-10-18",
       "list_price_yen": 3850,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-ee5dacff8d71ea78ad56.jpg",
+          "path": "images/items/autumn-2025-diorama.png",
           "thumbnail_path": "images/thumbs/autumn-2025-diorama.webp",
           "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/163015/7/163015-7-7f530b5b5885825f3d0312e58b159fb7-1910x2700.jpg"
+          "source_url": "https://cdn.shopify.com/s/files/1/0519/5658/0516/files/mki_gigo_2510_img07.png"
         }
       ],
       "sales": [
@@ -4543,6 +4663,11 @@
           "url": "https://prtimes.jp/main/html/rd/p/000000007.000163015.html",
           "type": "official",
           "checked_at": "2026-10-04"
+        },
+        {
+          "url": "https://au-coop.jp/pages/mki_gigo_2510",
+          "type": "official",
+          "checked_at": "2026-10-08"
         }
       ],
       "tags": [
@@ -4572,13 +4697,13 @@
       "release_date": "2025-10-18",
       "list_price_yen": 2750,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-ee5dacff8d71ea78ad56.jpg",
+          "path": "images/items/autumn-2025-chibi-plush-kaju.png",
           "thumbnail_path": "images/thumbs/autumn-2025-chibi-plush-kaju.webp",
           "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/163015/7/163015-7-7f530b5b5885825f3d0312e58b159fb7-1910x2700.jpg"
+          "source_url": "https://cdn.shopify.com/s/files/1/0519/5658/0516/files/mki_gigo_2510_img10.png"
         }
       ],
       "sales": [
@@ -4593,6 +4718,11 @@
           "url": "https://prtimes.jp/main/html/rd/p/000000007.000163015.html",
           "type": "official",
           "checked_at": "2026-10-04"
+        },
+        {
+          "url": "https://au-coop.jp/pages/mki_gigo_2510",
+          "type": "official",
+          "checked_at": "2026-10-08"
         }
       ],
       "tags": [
@@ -4622,13 +4752,13 @@
       "release_date": "2025-10-18",
       "list_price_yen": 1100,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-ee5dacff8d71ea78ad56.jpg",
+          "path": "images/items/autumn-2025-chibi-keychain-kaju.png",
           "thumbnail_path": "images/thumbs/autumn-2025-chibi-keychain-kaju.webp",
           "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/163015/7/163015-7-7f530b5b5885825f3d0312e58b159fb7-1910x2700.jpg"
+          "source_url": "https://cdn.shopify.com/s/files/1/0519/5658/0516/files/mki_gigo_2510_img09.png"
         }
       ],
       "sales": [
@@ -4643,6 +4773,11 @@
           "url": "https://prtimes.jp/main/html/rd/p/000000007.000163015.html",
           "type": "official",
           "checked_at": "2026-10-04"
+        },
+        {
+          "url": "https://au-coop.jp/pages/mki_gigo_2510",
+          "type": "official",
+          "checked_at": "2026-10-08"
         }
       ],
       "tags": [
@@ -4672,13 +4807,13 @@
       "release_date": "2025-10-18",
       "list_price_yen": 600,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-2ec1e9c29fb1ba9a765e.jpg",
+          "path": "images/items/autumn-2025-cheki-card.png",
           "thumbnail_path": "images/thumbs/autumn-2025-cheki-card.webp",
           "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/163015/7/163015-7-ef965c767fb753fe075da66cba7c963e-1280x1280.jpg"
+          "source_url": "https://cdn.shopify.com/s/files/1/0519/5658/0516/files/mki_gigo_2510_img03.png"
         }
       ],
       "sales": [
@@ -4693,6 +4828,11 @@
           "url": "https://prtimes.jp/main/html/rd/p/000000007.000163015.html",
           "type": "official",
           "checked_at": "2026-10-04"
+        },
+        {
+          "url": "https://au-coop.jp/pages/mki_gigo_2510",
+          "type": "official",
+          "checked_at": "2026-10-08"
         }
       ],
       "tags": [
@@ -4710,7 +4850,7 @@
       "category_id": "tapestry",
       "campaign_id": "autumn-seasons-2025",
       "manufacturer_id": "andblue-anisugar",
-      "variant": "温水佳树（读书之秋）",
+      "variant": "温水佳树（艺术之秋）",
       "sale_format": {
         "type": "single",
         "total_variants": 4
@@ -4722,13 +4862,13 @@
       "release_date": "2025-10-18",
       "list_price_yen": 3850,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-ee5dacff8d71ea78ad56.jpg",
+          "path": "images/items/autumn-2025-b2-tapestry-kaju.png",
           "thumbnail_path": "images/thumbs/autumn-2025-b2-tapestry-kaju.webp",
           "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/163015/7/163015-7-7f530b5b5885825f3d0312e58b159fb7-1910x2700.jpg"
+          "source_url": "https://cdn.shopify.com/s/files/1/0519/5658/0516/files/mki_gigo_2510_img05.png"
         }
       ],
       "sales": [
@@ -4743,6 +4883,11 @@
           "url": "https://prtimes.jp/main/html/rd/p/000000007.000163015.html",
           "type": "official",
           "checked_at": "2026-10-04"
+        },
+        {
+          "url": "https://au-coop.jp/pages/mki_gigo_2510",
+          "type": "official",
+          "checked_at": "2026-10-08"
         }
       ],
       "tags": [
@@ -4772,13 +4917,13 @@
       "release_date": "2025-10-18",
       "list_price_yen": 990,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-ee5dacff8d71ea78ad56.jpg",
+          "path": "images/items/autumn-2025-anisugar-fruit-donut-kaju.png",
           "thumbnail_path": "images/thumbs/autumn-2025-anisugar-fruit-donut-kaju.webp",
           "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/163015/7/163015-7-7f530b5b5885825f3d0312e58b159fb7-1910x2700.jpg"
+          "source_url": "https://cdn.shopify.com/s/files/1/0519/5658/0516/files/mki_gigo_2510_Anisugar01.png"
         }
       ],
       "sales": [
@@ -4793,6 +4938,11 @@
           "url": "https://prtimes.jp/main/html/rd/p/000000007.000163015.html",
           "type": "official",
           "checked_at": "2026-10-04"
+        },
+        {
+          "url": "https://au-coop.jp/pages/mki_gigo_2510",
+          "type": "official",
+          "checked_at": "2026-10-08"
         }
       ],
       "tags": [
@@ -4822,13 +4972,13 @@
       "release_date": "2025-10-18",
       "list_price_yen": 3300,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-ee5dacff8d71ea78ad56.jpg",
+          "path": "images/items/autumn-2025-acrylic-plate.png",
           "thumbnail_path": "images/thumbs/autumn-2025-acrylic-plate.webp",
           "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/163015/7/163015-7-7f530b5b5885825f3d0312e58b159fb7-1910x2700.jpg"
+          "source_url": "https://cdn.shopify.com/s/files/1/0519/5658/0516/files/mki_gigo_2510_img06.png"
         }
       ],
       "sales": [
@@ -4843,6 +4993,11 @@
           "url": "https://prtimes.jp/main/html/rd/p/000000007.000163015.html",
           "type": "official",
           "checked_at": "2026-10-04"
+        },
+        {
+          "url": "https://au-coop.jp/pages/mki_gigo_2510",
+          "type": "official",
+          "checked_at": "2026-10-08"
         }
       ],
       "tags": [
@@ -5378,21 +5533,21 @@
       "name_ja": "SNS風アクリルキーホルダー 温水佳樹 レトロカフェ ver.",
       "name_zh": "京まふ 2025 复古咖啡厅 SNS风亚克力挂件 温水佳树",
       "category_id": "acrylic_keychain",
-      "campaign_id": "kyomaf-retro-cafe-2025",
+      "campaign_id": "kyomaf-2025-retro-cafe",
       "manufacturer_id": "contents-seed",
       "variant": "温水佳树",
       "sale_format": {
         "type": "single",
-        "total_variants": null
+        "total_variants": 5
       },
       "spec": {
         "size": "约60×90mm以内",
-        "material": "アクリル"
+        "material": "亚克力"
       },
       "release_date": "2025-09-20",
       "list_price_yen": 1320,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/source-27990cf55b79343632bb.jpg",
@@ -5404,15 +5559,25 @@
       "sales": [
         {
           "seller": "THEキャラ",
+          "phase": "event_sale",
+          "url": "https://prtimes.jp/main/html/rd/p/000000545.000069812.html"
+        },
+        {
+          "seller": "AmiAmi",
           "phase": "general_sale",
           "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04730182"
         }
       ],
       "sources": [
         {
+          "url": "https://prtimes.jp/main/html/rd/p/000000545.000069812.html",
+          "type": "official",
+          "checked_at": "2026-10-10"
+        },
+        {
           "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04730182",
-          "type": "seller",
-          "checked_at": "2026-10-04"
+          "type": "retailer",
+          "checked_at": "2026-10-10"
         }
       ],
       "tags": [
@@ -5428,12 +5593,12 @@
       "name_ja": "ミニアクリルアート レトロカフェ ver.",
       "name_zh": "京まふ 2025 复古咖啡厅 迷你亚克力艺术板",
       "category_id": "acrylic_art",
-      "campaign_id": "kyomaf-retro-cafe-2025",
+      "campaign_id": "kyomaf-2025-retro-cafe",
       "manufacturer_id": "contents-seed",
       "variant": "五人群像包含温水佳树",
       "sale_format": {
         "type": "single",
-        "total_variants": null
+        "total_variants": 1
       },
       "spec": {
         "size": null,
@@ -5442,7 +5607,7 @@
       "release_date": "2025-09-20",
       "list_price_yen": 2530,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/source-c5b08df7d1e42f40cdb1.jpg",
@@ -5461,8 +5626,8 @@
       "sources": [
         {
           "url": "https://prtimes.jp/main/html/rd/p/000000545.000069812.html",
-          "type": "seller",
-          "checked_at": "2026-10-04"
+          "type": "official",
+          "checked_at": "2026-10-10"
         }
       ],
       "tags": [
@@ -5472,15 +5637,15 @@
       "notes": null
     },
     {
-      "id": "retro-cafe-hologram-badge-kaju",
+      "id": "retro-cafe-hologram-badge",
       "global_product_id": "retro-cafe-hologram-badge",
       "character_id": "nukumizu-kaju",
       "name_ja": "ホログラムカンバッジ(ランダム) レトロカフェ ver.",
       "name_zh": "京まふ 2025 复古咖啡厅 随机镭射徽章",
       "category_id": "can_badge",
-      "campaign_id": "kyomaf-retro-cafe-2025",
+      "campaign_id": "kyomaf-2025-retro-cafe",
       "manufacturer_id": "contents-seed",
-      "variant": "全10款中包含温水佳树（有名／无名2款）",
+      "variant": "全10款中包含温水佳树（有名／无名各1款）",
       "sale_format": {
         "type": "random",
         "total_variants": 10
@@ -5492,7 +5657,7 @@
       "release_date": "2025-09-20",
       "list_price_yen": 660,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/source-b8e8730d5fec3b8cdc05.jpg",
@@ -5511,8 +5676,8 @@
       "sources": [
         {
           "url": "https://prtimes.jp/main/html/rd/p/000000545.000069812.html",
-          "type": "seller",
-          "checked_at": "2026-10-04"
+          "type": "official",
+          "checked_at": "2026-10-10"
         }
       ],
       "tags": [
@@ -5528,21 +5693,21 @@
       "name_ja": "特大タペストリー 温水佳樹 レトロカフェ ver.",
       "name_zh": "京まふ 2025 复古咖啡厅 特大挂毯 温水佳树",
       "category_id": "tapestry",
-      "campaign_id": "kyomaf-retro-cafe-2025",
+      "campaign_id": "kyomaf-2025-retro-cafe",
       "manufacturer_id": "contents-seed",
       "variant": "温水佳树",
       "sale_format": {
         "type": "single",
-        "total_variants": null
+        "total_variants": 5
       },
       "spec": {
         "size": "约H1700×W600mm",
-        "material": "スエード"
+        "material": "麂皮绒"
       },
       "release_date": "2025-09-20",
       "list_price_yen": 7700,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/source-475008a41b7feeaaddc8.jpg",
@@ -5554,15 +5719,25 @@
       "sales": [
         {
           "seller": "THEキャラ",
+          "phase": "event_sale",
+          "url": "https://prtimes.jp/main/html/rd/p/000000545.000069812.html"
+        },
+        {
+          "seller": "AmiAmi",
           "phase": "general_sale",
           "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04730176"
         }
       ],
       "sources": [
         {
+          "url": "https://prtimes.jp/main/html/rd/p/000000545.000069812.html",
+          "type": "official",
+          "checked_at": "2026-10-10"
+        },
+        {
           "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04730176",
-          "type": "seller",
-          "checked_at": "2026-10-04"
+          "type": "retailer",
+          "checked_at": "2026-10-10"
         }
       ],
       "tags": [
@@ -5578,21 +5753,21 @@
       "name_ja": "デカアクリルスタンド 温水佳樹 レトロカフェ ver.",
       "name_zh": "京まふ 2025 复古咖啡厅 大型亚克力立牌 温水佳树",
       "category_id": "acrylic_stand",
-      "campaign_id": "kyomaf-retro-cafe-2025",
+      "campaign_id": "kyomaf-2025-retro-cafe",
       "manufacturer_id": "contents-seed",
       "variant": "温水佳树",
       "sale_format": {
         "type": "single",
-        "total_variants": null
+        "total_variants": 5
       },
       "spec": {
         "size": "全高约180mm以内",
-        "material": "アクリル"
+        "material": "亚克力"
       },
       "release_date": "2025-09-20",
       "list_price_yen": 2200,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/source-39e9d06e29e841d5d5a2.jpg",
@@ -5604,15 +5779,25 @@
       "sales": [
         {
           "seller": "THEキャラ",
+          "phase": "event_sale",
+          "url": "https://prtimes.jp/main/html/rd/p/000000545.000069812.html"
+        },
+        {
+          "seller": "AmiAmi",
           "phase": "general_sale",
           "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04730187"
         }
       ],
       "sources": [
         {
+          "url": "https://prtimes.jp/main/html/rd/p/000000545.000069812.html",
+          "type": "official",
+          "checked_at": "2026-10-10"
+        },
+        {
           "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04730187",
-          "type": "seller",
-          "checked_at": "2026-10-04"
+          "type": "retailer",
+          "checked_at": "2026-10-10"
         }
       ],
       "tags": [
@@ -5628,12 +5813,12 @@
       "name_ja": "購入特典 ブロマイド レトロカフェ ver.",
       "name_zh": "京まふ 2025 复古咖啡厅 满额赠品照片卡",
       "category_id": "card",
-      "campaign_id": "kyomaf-retro-cafe-2025",
+      "campaign_id": "kyomaf-2025-retro-cafe",
       "manufacturer_id": "contents-seed",
       "variant": "五人群像包含温水佳树",
       "sale_format": {
-        "type": "single",
-        "total_variants": null
+        "type": "bonus",
+        "total_variants": 1
       },
       "spec": {
         "size": null,
@@ -5642,12 +5827,12 @@
       "release_date": "2025-09-20",
       "list_price_yen": null,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/source-9387809691cd73403084.jpg",
           "thumbnail_path": "images/thumbs/retro-cafe-bromide-bonus.webp",
-          "role": "product",
+          "role": "bonus",
           "source_url": "https://prcdn.freetls.fastly.net/release_image/69812/545/69812-545-4066003f8bd25f9d708fd079c0a35264-1200x625.jpg"
         }
       ],
@@ -5661,8 +5846,8 @@
       "sources": [
         {
           "url": "https://prtimes.jp/main/html/rd/p/000000545.000069812.html",
-          "type": "seller",
-          "checked_at": "2026-10-04"
+          "type": "official",
+          "checked_at": "2026-10-10"
         }
       ],
       "tags": [
@@ -5697,8 +5882,8 @@
         {
           "path": "images/items/eternorecit-stand-keyholder-kaju.jpg",
           "thumbnail_path": "images/thumbs/eternorecit-stand-keyholder-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://www.eternorecit.jp/images/collabo/2025/er05-makeine-a/ermkino013-020.jpg"
+          "role": "product",
+          "source_url": "https://goodsrepublic.com/media/binary/013/645/307/13645307.jpg"
         }
       ],
       "sales": [
@@ -5713,6 +5898,11 @@
           "url": "https://www.eternorecit.jp/collabo/anime-game/202505er-makeine-a.html",
           "type": "official",
           "checked_at": "2026-10-07"
+        },
+        {
+          "url": "https://goodsrepublic.com/product/product_page_8334361.html",
+          "type": "retailer",
+          "checked_at": "2026-10-10"
         }
       ],
       "tags": [
@@ -5721,7 +5911,7 @@
         "爱心Q版",
         "温水佳树"
       ],
-      "notes": "已按 ETERNO RÉCIT 官方联动页的对应商品品类图核对。"
+      "notes": "Eterno Recit 官方活动页确认商品；单品图由 Goods Republic 商品页核对。"
     },
     {
       "id": "eternorecit-ring-pendant-kaju",
@@ -5801,8 +5991,8 @@
         {
           "path": "images/items/eternorecit-nameplate-kaju.jpg",
           "thumbnail_path": "images/thumbs/eternorecit-nameplate-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://www.eternorecit.jp/images/collabo/2025/er05-makeine-a/ermkino004-011.jpg"
+          "role": "product",
+          "source_url": "https://goodsrepublic.com/media/binary/013/645/187/13645187.jpg"
         }
       ],
       "sales": [
@@ -5817,6 +6007,11 @@
           "url": "https://www.eternorecit.jp/collabo/anime-game/202505er-makeine-a.html",
           "type": "official",
           "checked_at": "2026-10-07"
+        },
+        {
+          "url": "https://goodsrepublic.com/product/product_page_8334323.html",
+          "type": "retailer",
+          "checked_at": "2026-10-10"
         }
       ],
       "tags": [
@@ -5825,7 +6020,7 @@
         "爱心Q版",
         "温水佳树"
       ],
-      "notes": "已按 ETERNO RÉCIT 官方联动页的对应商品品类图核对。"
+      "notes": "Eterno Recit 官方活动页确认商品；单品图由 Goods Republic 商品页核对。"
     },
     {
       "id": "eternorecit-mini-card-set-a",
@@ -5905,8 +6100,8 @@
         {
           "path": "images/items/eternorecit-keychain-kaju.jpg",
           "thumbnail_path": "images/thumbs/eternorecit-keychain-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://www.eternorecit.jp/images/collabo/2025/er05-makeine-a/ermkino021-028.jpg"
+          "role": "product",
+          "source_url": "https://goodsrepublic.com/media/binary/013/645/333/13645333.jpg"
         }
       ],
       "sales": [
@@ -5921,6 +6116,11 @@
           "url": "https://www.eternorecit.jp/collabo/anime-game/202505er-makeine-a.html",
           "type": "official",
           "checked_at": "2026-10-07"
+        },
+        {
+          "url": "https://goodsrepublic.com/product/product_page_8334369.html",
+          "type": "retailer",
+          "checked_at": "2026-10-10"
         }
       ],
       "tags": [
@@ -5929,7 +6129,7 @@
         "爱心Q版",
         "温水佳树"
       ],
-      "notes": "已按 ETERNO RÉCIT 官方联动页的对应商品品类图核对。"
+      "notes": "Eterno Recit 官方活动页确认商品；单品图由 Goods Republic 商品页核对。"
     },
     {
       "id": "animega-chibi-2025-trading-keychain-kaju",
@@ -6153,16 +6353,10 @@
       "verification": "confirmed_text",
       "images": [
         {
-          "path": "images/items/source-c97faf2a31cfdac21fe2.jpg",
-          "thumbnail_path": "images/thumbs/suzuki-haruka-stand-kaju.webp",
-          "role": "product",
-          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4571694210069_1_1762945506.jpg"
-        },
-        {
-          "path": "images/items/source-c38e0d3bed541e016279.jpg",
+          "path": "images/items/animega-chibi-2025-stand-kaju.jpg",
           "thumbnail_path": "images/thumbs/animega-chibi-2025-stand-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/66407/244/66407-244-9370d70bf93fce79c53ddf34a8c7e939-1000x1000.jpg"
+          "role": "product",
+          "source_url": "https://image.sofmap.com/images/product/pim/4571694210069_A01.jpg?v=20012001"
         }
       ],
       "sales": [
@@ -6517,10 +6711,10 @@
       "verification": "confirmed_text",
       "images": [
         {
-          "path": "images/items/source-c05b50315952a495f89d.jpg",
+          "path": "images/items/animega-chibi-2025-cushion-kaju.jpg",
           "thumbnail_path": "images/thumbs/animega-chibi-2025-cushion-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/66407/244/66407-244-6424fabaccf2d064b025f9bcfa2b9315-1000x1000.jpg"
+          "role": "product",
+          "source_url": "https://image.sofmap.com/images/product/pim/4571694210335_A01.jpg?v=20012001"
         }
       ],
       "sales": [
@@ -6567,10 +6761,10 @@
       "verification": "confirmed_text",
       "images": [
         {
-          "path": "images/items/source-80bd9f195a02e561c3af.jpg",
+          "path": "images/items/animega-chibi-2025-big-stand-kaju.jpg",
           "thumbnail_path": "images/thumbs/animega-chibi-2025-big-stand-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/66407/244/66407-244-7983d576b19a83ff621a1df6ac1ef624-1000x1000.jpg"
+          "role": "product",
+          "source_url": "https://image.sofmap.com/images/product/pim/4571694210250_A01.jpg?v=20012001"
         }
       ],
       "sales": [
@@ -6614,13 +6808,13 @@
       "release_date": "2025-07-12",
       "list_price_yen": 1320,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/gamers-first-anniv-sns-keychain-kaju.jpg",
           "thumbnail_path": "images/thumbs/gamers-first-anniv-sns-keychain-kaju.webp",
           "role": "product",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/16756/6627/16756-6627-961b0df66aa7ccf13859664b1ed0dc98-800x800.jpg"
+          "source_url": "https://www.animemart.jp/html/upload/save_image/4570179775604.jpg"
         }
       ],
       "sales": [
@@ -6635,6 +6829,11 @@
           "url": "https://prtimes.jp/main/html/rd/p/000006627.000016756.html",
           "type": "official",
           "checked_at": "2026-10-07"
+        },
+        {
+          "url": "https://www.animemart.jp/html/upload/save_image/4570179775604.jpg",
+          "type": "official_retail",
+          "checked_at": "2026-10-09"
         }
       ],
       "tags": [
@@ -6643,7 +6842,7 @@
         "温水佳树",
         "新规绘制"
       ],
-      "notes": null
+      "notes": "已核对 ANIMEMART 完整角色单品图；主图未从阵容图裁切。"
     },
     {
       "id": "gamers-first-anniv-mini-art",
@@ -6718,13 +6917,13 @@
       "release_date": "2025-07-12",
       "list_price_yen": 770,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/gamers-first-anniv-microfiber-kaju.jpg",
           "thumbnail_path": "images/thumbs/gamers-first-anniv-microfiber-kaju.webp",
           "role": "product",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/16756/6627/16756-6627-d05e4a737ddacf7e008da6e024c89c6b-800x800.jpg"
+          "source_url": "https://www.animemart.jp/html/upload/save_image/4570179775772.jpg"
         }
       ],
       "sales": [
@@ -6739,6 +6938,11 @@
           "url": "https://prtimes.jp/main/html/rd/p/000006627.000016756.html",
           "type": "official",
           "checked_at": "2026-10-07"
+        },
+        {
+          "url": "https://www.animemart.jp/html/upload/save_image/4570179775772.jpg",
+          "type": "official_retail",
+          "checked_at": "2026-10-09"
         }
       ],
       "tags": [
@@ -6747,7 +6951,7 @@
         "温水佳树",
         "新规绘制"
       ],
-      "notes": null
+      "notes": "已核对 ANIMEMART 完整角色单品图；主图未从阵容图裁切。"
     },
     {
       "id": "gamers-first-anniv-holo-stand-kaju",
@@ -6770,13 +6974,13 @@
       "release_date": "2025-07-12",
       "list_price_yen": 2750,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/gamers-first-anniv-holo-stand-kaju.jpg",
           "thumbnail_path": "images/thumbs/gamers-first-anniv-holo-stand-kaju.webp",
           "role": "product",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/16756/6627/16756-6627-675cb1bf9054712ab9588895d0dd38b5-800x800.jpg"
+          "source_url": "https://www.animemart.jp/html/upload/save_image/4570179775666.jpg"
         }
       ],
       "sales": [
@@ -6791,6 +6995,11 @@
           "url": "https://prtimes.jp/main/html/rd/p/000006627.000016756.html",
           "type": "official",
           "checked_at": "2026-10-07"
+        },
+        {
+          "url": "https://www.animemart.jp/html/upload/save_image/4570179775666.jpg",
+          "type": "official_retail",
+          "checked_at": "2026-10-09"
         }
       ],
       "tags": [
@@ -6799,7 +7008,7 @@
         "温水佳树",
         "新规绘制"
       ],
-      "notes": null
+      "notes": "已核对 ANIMEMART 完整角色单品图；主图未从阵容图裁切。"
     },
     {
       "id": "gamers-first-anniv-holo-badge",
@@ -6926,13 +7135,13 @@
       "release_date": "2025-07-12",
       "list_price_yen": 5500,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/gamers-first-anniv-cutout-board-kaju.jpg",
           "thumbnail_path": "images/thumbs/gamers-first-anniv-cutout-board-kaju.webp",
           "role": "product",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/16756/6627/16756-6627-528d4859cd4542883c80a22a914e0e09-500x500.jpg"
+          "source_url": "https://www.animemart.jp/html/upload/save_image/4570179775727.jpg"
         }
       ],
       "sales": [
@@ -6947,6 +7156,11 @@
           "url": "https://prtimes.jp/main/html/rd/p/000006627.000016756.html",
           "type": "official",
           "checked_at": "2026-10-07"
+        },
+        {
+          "url": "https://www.animemart.jp/html/upload/save_image/4570179775727.jpg",
+          "type": "official_retail",
+          "checked_at": "2026-10-09"
         }
       ],
       "tags": [
@@ -6955,7 +7169,7 @@
         "温水佳树",
         "新规绘制"
       ],
-      "notes": null
+      "notes": "已核对 ANIMEMART 完整角色单品图；主图未从阵容图裁切。"
     },
     {
       "id": "gamers-first-anniv-clock",
@@ -7527,56 +7741,6 @@
       "notes": "JAN 4570179732393；发售日公开到月份。"
     },
     {
-      "id": "philter-clear-file-set-anna-kaju",
-      "global_product_id": "philter-clear-file-set-anna-kaju",
-      "character_id": "nukumizu-kaju",
-      "name_ja": "クリアファイル 2枚セット 八奈見杏菜＆温水佳樹",
-      "name_zh": "Philter 透明文件夹2枚套装 八奈见杏菜＆温水佳树",
-      "category_id": "clear_file",
-      "campaign_id": "philter-pop-up-store-2025",
-      "manufacturer_id": "philter",
-      "variant": "八奈见杏菜＆温水佳树",
-      "sale_format": {
-        "type": "single",
-        "total_variants": null
-      },
-      "spec": {
-        "size": "W220×H310mm（A4）",
-        "material": "PP"
-      },
-      "release_date": "2025-04",
-      "list_price_yen": null,
-      "official_status": "official",
-      "verification": "confirmed_text",
-      "images": [
-        {
-          "path": "images/items/philter-clear-file-set-anna-kaju.jpg",
-          "thumbnail_path": "images/thumbs/philter-clear-file-set-anna-kaju.webp",
-          "role": "product",
-          "source_url": "https://img.amiami.jp/images/product/main/251/GOODS-04593141.jpg"
-        }
-      ],
-      "sales": [
-        {
-          "seller": "AmiAmi",
-          "phase": "general_sale",
-          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04593141"
-        }
-      ],
-      "sources": [
-        {
-          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04593141",
-          "type": "seller",
-          "checked_at": "2026-10-05"
-        }
-      ],
-      "tags": [
-        "动画版",
-        "温水佳树"
-      ],
-      "notes": null
-    },
-    {
       "id": "contentseed-sns-keychain-kaju",
       "global_product_id": "contentseed-sns-keychain-kaju",
       "character_id": "nukumizu-kaju",
@@ -7653,7 +7817,7 @@
           "path": "images/items/source-db5afb22c6bde86f9a50.webp",
           "thumbnail_path": "images/thumbs/sanrio-trading-badge.webp",
           "role": "lineup",
-          "source_url": "https://premiumshop.tokyo/images/makein-sanrio/makeine_item-03.webp"
+          "source_url": "https://premiumstore.jp/images/Item/Item_XbZKFhLVadvppskHbVPAuuiNeaR04eaSXN49WPtb5p5kZyLVMiY5KG76mL8jILK6_1.png"
         }
       ],
       "sales": [
@@ -7702,8 +7866,8 @@
         {
           "path": "images/items/source-6bf911445aa6627e3db3.webp",
           "thumbnail_path": "images/thumbs/sanrio-stone-coaster-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://premiumshop.tokyo/images/makein-sanrio/makeine_item-10.webp"
+          "role": "product",
+          "source_url": "https://premiumstore.jp/images/Item/Item_XUyKup2ymuAH17f5Q35Q4IGWV44i1bX5RPWZW8P4dTQsVj4EWRs4z2nP39qMBJRE_1.png"
         }
       ],
       "sales": [
@@ -7752,8 +7916,8 @@
         {
           "path": "images/items/source-2890088046e41c330557.webp",
           "thumbnail_path": "images/thumbs/sanrio-stand-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://premiumshop.tokyo/images/makein-sanrio/makeine_item-11.webp"
+          "role": "product",
+          "source_url": "https://premiumstore.jp/images/Item/Item_Jxy4G7hJX5bDIR4wWhAFG7MVdaeLw3zrj8T1Uzakz9kQUbBAa65pXFErxzuSt4sH_1.png"
         }
       ],
       "sales": [
@@ -7802,8 +7966,8 @@
         {
           "path": "images/items/source-79a84a8c15d06834e873.webp",
           "thumbnail_path": "images/thumbs/sanrio-name-acrylic-badge-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://premiumshop.tokyo/images/makein-sanrio/makeine_item-09.webp"
+          "role": "product",
+          "source_url": "https://premiumstore.jp/images/Item/Item_mhDgNbUmDmA3850z2bEzI063f9GhA2W8EWaqZkTkP5zbqkt7yZfJ9DaiPVdNpNiF_1.png"
         }
       ],
       "sales": [
@@ -7853,7 +8017,7 @@
           "path": "images/items/source-f81eae99c85aa6ef04d6.webp",
           "thumbnail_path": "images/thumbs/sanrio-memo-box.webp",
           "role": "lineup",
-          "source_url": "https://premiumshop.tokyo/images/makein-sanrio/makeine_item-15.webp"
+          "source_url": "https://premiumstore.jp/images/Item/Item_w0ZSdt284PDU1kDngSwFufPR5kU1m26iDIKghMUSKemIigEZS0NEkbD4j9eQzNpw_1.png"
         }
       ],
       "sales": [
@@ -7903,7 +8067,7 @@
           "path": "images/items/source-bd15cb42e6bca0d0a514.webp",
           "thumbnail_path": "images/thumbs/sanrio-glitter-stick-keychain.webp",
           "role": "lineup",
-          "source_url": "https://premiumshop.tokyo/images/makein-sanrio/makeine_item-07.webp"
+          "source_url": "https://premiumstore.jp/images/Item/Item_eFNRFFUZ2diKUg7HerqfeWMgimA2NWg7HFVh5GqYRpyDiRxAeEpaevimPn3A4gk0_1.png"
         }
       ],
       "sales": [
@@ -7953,7 +8117,7 @@
           "path": "images/items/source-a56ebeebb160ce5ed96c.webp",
           "thumbnail_path": "images/thumbs/sanrio-drawstring-pouch.webp",
           "role": "lineup",
-          "source_url": "https://premiumshop.tokyo/images/makein-sanrio/makeine_item-14.webp"
+          "source_url": "https://premiumstore.jp/images/Item/Item_GQvtA23XBGkh4zPawEG8vJqw3SHIFah5UIr14kidFIs4VegXgZZhYnI65xRK1a60_1.png"
         }
       ],
       "sales": [
@@ -8003,7 +8167,7 @@
           "path": "images/items/source-101ad504c8647ad18e54.webp",
           "thumbnail_path": "images/thumbs/sanrio-clear-file.webp",
           "role": "lineup",
-          "source_url": "https://premiumshop.tokyo/images/makein-sanrio/makeine_item-13.webp"
+          "source_url": "https://premiumstore.jp/images/Item/Item_zGSF3wKVNr93E40XxWBs86Jv9MrvruWbGvq85BTK5Y7TUyTip3usVk7PGzUUW4X1_1.png"
         }
       ],
       "sales": [
@@ -8053,7 +8217,7 @@
           "path": "images/items/source-84e3a8bf02a6f8ee85c3.webp",
           "thumbnail_path": "images/thumbs/sanrio-clear-card.webp",
           "role": "lineup",
-          "source_url": "https://premiumshop.tokyo/images/makein-sanrio/makeine_item-02.webp"
+          "source_url": "https://premiumstore.jp/images/Item/Item_b0yMBs6A42mUA5yapN4w8tXUQpd79yNRvDthGD2KxtsxxM1aJTU3Vy1PSmsT4fP1_1.png"
         }
       ],
       "sales": [
@@ -8103,7 +8267,7 @@
           "path": "images/items/source-9b124d1c84cbd6a7d8c9.webp",
           "thumbnail_path": "images/thumbs/sanrio-chibi-trading-badge.webp",
           "role": "lineup",
-          "source_url": "https://premiumshop.tokyo/images/makein-sanrio/makeine_item-04.webp"
+          "source_url": "https://premiumstore.jp/images/Item/Item_9tZqb736WTEuIJbmHdJpMgNIVbnLmjk6QfeZLKyKZuGnIBDYL7VeDxw3pQgWSUMB_1.png"
         }
       ],
       "sales": [
@@ -8153,7 +8317,7 @@
           "path": "images/items/source-9110d4caaacd87e9437b.webp",
           "thumbnail_path": "images/thumbs/sanrio-chibi-mini-stand-keychain.webp",
           "role": "lineup",
-          "source_url": "https://premiumshop.tokyo/images/makein-sanrio/makeine_item-08.webp"
+          "source_url": "https://premiumstore.jp/images/Item/Item_ujvMUEV4y9pETAxt6JFEW9qstKBgeqRrFm6JavJuejgubDMBADmiHateNfrxb0bD_1.png"
         }
       ],
       "sales": [
@@ -8203,7 +8367,7 @@
           "path": "images/items/source-b20660b80368af7c6db9.webp",
           "thumbnail_path": "images/thumbs/sanrio-chibi-acrylic-keychain.webp",
           "role": "lineup",
-          "source_url": "https://premiumshop.tokyo/images/makein-sanrio/makeine_item-06.webp"
+          "source_url": "https://premiumstore.jp/images/Item/Item_67DF6Zv2tqZyNJjJvVFS5ksVRIDUMFnri02aKyHae3xGnZjXbfyNMErTX0pEhXPA_1.png"
         }
       ],
       "sales": [
@@ -8235,7 +8399,7 @@
       "category_id": "card",
       "campaign_id": "sanrio-characters-2025",
       "manufacturer_id": "up-fields-premiumshop",
-      "variant": "温水佳树款包含在全10种中",
+      "variant": "温水佳树2种包含在全10种中",
       "sale_format": {
         "type": "random",
         "total_variants": 10
@@ -8247,13 +8411,13 @@
       "release_date": "2025-03-29",
       "list_price_yen": null,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/source-eea7e239accd2bc55e98.webp",
           "thumbnail_path": "images/thumbs/sanrio-bromide-bonus.webp",
           "role": "lineup",
-          "source_url": "https://premiumshop.tokyo/images/makein-sanrio/makein_tokuten01.webp"
+          "source_url": "https://premiumshop.tokyo/images/makein-sanrio/makein_tokuten05.webp"
         }
       ],
       "sales": [
@@ -8268,13 +8432,23 @@
           "url": "https://premiumshop.tokyo/makeine-sanrio/",
           "type": "official",
           "checked_at": "2026-10-04"
+        },
+        {
+          "url": "https://premiumshop.tokyo/images/makein-sanrio/makein_tokuten05.webp",
+          "type": "official",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "url": "https://premiumshop.tokyo/images/makein-sanrio/makein_tokuten10.webp",
+          "type": "official",
+          "checked_at": "2026-10-08"
         }
       ],
       "tags": [
         "动画版",
         "温水佳树"
       ],
-      "notes": "每消费3300日元随机赠送1张；通販不附赠。"
+      "notes": "每消费3300日元随机赠送1张；通販不附赠。该角色共2种图案（等身/Q版），展示图由两张官方单图横向拼合。"
     },
     {
       "id": "sanrio-big-figure-kaju",
@@ -8302,8 +8476,8 @@
         {
           "path": "images/items/source-865fc612b859eb50f1ae.webp",
           "thumbnail_path": "images/thumbs/sanrio-big-figure-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://premiumshop.tokyo/images/makein-sanrio/makeine_item-12.webp"
+          "role": "product",
+          "source_url": "https://premiumstore.jp/images/Item/Item_ny68pVLhFKgfQ5MEKNaz0VUdjnNgndgZjhBBLPNEHDPrF61D8qV2Q6QkirrNHwET_1.png"
         }
       ],
       "sales": [
@@ -8352,8 +8526,8 @@
         {
           "path": "images/items/source-9fa392367d0c2c1cada1.webp",
           "thumbnail_path": "images/thumbs/sanrio-b2-tapestry-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://premiumshop.tokyo/images/makein-sanrio/makeine_item-16.webp"
+          "role": "product",
+          "source_url": "https://premiumstore.jp/images/Item/Item_famxpLKap0L768R6nYVDa5EQR3Kr72JkPdRsYf6jvmBH1ahxa5jynpVba5NKYSM0_1.png"
         }
       ],
       "sales": [
@@ -8403,7 +8577,7 @@
           "path": "images/items/source-a328430c760f9761c639.webp",
           "thumbnail_path": "images/thumbs/sanrio-acrylic-magnet.webp",
           "role": "lineup",
-          "source_url": "https://premiumshop.tokyo/images/makein-sanrio/makeine_item-01.webp"
+          "source_url": "https://premiumstore.jp/images/Item/Item_Thgas687UjrNMmNmmUw6jWxu3f8G4RJ9e4XtFdd6a4M4HvxtSGd4rq1YZwjSuZNg_1.png"
         }
       ],
       "sales": [
@@ -8453,7 +8627,7 @@
           "path": "images/items/source-8fae65d5b31b1860c134.webp",
           "thumbnail_path": "images/thumbs/sanrio-acrylic-keychain.webp",
           "role": "lineup",
-          "source_url": "https://premiumshop.tokyo/images/makein-sanrio/makeine_item-05.webp"
+          "source_url": "https://premiumstore.jp/images/Item/Item_KkfbXDDKbfGjvqIhrAgM09LzHyJAdDsVpjQQrNLY7Jf2iyMrtBqSbxvSwip9EB4b_1.png"
         }
       ],
       "sales": [
@@ -9453,8 +9627,8 @@
         {
           "path": "images/items/source-eafa3082398c6e3548e5.jpg",
           "thumbnail_path": "images/thumbs/sweets-dress-tapestry-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/66407/194/66407-194-76c520c606e5e0340591eacd14fcff03-1146x1146.jpg"
+          "role": "product",
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4582741319161_1_1742961903.jpg"
         }
       ],
       "sales": [
@@ -9553,8 +9727,8 @@
         {
           "path": "images/items/source-0dbd5e3f8b21e59bb1d4.jpg",
           "thumbnail_path": "images/thumbs/sweets-dress-stand-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/66407/194/66407-194-bea4e446925873d13e068662ea3fb1b8-1146x1146.jpg"
+          "role": "product",
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4582741319048_1_1742961904.jpg"
         }
       ],
       "sales": [
@@ -9703,8 +9877,8 @@
         {
           "path": "images/items/source-cbb5506cdb0009e43a47.jpg",
           "thumbnail_path": "images/thumbs/sweets-dress-mini-stand-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/66407/194/66407-194-444bf8c831a90bcf7b279785963a5f79-1146x1146.jpg"
+          "role": "product",
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4582741319222_1_1742961903.jpg"
         }
       ],
       "sales": [
@@ -9853,8 +10027,8 @@
         {
           "path": "images/items/source-73f3dab6458f3d4d047a.jpg",
           "thumbnail_path": "images/thumbs/sweets-dress-clear-file-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/66407/194/66407-194-194ac2a35e94ec1f5dcff0bdffe49656-1146x1146.jpg"
+          "role": "product",
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4582741319109_1_1742961905.jpg"
         }
       ],
       "sales": [
@@ -9931,7 +10105,7 @@
       "id": "loft-cheerleader-tshirt-kaju",
       "global_product_id": "loft-cheerleader-tshirt-kaju",
       "character_id": "nukumizu-kaju",
-      "name_ja": "Tシャツ 温水佳樹",
+      "name_ja": "Tシャツ 描きおろし 温水佳樹",
       "name_zh": "Loft 啦啦队 T恤 温水佳树",
       "category_id": "apparel",
       "campaign_id": "loft-cheerleader-2024",
@@ -9939,22 +10113,22 @@
       "variant": "温水佳树",
       "sale_format": {
         "type": "single",
-        "total_variants": 4
+        "total_variants": 3
       },
       "spec": {
-        "size": null,
+        "size": "M／L／XL（合并记录）",
         "material": null
       },
       "release_date": "2024-11-13",
-      "list_price_yen": null,
+      "list_price_yen": 4950,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/loft-cheerleader-tshirt-kaju.jpg",
           "thumbnail_path": "images/thumbs/loft-cheerleader-tshirt-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/90064/32/90064-32-8b4c78c036251ebbaa98217077e9087f-3900x969.jpg"
+          "role": "product",
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4535388149233_1_1739538540.jpg"
         }
       ],
       "sales": [
@@ -9962,6 +10136,11 @@
           "seller": "POP UP STORE in ロフト",
           "phase": "general_sale",
           "url": "https://prtimes.jp/main/html/rd/p/000000032.000090064.html"
+        },
+        {
+          "seller": "Animate Online Shop",
+          "phase": "general_sale",
+          "url": "https://www.animate-onlineshop.jp/pd/3064776/"
         }
       ],
       "sources": [
@@ -9969,6 +10148,11 @@
           "url": "https://prtimes.jp/main/html/rd/p/000000032.000090064.html",
           "type": "official",
           "checked_at": "2026-10-04"
+        },
+        {
+          "url": "https://www.animate-onlineshop.jp/pd/3064776/",
+          "type": "seller",
+          "checked_at": "2026-10-09"
         }
       ],
       "tags": [
@@ -9978,7 +10162,7 @@
         "温水佳树",
         "新规绘制"
       ],
-      "notes": "已按 LOFT 官方新闻稿中的对应品类商品图核对。"
+      "notes": "M／L／XL 三种尺码合并为一条记录；Animate 链接以 M 码为代表。"
     },
     {
       "id": "loft-cheerleader-trading-badge",
@@ -10038,29 +10222,29 @@
       "global_product_id": "loft-cheerleader-stand-kaju",
       "character_id": "nukumizu-kaju",
       "name_ja": "アクリルスタンド 描きおろし 温水佳樹",
-      "name_zh": "Loft 啦啦队 新绘亚克力立牌 温水佳树",
+      "name_zh": "Loft 啦啦队 亚克力立牌 温水佳树",
       "category_id": "acrylic_stand",
       "campaign_id": "loft-cheerleader-2024",
       "manufacturer_id": "philter-loft",
       "variant": "温水佳树",
       "sale_format": {
         "type": "single",
-        "total_variants": 4
+        "total_variants": 1
       },
       "spec": {
         "size": null,
         "material": null
       },
       "release_date": "2024-11-13",
-      "list_price_yen": null,
+      "list_price_yen": 1980,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/loft-cheerleader-stand-kaju.jpg",
           "thumbnail_path": "images/thumbs/loft-cheerleader-stand-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/90064/32/90064-32-d18033691487c2f5f1fe341aecbe50cf-3014x1965.jpg"
+          "role": "product",
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4535388149035_1_1739538479.jpg"
         }
       ],
       "sales": [
@@ -10068,6 +10252,11 @@
           "seller": "POP UP STORE in ロフト",
           "phase": "general_sale",
           "url": "https://prtimes.jp/main/html/rd/p/000000032.000090064.html"
+        },
+        {
+          "seller": "Animate Online Shop",
+          "phase": "general_sale",
+          "url": "https://www.animate-onlineshop.jp/pd/3064756/"
         }
       ],
       "sources": [
@@ -10075,6 +10264,11 @@
           "url": "https://prtimes.jp/main/html/rd/p/000000032.000090064.html",
           "type": "official",
           "checked_at": "2026-10-04"
+        },
+        {
+          "url": "https://www.animate-onlineshop.jp/pd/3064756/",
+          "type": "seller",
+          "checked_at": "2026-10-09"
         }
       ],
       "tags": [
@@ -10084,7 +10278,7 @@
         "温水佳树",
         "新规绘制"
       ],
-      "notes": "已按 LOFT 官方新闻稿中的对应品类商品图核对。"
+      "notes": "已核对 Animate 角色单品详细图；本条为单角色单品。"
     },
     {
       "id": "loft-cheerleader-name-badge",
@@ -10260,13 +10454,13 @@
         "total_variants": 2
       },
       "spec": {
-        "size": null,
-        "material": null
+        "size": "W220×H310mm（A4）",
+        "material": "PP"
       },
       "release_date": "2024-11-13",
       "list_price_yen": null,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/loft-cheerleader-clear-file-anna-kaju.jpg",
@@ -10280,6 +10474,11 @@
           "seller": "POP UP STORE in ロフト",
           "phase": "general_sale",
           "url": "https://prtimes.jp/main/html/rd/p/000000032.000090064.html"
+        },
+        {
+          "seller": "AmiAmi",
+          "phase": "general_sale",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04593141"
         }
       ],
       "sources": [
@@ -10287,6 +10486,11 @@
           "url": "https://prtimes.jp/main/html/rd/p/000000032.000090064.html",
           "type": "official",
           "checked_at": "2026-10-04"
+        },
+        {
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04593141",
+          "type": "seller",
+          "checked_at": "2026-10-05"
         }
       ],
       "tags": [
@@ -10296,7 +10500,7 @@
         "温水佳树",
         "新规绘制"
       ],
-      "notes": "已按 LOFT 官方新闻稿中的对应品类商品图核对。"
+      "notes": "同一套啦啦队新绘商品；已合并 Loft 首发与后续 Animate／AmiAmi 通贩资料。"
     },
     {
       "id": "loft-cheerleader-book-cover",
@@ -10350,6 +10554,112 @@
         "新规绘制"
       ],
       "notes": null
+    },
+    {
+      "id": "loft-cheerleader-badge-keyholder-set-kaju",
+      "global_product_id": "loft-cheerleader-badge-keyholder-set-kaju",
+      "character_id": "nukumizu-kaju",
+      "name_ja": "缶バッジ＆アクリルキーホルダー 描きおろし 温水佳樹",
+      "name_zh": "Loft 啦啦队 徽章＆亚克力挂件套装 温水佳树",
+      "category_id": "accessory",
+      "campaign_id": "loft-cheerleader-2024",
+      "manufacturer_id": "philter-loft",
+      "variant": "温水佳树",
+      "sale_format": {
+        "type": "set",
+        "total_variants": 2
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-04",
+      "list_price_yen": 1320,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/loft-cheerleader-badge-keyholder-set-kaju.jpg",
+          "thumbnail_path": "images/thumbs/loft-cheerleader-badge-keyholder-set-kaju.webp",
+          "role": "product",
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4535388149073_1_1739538521.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "Animate Online Shop",
+          "phase": "general_sale",
+          "url": "https://www.animate-onlineshop.jp/pd/3064760/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.animate-onlineshop.jp/pd/3064760/",
+          "type": "seller",
+          "checked_at": "2026-10-09"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "Loft",
+        "啦啦队",
+        "新规绘制",
+        "温水佳树"
+      ],
+      "notes": "同一套啦啦队新绘的后续通贩商品，已并入 Loft 啦啦队活动。"
+    },
+    {
+      "id": "loft-cheerleader-tapestry-kaju",
+      "global_product_id": "loft-cheerleader-tapestry-kaju",
+      "character_id": "nukumizu-kaju",
+      "name_ja": "タペストリー 描きおろし 温水佳樹",
+      "name_zh": "Loft 啦啦队 挂毯 温水佳树",
+      "category_id": "tapestry",
+      "campaign_id": "loft-cheerleader-2024",
+      "manufacturer_id": "philter-loft",
+      "variant": "温水佳树",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 1
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-04",
+      "list_price_yen": 3300,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/loft-cheerleader-tapestry-kaju.jpg",
+          "thumbnail_path": "images/thumbs/loft-cheerleader-tapestry-kaju.webp",
+          "role": "product",
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4535388149295_1_1739538585.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "Animate Online Shop",
+          "phase": "general_sale",
+          "url": "https://www.animate-onlineshop.jp/pd/3064782/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.animate-onlineshop.jp/pd/3064782/",
+          "type": "seller",
+          "checked_at": "2026-10-09"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "Loft",
+        "啦啦队",
+        "新规绘制",
+        "温水佳树"
+      ],
+      "notes": "同一套啦啦队新绘的后续通贩商品，已并入 Loft 啦啦队活动。"
     },
     {
       "id": "ensky-travel-sticker-04-kaju",
@@ -10456,7 +10766,7 @@
       "global_product_id": "pajama-trading-badge",
       "character_id": "nukumizu-kaju",
       "name_ja": "トレーディング缶バッジ パジャマver.",
-      "name_zh": "睡衣主题 随机徽章 温水佳树款",
+      "name_zh": "唐吉诃德联动 睡衣随机徽章 温水佳树款",
       "category_id": "can_badge",
       "campaign_id": "bellhouse-pajama-2024",
       "manufacturer_id": "bell-house",
@@ -10466,47 +10776,58 @@
         "total_variants": 8
       },
       "spec": {
-        "size": null,
+        "size": "约W57×H57mm",
         "material": null
       },
       "release_date": "2024-10-05",
       "list_price_yen": 550,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-322a39a6a741321f3e8a.jpg",
-          "thumbnail_path": "images/thumbs/pajama-trading-badge.webp",
-          "role": "lineup",
-          "source_url": "https://pbs.twimg.com/media/GXkUfo0a8AAYLwb.jpg"
+          "path": "images/items/donki-pajama-trading-badge.jpg",
+          "thumbnail_path": "images/thumbs/donki-pajama-trading-badge.webp",
+          "role": "product",
+          "source_url": "https://imagedelivery.net/QondspN4HIUvB_R16-ddAQ/5eb3cad1cee9ea79bf7a1a63/d0e23ff51c51be0d99d9.jpg/original"
+        },
+        {
+          "path": "images/items/donki-pajama-trading-badge-chibi.jpg",
+          "thumbnail_path": "images/thumbs/donki-pajama-trading-badge-chibi.webp",
+          "role": "product",
+          "source_url": "https://imagedelivery.net/QondspN4HIUvB_R16-ddAQ/5eb3cad1cee9ea79bf7a1a63/54d3f79a1ee618aeabef.jpg/original"
         }
       ],
       "sales": [
         {
           "seller": "ドン・キホーテ",
           "phase": "event_sale",
-          "url": "https://bellhouse-shop.com/news/66f4f7b5d4795e02059d667b"
+          "url": "https://www.donki.com/products/makeine/"
         }
       ],
       "sources": [
         {
-          "url": "https://bellhouse-shop.com/news/66f4f7b5d4795e02059d667b",
+          "url": "https://bellhouse-shop.com/items/66f4f7d890ba2b000103957e",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-09"
+        },
+        {
+          "url": "https://www.donki.com/products/makeine/",
+          "type": "official",
+          "checked_at": "2026-10-08"
         }
       ],
       "tags": [
         "动画版",
         "温水佳树"
       ],
-      "notes": null
+      "notes": "随机商品，共8款（四位角色各含通常与Q版图案）；当前展示该角色的两款Bell House官方详细图。"
     },
     {
       "id": "pajama-slim-tapestry-kaju",
       "global_product_id": "pajama-slim-tapestry-kaju",
       "character_id": "nukumizu-kaju",
       "name_ja": "スリムタペストリー 温水佳樹 パジャマver.",
-      "name_zh": "睡衣主题 细长挂毯 温水佳树",
+      "name_zh": "唐吉诃德联动 睡衣细长挂毯 温水佳树",
       "category_id": "tapestry",
       "campaign_id": "bellhouse-pajama-2024",
       "manufacturer_id": "bell-house",
@@ -10516,47 +10837,52 @@
         "total_variants": 4
       },
       "spec": {
-        "size": null,
+        "size": "约W258×H728mm",
         "material": null
       },
       "release_date": "2024-10-05",
       "list_price_yen": 2750,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-322a39a6a741321f3e8a.jpg",
-          "thumbnail_path": "images/thumbs/pajama-slim-tapestry-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://pbs.twimg.com/media/GXkUfo0a8AAYLwb.jpg"
+          "path": "images/items/donki-pajama-slim-tapestry.jpg",
+          "thumbnail_path": "images/thumbs/donki-pajama-slim-tapestry.webp",
+          "role": "product",
+          "source_url": "https://imagedelivery.net/QondspN4HIUvB_R16-ddAQ/5eb3cad1cee9ea79bf7a1a63/731b59eb8eb8a2902194.jpg/original"
         }
       ],
       "sales": [
         {
           "seller": "ドン・キホーテ",
           "phase": "event_sale",
-          "url": "https://bellhouse-shop.com/news/66f4f7b5d4795e02059d667b"
+          "url": "https://www.donki.com/products/makeine/"
         }
       ],
       "sources": [
         {
-          "url": "https://bellhouse-shop.com/news/66f4f7b5d4795e02059d667b",
+          "url": "https://bellhouse-shop.com/items/66f4f7b390ba2b000103954e",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-09"
+        },
+        {
+          "url": "https://www.donki.com/products/makeine/",
+          "type": "official",
+          "checked_at": "2026-10-08"
         }
       ],
       "tags": [
         "动画版",
         "温水佳树"
       ],
-      "notes": null
+      "notes": "Bell House官方事后通販商品详细图；该商品于堂吉诃德先行销售。"
     },
     {
       "id": "pajama-plush-keychain-kaju",
       "global_product_id": "pajama-plush-keychain-kaju",
       "character_id": "nukumizu-kaju",
       "name_ja": "ぬいぐるみ風キーホルダー 温水佳樹",
-      "name_zh": "睡衣联动 Q版毛绒风挂件 温水佳树",
+      "name_zh": "唐吉诃德联动 睡衣Q版毛绒风挂件 温水佳树",
       "category_id": "plush",
       "campaign_id": "bellhouse-pajama-2024",
       "manufacturer_id": "bell-house",
@@ -10566,47 +10892,52 @@
         "total_variants": 5
       },
       "spec": {
-        "size": null,
+        "size": "约W48×H56mm",
         "material": null
       },
       "release_date": "2024-10-05",
       "list_price_yen": 748,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-322a39a6a741321f3e8a.jpg",
-          "thumbnail_path": "images/thumbs/pajama-plush-keychain-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://pbs.twimg.com/media/GXkUfo0a8AAYLwb.jpg"
+          "path": "images/items/donki-pajama-plush-keychain.jpg",
+          "thumbnail_path": "images/thumbs/donki-pajama-plush-keychain.webp",
+          "role": "product",
+          "source_url": "https://imagedelivery.net/QondspN4HIUvB_R16-ddAQ/5eb3cad1cee9ea79bf7a1a63/52999da02322b5d87c71.jpg/original"
         }
       ],
       "sales": [
         {
           "seller": "ドン・キホーテ",
           "phase": "event_sale",
-          "url": "https://bellhouse-shop.com/news/66f4f7b5d4795e02059d667b"
+          "url": "https://www.donki.com/products/makeine/"
         }
       ],
       "sources": [
         {
-          "url": "https://bellhouse-shop.com/news/66f4f7b5d4795e02059d667b",
+          "url": "https://bellhouse-shop.com/items/66f4f79690ba2b0001039527",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-09"
+        },
+        {
+          "url": "https://www.donki.com/products/makeine/",
+          "type": "official",
+          "checked_at": "2026-10-08"
         }
       ],
       "tags": [
         "动画版",
         "温水佳树"
       ],
-      "notes": null
+      "notes": "Bell House官方事后通販商品详细图；该商品于堂吉诃德先行销售。"
     },
     {
       "id": "pajama-photo-card-bonus",
       "global_product_id": "pajama-photo-card-bonus",
       "character_id": "nukumizu-kaju",
       "name_ja": "ドン・キホーテ購入特典 フォト風カード",
-      "name_zh": "唐吉诃德满额特典照片风卡片 温水佳树款",
+      "name_zh": "唐吉诃德联动 满额特典照片风卡片 温水佳树款",
       "category_id": "card",
       "campaign_id": "bellhouse-pajama-2024",
       "manufacturer_id": "bell-house",
@@ -10616,26 +10947,26 @@
         "total_variants": 4
       },
       "spec": {
-        "size": null,
+        "size": "约W63×H89mm",
         "material": null
       },
       "release_date": "2024-10-05",
       "list_price_yen": null,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-322a39a6a741321f3e8a.jpg",
-          "thumbnail_path": "images/thumbs/pajama-photo-card-bonus.webp",
+          "path": "images/items/donki-pajama-photo-card-bonus.jpg",
+          "thumbnail_path": "images/thumbs/donki-pajama-photo-card-bonus.webp",
           "role": "lineup",
-          "source_url": "https://pbs.twimg.com/media/GXkUfo0a8AAYLwb.jpg"
+          "source_url": "https://www.donki.com/products/makeine/img/tokuten_1.jpg"
         }
       ],
       "sales": [
         {
           "seller": "ドン・キホーテ",
           "phase": "event_sale",
-          "url": "https://bellhouse-shop.com/news/66f4f7b5d4795e02059d667b"
+          "url": "https://www.donki.com/products/makeine/"
         }
       ],
       "sources": [
@@ -10643,20 +10974,25 @@
           "url": "https://bellhouse-shop.com/news/66f4f7b5d4795e02059d667b",
           "type": "official",
           "checked_at": "2026-10-04"
+        },
+        {
+          "url": "https://www.donki.com/products/makeine/",
+          "type": "official",
+          "checked_at": "2026-10-08"
         }
       ],
       "tags": [
         "动画版",
         "温水佳树"
       ],
-      "notes": "官方商品总览图；满额特典在事后通販中不配布。"
+      "notes": "堂吉诃德门店每消费3000日元随机赠送1张，全4种；事后通販不附赠。"
     },
     {
       "id": "pajama-pen-stand-kaju",
       "global_product_id": "pajama-pen-stand-kaju",
       "character_id": "nukumizu-kaju",
       "name_ja": "アクリルペンスタンド 温水佳樹 パジャマver.",
-      "name_zh": "睡衣主题 亚克力笔架 温水佳树",
+      "name_zh": "唐吉诃德联动 睡衣亚克力笔架 温水佳树",
       "category_id": "stationery",
       "campaign_id": "bellhouse-pajama-2024",
       "manufacturer_id": "bell-house",
@@ -10666,47 +11002,52 @@
         "total_variants": 4
       },
       "spec": {
-        "size": null,
+        "size": "约W110×H125mm",
         "material": null
       },
       "release_date": "2024-10-05",
       "list_price_yen": 1650,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-322a39a6a741321f3e8a.jpg",
-          "thumbnail_path": "images/thumbs/pajama-pen-stand-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://pbs.twimg.com/media/GXkUfo0a8AAYLwb.jpg"
+          "path": "images/items/donki-pajama-pen-stand.jpg",
+          "thumbnail_path": "images/thumbs/donki-pajama-pen-stand.webp",
+          "role": "product",
+          "source_url": "https://imagedelivery.net/QondspN4HIUvB_R16-ddAQ/5eb3cad1cee9ea79bf7a1a63/485feb57182c73bcd0bb.jpg/original"
         }
       ],
       "sales": [
         {
           "seller": "ドン・キホーテ",
           "phase": "event_sale",
-          "url": "https://bellhouse-shop.com/news/66f4f7b5d4795e02059d667b"
+          "url": "https://www.donki.com/products/makeine/"
         }
       ],
       "sources": [
         {
-          "url": "https://bellhouse-shop.com/news/66f4f7b5d4795e02059d667b",
+          "url": "https://bellhouse-shop.com/items/66f4f7d090ba2b0001039572",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-09"
+        },
+        {
+          "url": "https://www.donki.com/products/makeine/",
+          "type": "official",
+          "checked_at": "2026-10-08"
         }
       ],
       "tags": [
         "动画版",
         "温水佳树"
       ],
-      "notes": null
+      "notes": "Bell House官方事后通販商品详细图；该商品于堂吉诃德先行销售。"
     },
     {
       "id": "pajama-mug-kaju",
       "global_product_id": "pajama-mug-kaju",
       "character_id": "nukumizu-kaju",
       "name_ja": "マグカップ 温水佳樹 パジャマver.",
-      "name_zh": "睡衣主题 马克杯 温水佳树",
+      "name_zh": "唐吉诃德联动 睡衣马克杯 温水佳树",
       "category_id": "tableware",
       "campaign_id": "bellhouse-pajama-2024",
       "manufacturer_id": "bell-house",
@@ -10716,47 +11057,52 @@
         "total_variants": 4
       },
       "spec": {
-        "size": null,
+        "size": "约W120×H95×D80mm",
         "material": null
       },
       "release_date": "2024-10-05",
       "list_price_yen": 1870,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-322a39a6a741321f3e8a.jpg",
-          "thumbnail_path": "images/thumbs/pajama-mug-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://pbs.twimg.com/media/GXkUfo0a8AAYLwb.jpg"
+          "path": "images/items/donki-pajama-mug.jpg",
+          "thumbnail_path": "images/thumbs/donki-pajama-mug.webp",
+          "role": "product",
+          "source_url": "https://imagedelivery.net/QondspN4HIUvB_R16-ddAQ/5eb3cad1cee9ea79bf7a1a63/6de0b48572ad333b986e.jpg/original"
         }
       ],
       "sales": [
         {
           "seller": "ドン・キホーテ",
           "phase": "event_sale",
-          "url": "https://bellhouse-shop.com/news/66f4f7b5d4795e02059d667b"
+          "url": "https://www.donki.com/products/makeine/"
         }
       ],
       "sources": [
         {
-          "url": "https://bellhouse-shop.com/news/66f4f7b5d4795e02059d667b",
+          "url": "https://bellhouse-shop.com/items/66f4f7a290ba2b0001039536",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-09"
+        },
+        {
+          "url": "https://www.donki.com/products/makeine/",
+          "type": "official",
+          "checked_at": "2026-10-08"
         }
       ],
       "tags": [
         "动画版",
         "温水佳树"
       ],
-      "notes": null
+      "notes": "Bell House官方事后通販商品详细图；该商品于堂吉诃德先行销售。"
     },
     {
       "id": "pajama-mini-stand-kaju",
       "global_product_id": "pajama-mini-stand-kaju",
       "character_id": "nukumizu-kaju",
       "name_ja": "ミニスタンド 温水佳樹 パジャマver.",
-      "name_zh": "睡衣主题 迷你立牌 温水佳树",
+      "name_zh": "唐吉诃德联动 睡衣迷你立牌 温水佳树",
       "category_id": "acrylic_stand",
       "campaign_id": "bellhouse-pajama-2024",
       "manufacturer_id": "bell-house",
@@ -10766,47 +11112,52 @@
         "total_variants": 4
       },
       "spec": {
-        "size": null,
+        "size": "约W50×H70mm",
         "material": null
       },
       "release_date": "2024-10-05",
       "list_price_yen": 660,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-322a39a6a741321f3e8a.jpg",
-          "thumbnail_path": "images/thumbs/pajama-mini-stand-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://pbs.twimg.com/media/GXkUfo0a8AAYLwb.jpg"
+          "path": "images/items/donki-pajama-mini-stand.jpg",
+          "thumbnail_path": "images/thumbs/donki-pajama-mini-stand.webp",
+          "role": "product",
+          "source_url": "https://imagedelivery.net/QondspN4HIUvB_R16-ddAQ/5eb3cad1cee9ea79bf7a1a63/1c929b9e52ecfd4a9934.jpg/original"
         }
       ],
       "sales": [
         {
           "seller": "ドン・キホーテ",
           "phase": "event_sale",
-          "url": "https://bellhouse-shop.com/news/66f4f7b5d4795e02059d667b"
+          "url": "https://www.donki.com/products/makeine/"
         }
       ],
       "sources": [
         {
-          "url": "https://bellhouse-shop.com/news/66f4f7b5d4795e02059d667b",
+          "url": "https://bellhouse-shop.com/items/66f4f7ab90ba2b0001039542",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-09"
+        },
+        {
+          "url": "https://www.donki.com/products/makeine/",
+          "type": "official",
+          "checked_at": "2026-10-08"
         }
       ],
       "tags": [
         "动画版",
         "温水佳树"
       ],
-      "notes": null
+      "notes": "Bell House官方事后通販商品详细图；该商品于堂吉诃德先行销售。"
     },
     {
       "id": "pajama-mega-stand-kaju",
       "global_product_id": "pajama-mega-stand-kaju",
       "character_id": "nukumizu-kaju",
       "name_ja": "MEGAアクリルスタンド 温水佳樹 パジャマver.",
-      "name_zh": "睡衣主题 MEGA亚克力立牌 温水佳树",
+      "name_zh": "唐吉诃德联动 睡衣MEGA亚克力立牌 温水佳树",
       "category_id": "acrylic_stand",
       "campaign_id": "bellhouse-pajama-2024",
       "manufacturer_id": "bell-house",
@@ -10816,47 +11167,52 @@
         "total_variants": 4
       },
       "spec": {
-        "size": null,
+        "size": "约W170×H250mm",
         "material": null
       },
       "release_date": "2024-10-05",
       "list_price_yen": 4950,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-322a39a6a741321f3e8a.jpg",
-          "thumbnail_path": "images/thumbs/pajama-mega-stand-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://pbs.twimg.com/media/GXkUfo0a8AAYLwb.jpg"
+          "path": "images/items/donki-pajama-mega-stand.jpg",
+          "thumbnail_path": "images/thumbs/donki-pajama-mega-stand.webp",
+          "role": "product",
+          "source_url": "https://imagedelivery.net/QondspN4HIUvB_R16-ddAQ/5eb3cad1cee9ea79bf7a1a63/7a344ae4a04712c35017.jpg/original"
         }
       ],
       "sales": [
         {
           "seller": "ドン・キホーテ",
           "phase": "event_sale",
-          "url": "https://bellhouse-shop.com/news/66f4f7b5d4795e02059d667b"
+          "url": "https://www.donki.com/products/makeine/"
         }
       ],
       "sources": [
         {
-          "url": "https://bellhouse-shop.com/news/66f4f7b5d4795e02059d667b",
+          "url": "https://bellhouse-shop.com/items/66f4f7c690ba2b0001039566",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-09"
+        },
+        {
+          "url": "https://www.donki.com/products/makeine/",
+          "type": "official",
+          "checked_at": "2026-10-08"
         }
       ],
       "tags": [
         "动画版",
         "温水佳树"
       ],
-      "notes": null
+      "notes": "Bell House官方事后通販商品详细图；该商品于堂吉诃德先行销售。"
     },
     {
       "id": "pajama-keychain-kaju",
       "global_product_id": "pajama-keychain-kaju",
       "character_id": "nukumizu-kaju",
       "name_ja": "ちょいデカアクリルキーホルダー 温水佳樹 パジャマver.",
-      "name_zh": "睡衣主题 温水佳树 大亚克力挂件",
+      "name_zh": "唐吉诃德联动 睡衣大亚克力挂件 温水佳树",
       "category_id": "acrylic_keychain",
       "campaign_id": "bellhouse-pajama-2024",
       "manufacturer_id": "bell-house",
@@ -10866,47 +11222,52 @@
         "total_variants": 4
       },
       "spec": {
-        "size": null,
+        "size": "约W75×H75mm",
         "material": null
       },
       "release_date": "2024-10-05",
       "list_price_yen": 990,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-322a39a6a741321f3e8a.jpg",
-          "thumbnail_path": "images/thumbs/pajama-keychain-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://pbs.twimg.com/media/GXkUfo0a8AAYLwb.jpg"
+          "path": "images/items/donki-pajama-keychain.jpg",
+          "thumbnail_path": "images/thumbs/donki-pajama-keychain.webp",
+          "role": "product",
+          "source_url": "https://imagedelivery.net/QondspN4HIUvB_R16-ddAQ/5eb3cad1cee9ea79bf7a1a63/550f4301fd94ef9076ae.jpg/original"
         }
       ],
       "sales": [
         {
           "seller": "ドン・キホーテ",
           "phase": "event_sale",
-          "url": "https://bellhouse-shop.com/news/66f4f7b5d4795e02059d667b"
+          "url": "https://www.donki.com/products/makeine/"
         }
       ],
       "sources": [
         {
-          "url": "https://bellhouse-shop.com/news/66f4f7b5d4795e02059d667b",
+          "url": "https://bellhouse-shop.com/items/66f4f7e990ba2b0001039588",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-09"
+        },
+        {
+          "url": "https://www.donki.com/products/makeine/",
+          "type": "official",
+          "checked_at": "2026-10-08"
         }
       ],
       "tags": [
         "动画版",
         "温水佳树"
       ],
-      "notes": null
+      "notes": "Bell House官方事后通販商品详细图；该商品于堂吉诃德先行销售。"
     },
     {
       "id": "pajama-clear-file-kaju",
       "global_product_id": "pajama-clear-file-kaju",
       "character_id": "nukumizu-kaju",
       "name_ja": "クリアファイル 温水佳樹 パジャマver.",
-      "name_zh": "睡衣主题 透明文件夹 温水佳树",
+      "name_zh": "唐吉诃德联动 睡衣透明文件夹 温水佳树",
       "category_id": "clear_file",
       "campaign_id": "bellhouse-pajama-2024",
       "manufacturer_id": "bell-house",
@@ -10916,40 +11277,45 @@
         "total_variants": 4
       },
       "spec": {
-        "size": null,
+        "size": "约W220×H310mm",
         "material": null
       },
       "release_date": "2024-10-05",
       "list_price_yen": 495,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-322a39a6a741321f3e8a.jpg",
-          "thumbnail_path": "images/thumbs/pajama-clear-file-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://pbs.twimg.com/media/GXkUfo0a8AAYLwb.jpg"
+          "path": "images/items/donki-pajama-clear-file.jpg",
+          "thumbnail_path": "images/thumbs/donki-pajama-clear-file.webp",
+          "role": "product",
+          "source_url": "https://imagedelivery.net/QondspN4HIUvB_R16-ddAQ/5eb3cad1cee9ea79bf7a1a63/043967ed5b0e12804600.jpg/original"
         }
       ],
       "sales": [
         {
           "seller": "ドン・キホーテ",
           "phase": "event_sale",
-          "url": "https://bellhouse-shop.com/news/66f4f7b5d4795e02059d667b"
+          "url": "https://www.donki.com/products/makeine/"
         }
       ],
       "sources": [
         {
-          "url": "https://bellhouse-shop.com/news/66f4f7b5d4795e02059d667b",
+          "url": "https://bellhouse-shop.com/items/66f4f7bc90ba2b000103955a",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-09"
+        },
+        {
+          "url": "https://www.donki.com/products/makeine/",
+          "type": "official",
+          "checked_at": "2026-10-08"
         }
       ],
       "tags": [
         "动画版",
         "温水佳树"
       ],
-      "notes": null
+      "notes": "Bell House官方事后通販商品详细图；该商品于堂吉诃德先行销售。"
     },
     {
       "id": "ichiban-2024-i-acrylic-stand-kaju",
@@ -11103,7 +11469,7 @@
     },
     {
       "id": "cure-maid-collab-card-kaju",
-      "global_product_id": "cure-maid-collab-card-kaju",
+      "global_product_id": "cure-maid-collab-card",
       "character_id": "nukumizu-kaju",
       "name_ja": "コラボ限定カード 温水佳樹",
       "name_zh": "Cure Maid Cafe 联动限定卡 温水佳树",
@@ -11125,10 +11491,10 @@
       "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/cure-maid-collab-card-kaju.jpg",
+          "path": "images/items/cure-maid-collab-card-kaju.webp",
           "thumbnail_path": "images/thumbs/cure-maid-collab-card-kaju.webp",
           "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/99047/938/99047-938-281654e00bf7ed9c1979a67d51a0f586-849x1200.jpg"
+          "source_url": "https://www.curemaid.jp/wp-content/uploads/2024/09/makeine2024__tokuten.webp"
         }
       ],
       "sales": [
@@ -11139,6 +11505,11 @@
         }
       ],
       "sources": [
+        {
+          "url": "https://www.curemaid.jp/collab_cafe/makeine2024/",
+          "type": "official",
+          "checked_at": "2026-10-10"
+        },
         {
           "url": "https://prtimes.jp/main/html/rd/p/000000945.000099047.html",
           "type": "official",
@@ -11176,10 +11547,10 @@
       "verification": "confirmed_text",
       "images": [
         {
-          "path": "images/items/source-abc3fd1f8d8c38e77059.jpg",
+          "path": "images/items/cospa-cure-maid-mug-group.webp",
           "thumbnail_path": "images/thumbs/cospa-cure-maid-mug-group.webp",
           "role": "product",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/99047/945/99047-945-2667355109aa19420a85398d271e60e6-1280x720.jpg"
+          "source_url": "https://www.curemaid.jp/wp-content/uploads/2024/09/makeine2024__goods-01.webp"
         }
       ],
       "sales": [
@@ -11190,6 +11561,11 @@
         }
       ],
       "sources": [
+        {
+          "url": "https://www.curemaid.jp/collab_cafe/makeine2024/",
+          "type": "official",
+          "checked_at": "2026-10-10"
+        },
         {
           "url": "https://prtimes.jp/main/html/rd/p/000000945.000099047.html",
           "type": "official",
@@ -11227,10 +11603,10 @@
       "verification": "confirmed_text",
       "images": [
         {
-          "path": "images/items/source-abc3fd1f8d8c38e77059.jpg",
+          "path": "images/items/cospa-cure-maid-large-tote.webp",
           "thumbnail_path": "images/thumbs/cospa-cure-maid-large-tote.webp",
           "role": "product",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/99047/945/99047-945-2667355109aa19420a85398d271e60e6-1280x720.jpg"
+          "source_url": "https://www.curemaid.jp/wp-content/uploads/2024/09/makeine2024__goods-02.webp"
         }
       ],
       "sales": [
@@ -11241,6 +11617,11 @@
         }
       ],
       "sources": [
+        {
+          "url": "https://www.curemaid.jp/collab_cafe/makeine2024/",
+          "type": "official",
+          "checked_at": "2026-10-10"
+        },
         {
           "url": "https://prtimes.jp/main/html/rd/p/000000945.000099047.html",
           "type": "official",
@@ -11278,10 +11659,10 @@
       "verification": "confirmed_text",
       "images": [
         {
-          "path": "images/items/source-2ba78832d1d000476193.jpg",
+          "path": "images/items/system-service-deformed-plush-kaju.jpg",
           "thumbnail_path": "images/thumbs/system-service-deformed-plush-kaju.webp",
-          "role": "lineup",
-          "source_url": "https://onkure.dmm.com/media/wp-content/uploads/2026/07/prize_detail_0_20240918_023121_e997ec111e197af168c46f6a47b58621.jpg"
+          "role": "product",
+          "source_url": "https://onkure.dmm.com/media/wp-content/uploads/2026/07/prize_detail_0_20240918_023121_4c7da65551de692e46563b4eb4d6a39a.jpg"
         }
       ],
       "sales": [
@@ -11295,7 +11676,7 @@
         {
           "url": "https://onkure.dmm.com/media/prize/39491/",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-09"
         }
       ],
       "tags": [
@@ -11333,7 +11714,7 @@
           "path": "images/items/itaindou-stamp-kaju.webp",
           "thumbnail_path": "images/thumbs/itaindou-stamp-kaju.webp",
           "role": "product",
-          "source_url": "https://www.itaindou.com/cdn/shop/files/make_reg05.webp?v=14824253459840613158"
+          "source_url": "https://www.itaindou.com/cdn/shop/files/18mm_13df65da-187b-4a10-a763-3ca1dc10a259.jpg?v=1726214008"
         }
       ],
       "sales": [
@@ -11383,7 +11764,7 @@
           "path": "images/items/itaindou-chibi-stamp-kaju.webp",
           "thumbnail_path": "images/thumbs/itaindou-chibi-stamp-kaju.webp",
           "role": "product",
-          "source_url": "https://www.itaindou.com/cdn/shop/files/make_mini05.webp?v=1643321669305508284"
+          "source_url": "https://www.itaindou.com/cdn/shop/files/18mm_aac28a6f-eb80-4945-9212-274f205a8976.jpg?v=1726215860"
         }
       ],
       "sales": [
@@ -11950,10 +12331,10 @@
       "verification": "confirmed_text",
       "images": [
         {
-          "path": "images/items/source-2f88a60942bf2262554e.jpg",
+          "path": "images/items/anime-adaptation-cutout-bookmark-kaju.webp",
           "thumbnail_path": "images/thumbs/anime-adaptation-cutout-bookmark-kaju.webp",
           "role": "product",
-          "source_url": "https://www.suruga-ya.jp/database/pics_light/game/560541377.jpg"
+          "source_url": "https://cdn.suruga-ya.jp/database/pics_webp/game/560541377.jpg.webp"
         }
       ],
       "sales": [
@@ -12244,7 +12625,7 @@
       "global_product_id": "keyth-kemomimi-tshirt",
       "character_id": "nukumizu-kaju",
       "name_ja": "Tシャツ けもみみパーカー",
-      "name_zh": "兽耳连帽衫 T 恤",
+      "name_zh": "兽耳连帽造型 T 恤",
       "category_id": "apparel",
       "campaign_id": "kemomimi-parka",
       "manufacturer_id": "key-th-curtain-damashii",
@@ -12295,7 +12676,7 @@
       "global_product_id": "keyth-kemomimi-tote",
       "character_id": "nukumizu-kaju",
       "name_ja": "トートバッグ けもみみパーカー",
-      "name_zh": "兽耳连帽衫托特包",
+      "name_zh": "兽耳连帽造型托特包",
       "category_id": "bag",
       "campaign_id": "kemomimi-parka",
       "manufacturer_id": "key-th-curtain-damashii",
@@ -12346,7 +12727,7 @@
       "global_product_id": "keyth-kemomimi-stand-kaju",
       "character_id": "nukumizu-kaju",
       "name_ja": "アクリルスタンド 温水佳樹／ケモミミパーカー",
-      "name_zh": "兽耳连帽衫 亚克力立牌 温水佳树",
+      "name_zh": "兽耳连帽造型 亚克力立牌 温水佳树",
       "category_id": "acrylic_stand",
       "campaign_id": "kemomimi-parka",
       "manufacturer_id": "key-th-curtain-damashii",
@@ -12396,7 +12777,7 @@
       "global_product_id": "keyth-kemomimi-rubbermat",
       "character_id": "nukumizu-kaju",
       "name_ja": "ラバーマット けもみみパーカー",
-      "name_zh": "兽耳连帽衫橡胶桌垫",
+      "name_zh": "兽耳连帽造型橡胶桌垫",
       "category_id": "stationery",
       "campaign_id": "kemomimi-parka",
       "manufacturer_id": "key-th-curtain-damashii",
@@ -12447,7 +12828,7 @@
       "global_product_id": "keyth-kemomimi-noren",
       "character_id": "nukumizu-kaju",
       "name_ja": "のれん けもみみパーカー",
-      "name_zh": "兽耳连帽衫门帘",
+      "name_zh": "兽耳连帽造型门帘",
       "category_id": "fabric_goods",
       "campaign_id": "kemomimi-parka",
       "manufacturer_id": "key-th-curtain-damashii",
@@ -12498,7 +12879,7 @@
       "global_product_id": "keyth-kemomimi-keychain-kaju",
       "character_id": "nukumizu-kaju",
       "name_ja": "アクリルキーホルダー 温水佳樹／ケモミミパーカー",
-      "name_zh": "兽耳连帽衫 亚克力挂件 温水佳树",
+      "name_zh": "兽耳连帽造型 亚克力挂件 温水佳树",
       "category_id": "acrylic_keychain",
       "campaign_id": "kemomimi-parka",
       "manufacturer_id": "key-th-curtain-damashii",
@@ -12548,7 +12929,7 @@
       "global_product_id": "keyth-kemomimi-block-kaju",
       "character_id": "nukumizu-kaju",
       "name_ja": "ダイカットアクリルブロック 温水佳樹／ケモミミパーカー",
-      "name_zh": "兽耳连帽衫 异形亚克力砖 温水佳树",
+      "name_zh": "兽耳连帽造型 异形亚克力砖 温水佳树",
       "category_id": "acrylic_art",
       "campaign_id": "kemomimi-parka",
       "manufacturer_id": "key-th-curtain-damashii",
@@ -12598,7 +12979,7 @@
       "global_product_id": "keyth-kemomimi-badge",
       "character_id": "nukumizu-kaju",
       "name_ja": "トレーディング缶バッジ けもみみパーカー",
-      "name_zh": "兽耳连帽衫随机徽章",
+      "name_zh": "兽耳连帽造型随机徽章",
       "category_id": "can_badge",
       "campaign_id": "kemomimi-parka",
       "manufacturer_id": "key-th-curtain-damashii",
@@ -12767,13 +13148,13 @@
       "release_date": null,
       "list_price_yen": 7700,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/gamers-first-anniv-tapestry-kaju.jpg",
           "thumbnail_path": "images/thumbs/gamers-first-anniv-tapestry-kaju.webp",
           "role": "product",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/16756/6627/16756-6627-dad4cf71358be4893a2e1e68631346c1-800x800.jpg"
+          "source_url": "https://www.animemart.jp/html/upload/save_image/4570179775871.jpg"
         }
       ],
       "sales": [
@@ -12788,6 +13169,11 @@
           "url": "https://prtimes.jp/main/html/rd/p/000006627.000016756.html",
           "type": "official",
           "checked_at": "2026-10-07"
+        },
+        {
+          "url": "https://www.animemart.jp/html/upload/save_image/4570179775871.jpg",
+          "type": "official_retail",
+          "checked_at": "2026-10-09"
         }
       ],
       "tags": [
@@ -12796,7 +13182,7 @@
         "温水佳树",
         "新规绘制"
       ],
-      "notes": null
+      "notes": "已核对 ANIMEMART 完整角色单品图；主图未从阵容图裁切。"
     },
     {
       "id": "gamers-first-anniv-memorial-art",
@@ -12953,6 +13339,63 @@
         "新规绘制"
       ],
       "notes": "活动特典或抽选品，非单独销售。"
+    },
+    {
+      "id": "gamers-first-anniv-full-graphic-tshirt-kaju",
+      "global_product_id": "gamers-first-anniv-full-graphic-tshirt-kaju",
+      "character_id": "nukumizu-kaju",
+      "name_ja": "フルグラフィックTシャツ 温水佳樹 1st anniversary ver.",
+      "name_zh": "一周年 全彩印花T恤 温水佳树",
+      "category_id": "apparel",
+      "campaign_id": "first-anniversary-store-2025",
+      "manufacturer_id": "gamers-content-seed",
+      "variant": "温水佳树",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 4
+      },
+      "spec": {
+        "size": "XL（衣长740mm、肩宽500mm、袖长230mm）",
+        "material": "聚酯纤维"
+      },
+      "release_date": "2025-07-12",
+      "list_price_yen": 7150,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/gamers-first-anniv-full-graphic-tshirt-kaju.jpg",
+          "thumbnail_path": "images/thumbs/gamers-first-anniv-full-graphic-tshirt-kaju.webp",
+          "role": "product",
+          "source_url": "https://www.animemart.jp/html/upload/save_image/4570179775826.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "ゲーマーズ / コンテンツシード",
+          "phase": "general_sale",
+          "url": "https://prtimes.jp/main/html/rd/p/000006627.000016756.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000006627.000016756.html",
+          "type": "official",
+          "checked_at": "2026-10-09"
+        },
+        {
+          "url": "https://www.animemart.jp/html/upload/save_image/4570179775826.jpg",
+          "type": "official_retail",
+          "checked_at": "2026-10-09"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "一周年",
+        "新规绘制",
+        "温水佳树"
+      ],
+      "notes": "PR TIMES 官方清单确认商品；已核对 ANIMEMART 完整角色单品图。"
     },
     {
       "id": "gamers-broadcast-tapestry-kaju",
@@ -13164,8 +13607,8 @@
       "id": "gagaga-j20260011",
       "global_product_id": "gagaga-j20260011",
       "character_id": "nukumizu-kaju",
-      "name_ja": "『負けヒロインが多すぎる！』 8.5巻 アクリルアートパネル C",
-      "name_zh": "小说第8.5卷 亚克力艺术板 C",
+      "name_ja": "『負けヒロインが多すぎる！』 8.5巻 アクリルアートパネル ～パジャマ、パーティー･･･？～ B",
+      "name_zh": "小说第8.5卷 亚克力艺术板 睡衣、派对……？ B",
       "category_id": "acrylic_art",
       "campaign_id": "novel-volume-8-5",
       "manufacturer_id": "gagaga-shop-online",
@@ -13178,7 +13621,7 @@
         "size": null,
         "material": null
       },
-      "release_date": null,
+      "release_date": "2026-01-26",
       "list_price_yen": 3850,
       "official_status": "official",
       "verification": "confirmed_image",
@@ -13187,7 +13630,7 @@
           "path": "images/items/source-cff5a5e3cb2020131af6.jpg",
           "thumbnail_path": "images/thumbs/gagaga-j20260011.webp",
           "role": "product",
-          "source_url": "https://lifetunes-mall.jp/img/3030/goods/S/J20260010-01.jpg"
+          "source_url": "https://lifetunes-mall.jp/img/3030/goods/S/J20260011-01.jpg"
         }
       ],
       "sales": [
@@ -13215,8 +13658,8 @@
       "id": "gagaga-j20260010",
       "global_product_id": "gagaga-j20260010",
       "character_id": "nukumizu-kaju",
-      "name_ja": "『負けヒロインが多すぎる！』 8.5巻 アクリルアートパネル B",
-      "name_zh": "小说第8.5卷 亚克力艺术板 B",
+      "name_ja": "『負けヒロインが多すぎる！』 8.5巻 アクリルアートパネル ～パジャマ、パーティー･･･？～ A",
+      "name_zh": "小说第8.5卷 亚克力艺术板 睡衣、派对……？ A",
       "category_id": "acrylic_art",
       "campaign_id": "novel-volume-8-5",
       "manufacturer_id": "gagaga-shop-online",
@@ -13229,7 +13672,7 @@
         "size": null,
         "material": null
       },
-      "release_date": null,
+      "release_date": "2026-01-26",
       "list_price_yen": 3850,
       "official_status": "official",
       "verification": "confirmed_image",
@@ -13238,7 +13681,7 @@
           "path": "images/items/source-5cdab94650f70c3fe561.jpg",
           "thumbnail_path": "images/thumbs/gagaga-j20260010.webp",
           "role": "product",
-          "source_url": "https://lifetunes-mall.jp/img/3030/goods/S/J20260011-01.jpg"
+          "source_url": "https://lifetunes-mall.jp/img/3030/goods/S/J20260010-01.jpg"
         }
       ],
       "sales": [
@@ -13266,8 +13709,8 @@
       "id": "gagaga-j20260008",
       "global_product_id": "gagaga-j20260008",
       "character_id": "nukumizu-kaju",
-      "name_ja": "『負けヒロインが多すぎる！』 8.5巻 口絵タペストリー C",
-      "name_zh": "小说第8.5卷 彩页挂毯 C",
+      "name_ja": "『負けヒロインが多すぎる！』 8.5巻 口絵タペストリー ～パジャマ、パーティー･･･？～ B",
+      "name_zh": "小说第8.5卷 彩页挂毯 睡衣、派对……？ B",
       "category_id": "tapestry",
       "campaign_id": "novel-volume-8-5",
       "manufacturer_id": "gagaga-shop-online",
@@ -13280,7 +13723,7 @@
         "size": null,
         "material": null
       },
-      "release_date": null,
+      "release_date": "2026-01-26",
       "list_price_yen": 3300,
       "official_status": "official",
       "verification": "confirmed_image",
@@ -13317,8 +13760,8 @@
       "id": "gagaga-j20260007",
       "global_product_id": "gagaga-j20260007",
       "character_id": "nukumizu-kaju",
-      "name_ja": "『負けヒロインが多すぎる！』 8.5巻 口絵タペストリー B",
-      "name_zh": "小说第8.5卷 彩页挂毯 B",
+      "name_ja": "『負けヒロインが多すぎる！』 8.5巻 口絵タペストリー ～パジャマ、パーティー･･･？～ A",
+      "name_zh": "小说第8.5卷 彩页挂毯 睡衣、派对……？ A",
       "category_id": "tapestry",
       "campaign_id": "novel-volume-8-5",
       "manufacturer_id": "gagaga-shop-online",
@@ -13331,7 +13774,7 @@
         "size": null,
         "material": null
       },
-      "release_date": null,
+      "release_date": "2026-01-26",
       "list_price_yen": 3300,
       "official_status": "official",
       "verification": "confirmed_image",
@@ -13573,11 +14016,11 @@
       "global_product_id": "gagaga-j20250040",
       "character_id": "nukumizu-kaju",
       "name_ja": "『負けヒロインが多すぎる！』×「竹島水族館」コラボランダム缶バッジ",
-      "name_zh": "竹岛水族馆联动 随机徽章 温水佳树款",
+      "name_zh": "竹岛水族馆联动 随机徽章",
       "category_id": "can_badge",
       "campaign_id": "takeshima-aquarium",
       "manufacturer_id": "gagaga-shop-online",
-      "variant": "温水佳树款包含在随机阵容中",
+      "variant": "温水佳树款包含在随机全9种中",
       "sale_format": {
         "type": "random",
         "total_variants": 9
@@ -14554,10 +14997,10 @@
       "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/cospa-cure-maid-stand-kaju.jpg",
+          "path": "images/items/cospa-cure-maid-stand-kaju.webp",
           "thumbnail_path": "images/thumbs/cospa-cure-maid-stand-kaju.webp",
           "role": "product",
-          "source_url": "https://www.cospa.com/images/items/pc/202409/SRw0GpHkktEH.jpg"
+          "source_url": "https://www.curemaid.jp/wp-content/uploads/2024/09/makeine2024__goods-05.webp"
         }
       ],
       "sales": [
@@ -14568,6 +15011,11 @@
         }
       ],
       "sources": [
+        {
+          "url": "https://www.curemaid.jp/collab_cafe/makeine2024/",
+          "type": "official",
+          "checked_at": "2026-10-10"
+        },
         {
           "url": "https://www.cospa.com/nijigencospa/detail/id/00000133383",
           "type": "official",
@@ -18368,6 +18816,789 @@
         "温水佳树"
       ],
       "notes": "官方商品图确认集合A图案包含温水和彦、八奈见杏菜、烧盐柠檬、小鞠知花、温水佳树。"
+    },
+    {
+      "id": "gamers-broadcast-swimsuit-blind-badge",
+      "global_product_id": "gamers-broadcast-swimsuit-blind-badge",
+      "character_id": "nukumizu-kaju",
+      "name_ja": "カンバッジ（ブラインド）水着 ver.",
+      "name_zh": "TV纪念泳装 随机徽章",
+      "category_id": "can_badge",
+      "campaign_id": "broadcast-commemorative-swimsuit-2024",
+      "manufacturer_id": "gamers-content-seed",
+      "variant": "随机8款中包含温水佳树2款",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 8
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2024-09-07",
+      "list_price_yen": 550,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/gamers-broadcast-swimsuit-badges.jpg",
+          "thumbnail_path": "images/thumbs/gamers-broadcast-swimsuit-badges.webp",
+          "role": "lineup",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/16756/5640/16756-5640-5fc671b30c4f33a57bfefc1d9b094e0c-500x500.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "ゲーマーズ / コンテンツシード",
+          "phase": "general_sale",
+          "url": "https://prtimes.jp/main/html/rd/p/000005640.000016756.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000005640.000016756.html",
+          "type": "official",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "TV纪念泳装",
+        "新规绘制",
+        "温水佳树"
+      ],
+      "notes": null
+    },
+    {
+      "id": "gamers-broadcast-swimsuit-bromide-kaju",
+      "global_product_id": "gamers-broadcast-swimsuit-bromide-kaju",
+      "character_id": "nukumizu-kaju",
+      "name_ja": "抽選会 B賞／購入特典 ブロマイド 温水佳樹",
+      "name_zh": "TV纪念泳装 B奖／购入特典照片卡 温水佳树",
+      "category_id": "card",
+      "campaign_id": "broadcast-commemorative-swimsuit-2024",
+      "manufacturer_id": "gamers-content-seed",
+      "variant": "随机5款中的温水佳树款",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 5
+      },
+      "spec": {
+        "size": null,
+        "material": "纸"
+      },
+      "release_date": "2024-09-07",
+      "list_price_yen": null,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/gamers-broadcast-swimsuit-bromide.jpg",
+          "thumbnail_path": "images/thumbs/gamers-broadcast-swimsuit-bromide.webp",
+          "role": "lineup",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/16756/5640/16756-5640-bc9bb82c2a3946ce4bedcf8bde492b71-600x600.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "ゲーマーズ / コンテンツシード",
+          "phase": "purchase_bonus",
+          "url": "https://prtimes.jp/main/html/rd/p/000005640.000016756.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000005640.000016756.html",
+          "type": "official",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "TV纪念泳装",
+        "新规绘制",
+        "温水佳树"
+      ],
+      "notes": "现场抽选 B 奖与线上购入特典使用同一套图案，非单独销售。"
+    },
+    {
+      "id": "gamers-broadcast-swimsuit-deka-stand-kaju",
+      "global_product_id": "gamers-broadcast-swimsuit-deka-stand-kaju",
+      "character_id": "nukumizu-kaju",
+      "name_ja": "デカアクリルスタンド 温水佳樹 水着 ver.",
+      "name_zh": "TV纪念泳装 大型亚克力立牌 温水佳树",
+      "category_id": "acrylic_stand",
+      "campaign_id": "broadcast-commemorative-swimsuit-2024",
+      "manufacturer_id": "gamers-content-seed",
+      "variant": "温水佳树",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 4
+      },
+      "spec": {
+        "size": "全高约180mm以内",
+        "material": "亚克力"
+      },
+      "release_date": "2024-09-07",
+      "list_price_yen": 2200,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/gamers-broadcast-swimsuit-deka-stands.jpg",
+          "thumbnail_path": "images/thumbs/gamers-broadcast-swimsuit-deka-stands.webp",
+          "role": "product",
+          "source_url": "https://imagedelivery.net/QondspN4HIUvB_R16-ddAQ/667cfc9da89fa5002f085845/4db3313fb3c651dff3cf.jpg/original"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "ゲーマーズ / コンテンツシード",
+          "phase": "general_sale",
+          "url": "https://prtimes.jp/main/html/rd/p/000005640.000016756.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000005640.000016756.html",
+          "type": "official",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "TV纪念泳装",
+        "新规绘制",
+        "温水佳树"
+      ],
+      "notes": null
+    },
+    {
+      "id": "gamers-broadcast-swimsuit-deskmat",
+      "global_product_id": "gamers-broadcast-swimsuit-deskmat",
+      "character_id": "nukumizu-kaju",
+      "name_ja": "ラバーデスクマット 水着 ver.",
+      "name_zh": "TV纪念泳装 橡胶桌垫",
+      "category_id": "stationery",
+      "campaign_id": "broadcast-commemorative-swimsuit-2024",
+      "manufacturer_id": "gamers-content-seed",
+      "variant": "群像图案明确包含温水佳树",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 1
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2024-09-07",
+      "list_price_yen": 3850,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/gamers-broadcast-swimsuit-deskmat.jpg",
+          "thumbnail_path": "images/thumbs/gamers-broadcast-swimsuit-deskmat.webp",
+          "role": "lineup",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/16756/5640/16756-5640-d822e7810ff6a990f9ce27894cc0c630-500x500.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "ゲーマーズ / コンテンツシード",
+          "phase": "general_sale",
+          "url": "https://prtimes.jp/main/html/rd/p/000005640.000016756.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000005640.000016756.html",
+          "type": "official",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "TV纪念泳装",
+        "新规绘制",
+        "温水佳树"
+      ],
+      "notes": null
+    },
+    {
+      "id": "gamers-broadcast-swimsuit-sns-keychain-kaju",
+      "global_product_id": "gamers-broadcast-swimsuit-sns-keychain-kaju",
+      "character_id": "nukumizu-kaju",
+      "name_ja": "SNS風アクリルキーホルダー 温水佳樹 水着 ver.",
+      "name_zh": "TV纪念泳装 SNS风亚克力挂件 温水佳树",
+      "category_id": "acrylic_keychain",
+      "campaign_id": "broadcast-commemorative-swimsuit-2024",
+      "manufacturer_id": "gamers-content-seed",
+      "variant": "温水佳树",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 4
+      },
+      "spec": {
+        "size": null,
+        "material": "亚克力"
+      },
+      "release_date": "2024-09-07",
+      "list_price_yen": 1320,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/gamers-broadcast-swimsuit-sns-keychains.jpg",
+          "thumbnail_path": "images/thumbs/gamers-broadcast-swimsuit-sns-keychains.webp",
+          "role": "product",
+          "source_url": "https://imagedelivery.net/QondspN4HIUvB_R16-ddAQ/667cfc9da89fa5002f085845/76bb77b9a8ac57f4b2e6.jpg/original"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "ゲーマーズ / コンテンツシード",
+          "phase": "general_sale",
+          "url": "https://prtimes.jp/main/html/rd/p/000005640.000016756.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000005640.000016756.html",
+          "type": "official",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "TV纪念泳装",
+        "新规绘制",
+        "温水佳树"
+      ],
+      "notes": null
+    },
+    {
+      "id": "gamers-broadcast-swimsuit-lottery-figure-kaju",
+      "global_product_id": "gamers-broadcast-swimsuit-lottery-figure-kaju",
+      "character_id": "nukumizu-kaju",
+      "name_ja": "抽選会 A賞 特大アクリルフィギュア 温水佳樹 水着 ver.",
+      "name_zh": "TV纪念泳装 A奖特大亚克力立牌 温水佳树",
+      "category_id": "acrylic_stand",
+      "campaign_id": "broadcast-commemorative-swimsuit-2024",
+      "manufacturer_id": "gamers-content-seed",
+      "variant": "温水佳树（抽选奖品）",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 4
+      },
+      "spec": {
+        "size": "约300mm",
+        "material": "亚克力"
+      },
+      "release_date": "2024-09-07",
+      "list_price_yen": null,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/gamers-broadcast-swimsuit-a-prize.jpg",
+          "thumbnail_path": "images/thumbs/gamers-broadcast-swimsuit-a-prize.webp",
+          "role": "lineup",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/16756/5640/16756-5640-db85852d9b2f2998db7601b2681b9ecc-810x425.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "ゲーマーズ / コンテンツシード",
+          "phase": "lottery_prize",
+          "url": "https://prtimes.jp/main/html/rd/p/000005640.000016756.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000005640.000016756.html",
+          "type": "official",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "TV纪念泳装",
+        "新规绘制",
+        "温水佳树"
+      ],
+      "notes": "活动抽选 A 奖，非单独销售；现场可先到先选图案，线上随机抽选。"
+    },
+    {
+      "id": "gamers-broadcast-swimsuit-memorial-art",
+      "global_product_id": "gamers-broadcast-swimsuit-memorial-art",
+      "character_id": "nukumizu-kaju",
+      "name_ja": "メモリアルアート 水着 ver.",
+      "name_zh": "TV纪念泳装 纪念艺术画",
+      "category_id": "acrylic_art",
+      "campaign_id": "broadcast-commemorative-swimsuit-2024",
+      "manufacturer_id": "gamers-content-seed",
+      "variant": "群像图案明确包含温水佳树",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 1
+      },
+      "spec": {
+        "size": "画框外径340×430mm；插画A4",
+        "material": "无反射树脂面板"
+      },
+      "release_date": "2024-09-07",
+      "list_price_yen": 16500,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/gamers-broadcast-swimsuit-memorial-art.jpg",
+          "thumbnail_path": "images/thumbs/gamers-broadcast-swimsuit-memorial-art.webp",
+          "role": "lineup",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/16756/5640/16756-5640-6846ae16be40d07edc0e38ab21bb7611-500x500.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "ゲーマーズ / コンテンツシード",
+          "phase": "general_sale",
+          "url": "https://prtimes.jp/main/html/rd/p/000005640.000016756.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000005640.000016756.html",
+          "type": "official",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "TV纪念泳装",
+        "新规绘制",
+        "温水佳树"
+      ],
+      "notes": "附序列号的受注商品，官方预定于2024年10月下旬发售。"
+    },
+    {
+      "id": "gamers-broadcast-swimsuit-microfiber-kaju",
+      "global_product_id": "gamers-broadcast-swimsuit-microfiber-kaju",
+      "character_id": "nukumizu-kaju",
+      "name_ja": "マイクロファイバー 温水佳樹 水着 ver.",
+      "name_zh": "TV纪念泳装 超细纤维布 温水佳树",
+      "category_id": "fabric_goods",
+      "campaign_id": "broadcast-commemorative-swimsuit-2024",
+      "manufacturer_id": "gamers-content-seed",
+      "variant": "温水佳树",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 4
+      },
+      "spec": {
+        "size": null,
+        "material": "超细纤维"
+      },
+      "release_date": "2024-09-07",
+      "list_price_yen": 770,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/gamers-broadcast-swimsuit-microfiber.jpg",
+          "thumbnail_path": "images/thumbs/gamers-broadcast-swimsuit-microfiber.webp",
+          "role": "product",
+          "source_url": "https://imagedelivery.net/QondspN4HIUvB_R16-ddAQ/667cfc9da89fa5002f085845/d5596e162ce6ae526d36.jpg/original"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "ゲーマーズ / コンテンツシード",
+          "phase": "general_sale",
+          "url": "https://prtimes.jp/main/html/rd/p/000005640.000016756.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000005640.000016756.html",
+          "type": "official",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "TV纪念泳装",
+        "新规绘制",
+        "温水佳树"
+      ],
+      "notes": null
+    },
+    {
+      "id": "gamers-broadcast-swimsuit-mini-art",
+      "global_product_id": "gamers-broadcast-swimsuit-mini-art",
+      "character_id": "nukumizu-kaju",
+      "name_ja": "ミニアクリルアート 水着 ver.",
+      "name_zh": "TV纪念泳装 迷你亚克力艺术板",
+      "category_id": "acrylic_art",
+      "campaign_id": "broadcast-commemorative-swimsuit-2024",
+      "manufacturer_id": "gamers-content-seed",
+      "variant": "群像图案明确包含温水佳树",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 1
+      },
+      "spec": {
+        "size": null,
+        "material": "亚克力"
+      },
+      "release_date": "2024-09-07",
+      "list_price_yen": 2530,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/gamers-broadcast-swimsuit-mini-art.jpg",
+          "thumbnail_path": "images/thumbs/gamers-broadcast-swimsuit-mini-art.webp",
+          "role": "lineup",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/16756/5640/16756-5640-575b450d30c961cc58f8d37a9fa5ec23-500x500.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "ゲーマーズ / コンテンツシード",
+          "phase": "general_sale",
+          "url": "https://prtimes.jp/main/html/rd/p/000005640.000016756.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000005640.000016756.html",
+          "type": "official",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "TV纪念泳装",
+        "新规绘制",
+        "温水佳树"
+      ],
+      "notes": null
+    },
+    {
+      "id": "gamers-broadcast-swimsuit-tapestry-kaju",
+      "global_product_id": "gamers-broadcast-swimsuit-tapestry-kaju",
+      "character_id": "nukumizu-kaju",
+      "name_ja": "特大タペストリー 温水佳樹 水着 ver.",
+      "name_zh": "TV纪念泳装 特大挂毯 温水佳树",
+      "category_id": "tapestry",
+      "campaign_id": "broadcast-commemorative-swimsuit-2024",
+      "manufacturer_id": "gamers-content-seed",
+      "variant": "温水佳树",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 4
+      },
+      "spec": {
+        "size": "约H1700×W600mm",
+        "material": "聚酯麂皮绒"
+      },
+      "release_date": "2024-09-07",
+      "list_price_yen": 7700,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/gamers-broadcast-swimsuit-tapestry.jpg",
+          "thumbnail_path": "images/thumbs/gamers-broadcast-swimsuit-tapestry.webp",
+          "role": "product",
+          "source_url": "https://imagedelivery.net/QondspN4HIUvB_R16-ddAQ/667cfc9da89fa5002f085845/5a8ca562db4d93767082.jpg/original"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "ゲーマーズ / コンテンツシード",
+          "phase": "general_sale",
+          "url": "https://prtimes.jp/main/html/rd/p/000005640.000016756.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000005640.000016756.html",
+          "type": "official",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "TV纪念泳装",
+        "新规绘制",
+        "温水佳树"
+      ],
+      "notes": "受注商品，官方预定于2024年10月下旬发售。"
+    },
+    {
+      "id": "pajama-life-size-panel-prize-kaju",
+      "global_product_id": "pajama-life-size-panel-prize-kaju",
+      "character_id": "nukumizu-kaju",
+      "name_ja": "ドン・キホーテ 等身大パネル 温水佳樹（抽選景品）",
+      "name_zh": "唐吉诃德联动 睡衣等身大立牌 温水佳树（抽奖奖品）",
+      "category_id": "other",
+      "campaign_id": "bellhouse-pajama-2024",
+      "manufacturer_id": "bell-house",
+      "variant": "温水佳树",
+      "sale_format": {
+        "type": "bonus",
+        "total_variants": 4
+      },
+      "spec": {
+        "size": "最大约W1000×H1540mm（因图案而异）",
+        "material": null
+      },
+      "release_date": "2024-10-05",
+      "list_price_yen": null,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/donki-pajama-life-size-panel-prize.jpg",
+          "thumbnail_path": "images/thumbs/donki-pajama-life-size-panel-prize.webp",
+          "role": "lineup",
+          "source_url": "https://www.donki.com/products/makeine/img/tokuten_2.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "ドン・キホーテ",
+          "phase": "lottery_prize",
+          "url": "https://www.donki.com/products/makeine/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.donki.com/products/makeine/",
+          "type": "official",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "温水佳树",
+        "抽奖奖品"
+      ],
+      "notes": "购买对象商品每满3000日元可获得1张专用応募券；全4种各抽选1名，图案可选。"
+    },
+    {
+      "id": "tsutaya-jirai-trading-acrylic-card-kaju",
+      "global_product_id": "tsutaya-jirai-trading-acrylic-card",
+      "character_id": "nukumizu-kaju",
+      "name_ja": "TSUTAYA巡回POP UP SHOP アクリルトレーディングカード 温水佳樹",
+      "name_zh": "地雷服 随机亚克力收藏卡 温水佳树",
+      "category_id": "card",
+      "campaign_id": "tsutaya-jirai-2024",
+      "manufacturer_id": "tsutaya",
+      "variant": "全11种随机（温水佳树 Q版款1种）",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 11
+      },
+      "spec": {
+        "size": "约54×86mm",
+        "material": "亚克力"
+      },
+      "release_date": "2024-12-06",
+      "list_price_yen": 550,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/tsutaya-jirai-trading-acrylic-card-1-kaju.png",
+          "thumbnail_path": "images/thumbs/tsutaya-jirai-trading-acrylic-card-1-kaju.webp",
+          "role": "Q版款",
+          "source_url": "https://shibuyatsutaya.tsite.jp/editor_files/article/000/000/588/article_body/img_20241127172442_010.png"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "TSUTAYA",
+          "phase": "general_sale",
+          "url": "https://shibuyatsutaya.tsite.jp/article/588.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://shibuyatsutaya.tsite.jp/article/588.html",
+          "type": "official",
+          "checked_at": "2026-10-09"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "TSUTAYA",
+        "地雷服",
+        "Q版",
+        "温水佳树"
+      ],
+      "notes": "盲抽商品；本条使用官方单品图标明温水佳树对应款。"
+    },
+    {
+      "id": "tsutaya-jirai-random-acrylic-keychain-kaju",
+      "global_product_id": "tsutaya-jirai-random-acrylic-keychain",
+      "character_id": "nukumizu-kaju",
+      "name_ja": "TSUTAYA巡回POP UP SHOP アクリルキーホルダー 温水佳樹",
+      "name_zh": "地雷服 随机亚克力挂件 温水佳树",
+      "category_id": "acrylic_keychain",
+      "campaign_id": "tsutaya-jirai-2024",
+      "manufacturer_id": "tsutaya",
+      "variant": "全11种随机（温水佳树 Q版款1种）",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 11
+      },
+      "spec": {
+        "size": "约50×55mm",
+        "material": "亚克力"
+      },
+      "release_date": "2024-12-06",
+      "list_price_yen": 660,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/tsutaya-jirai-random-acrylic-keychain-1-kaju.png",
+          "thumbnail_path": "images/thumbs/tsutaya-jirai-random-acrylic-keychain-1-kaju.webp",
+          "role": "Q版款",
+          "source_url": "https://shibuyatsutaya.tsite.jp/editor_files/article/000/000/588/article_body/img_20241127173924_010.png"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "TSUTAYA",
+          "phase": "general_sale",
+          "url": "https://shibuyatsutaya.tsite.jp/article/588.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://shibuyatsutaya.tsite.jp/article/588.html",
+          "type": "official",
+          "checked_at": "2026-10-09"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "TSUTAYA",
+        "地雷服",
+        "Q版",
+        "温水佳树"
+      ],
+      "notes": "盲抽商品；本条使用官方单品图标明温水佳树对应款。"
+    },
+    {
+      "id": "tsutaya-jirai-random-badge-kaju",
+      "global_product_id": "tsutaya-jirai-random-badge",
+      "character_id": "nukumizu-kaju",
+      "name_ja": "TSUTAYA巡回POP UP SHOP 缶バッジ 温水佳樹",
+      "name_zh": "地雷服 随机徽章 温水佳树",
+      "category_id": "can_badge",
+      "campaign_id": "tsutaya-jirai-2024",
+      "manufacturer_id": "tsutaya",
+      "variant": "全11种随机（温水佳树 Q版款1种）",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 11
+      },
+      "spec": {
+        "size": "约57mm",
+        "material": "金属、纸、薄膜"
+      },
+      "release_date": "2024-12-06",
+      "list_price_yen": 550,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/tsutaya-jirai-random-badge-1-kaju.png",
+          "thumbnail_path": "images/thumbs/tsutaya-jirai-random-badge-1-kaju.webp",
+          "role": "Q版款",
+          "source_url": "https://shibuyatsutaya.tsite.jp/editor_files/article/000/000/588/article_body/img_20241127173924_021.png"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "TSUTAYA",
+          "phase": "general_sale",
+          "url": "https://shibuyatsutaya.tsite.jp/article/588.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://shibuyatsutaya.tsite.jp/article/588.html",
+          "type": "official",
+          "checked_at": "2026-10-09"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "TSUTAYA",
+        "地雷服",
+        "Q版",
+        "温水佳树"
+      ],
+      "notes": "盲抽商品；本条使用官方单品图标明温水佳树对应款。"
+    },
+    {
+      "id": "tsutaya-jirai-random-chibi-stand-kaju",
+      "global_product_id": "tsutaya-jirai-random-chibi-stand",
+      "character_id": "nukumizu-kaju",
+      "name_ja": "TSUTAYA巡回POP UP SHOP デフォルメイラストアクリルスタンドフィギュア 温水佳樹",
+      "name_zh": "地雷服 随机Q版亚克力立牌 温水佳树",
+      "category_id": "acrylic_stand",
+      "campaign_id": "tsutaya-jirai-2024",
+      "manufacturer_id": "tsutaya",
+      "variant": "全8种随机（温水佳树 Q版款1种）",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 8
+      },
+      "spec": {
+        "size": "本体约40×50mm以内；底座40×40mm",
+        "material": "亚克力"
+      },
+      "release_date": "2024-12-06",
+      "list_price_yen": 660,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/tsutaya-jirai-random-chibi-stand-kaju.png",
+          "thumbnail_path": "images/thumbs/tsutaya-jirai-random-chibi-stand-kaju.webp",
+          "role": "Q版款",
+          "source_url": "https://shibuyatsutaya.tsite.jp/editor_files/article/000/000/588/article_body/img_20241127180521_004.png"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "TSUTAYA",
+          "phase": "general_sale",
+          "url": "https://shibuyatsutaya.tsite.jp/article/588.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://shibuyatsutaya.tsite.jp/article/588.html",
+          "type": "official",
+          "checked_at": "2026-10-09"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "TSUTAYA",
+        "地雷服",
+        "Q版",
+        "温水佳树"
+      ],
+      "notes": "盲抽商品；本条使用官方单品图标明温水佳树对应款。"
     }
   ]
 }
