@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-10",
+  "updated_at": "2026-10-15",
   "manufacturers": [
     {
       "id": "andblue",
@@ -284,6 +284,14 @@
       "name_zh": "Aniplex",
       "name_ja": "アニプレックス",
       "aliases": []
+    },
+    {
+      "id": "anican",
+      "name_zh": "AniCan",
+      "name_ja": "アニキャン",
+      "aliases": [
+        "株式会社アニキャン"
+      ]
     }
   ]
 }
