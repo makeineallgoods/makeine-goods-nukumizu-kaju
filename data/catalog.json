@@ -16304,18 +16304,18 @@
       "notes": null
     },
     {
-      "id": "amnibus-nonhoi-chibi-mug",
-      "global_product_id": "amnibus-nonhoi-chibi-mug",
+      "id": "amnibus-nonhoi-chibi-plant-mug",
+      "global_product_id": "amnibus-nonhoi-chibi-plant-mug",
       "character_id": "nukumizu-kaju",
-      "name_ja": "ちびキャラ アトラクションver. マグカップ",
-      "name_zh": "丰桥动物园 Q 版游乐设施马克杯",
+      "name_ja": "ちびキャラ 植物ver. マグカップ",
+      "name_zh": "丰桥动物园 Q 版植物马克杯",
       "category_id": "tableware",
       "campaign_id": "nonhoi-park",
       "manufacturer_id": "arma-bianca",
-      "variant": "群像图案包含温水佳树",
+      "variant": "植物版图案包含温水佳树",
       "sale_format": {
         "type": "single",
-        "total_variants": null
+        "total_variants": 2
       },
       "spec": {
         "size": "直径约82×H95mm",
@@ -16327,9 +16327,61 @@
       "verification": "confirmed_text",
       "images": [
         {
-          "path": "images/items/source-dc6bffa663ec31ef88b9.jpg",
-          "thumbnail_path": "images/thumbs/amnibus-nonhoi-chibi-mug.webp",
-          "role": "lineup",
+          "path": "images/items/amnibus-nonhoi-chibi-plant-mug.jpg",
+          "thumbnail_path": "images/thumbs/amnibus-nonhoi-chibi-plant-mug.webp",
+          "role": "product",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/8499/16064-8499-94d9c0fa69c5028455aeeebee54311db-1350x1500.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "アルマビアンカ",
+          "phase": "general_sale",
+          "url": "https://prtimes.jp/main/html/rd/p/000008499.000016064.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000008499.000016064.html",
+          "type": "official",
+          "checked_at": "2026-10-04"
+        }
+      ],
+      "tags": [
+        "丰桥动物园",
+        "Q版",
+        "植物版",
+        "温水佳树"
+      ],
+      "notes": "官方商品图与角色阵容确认：植物版图案包含温水佳树。"
+    },
+    {
+      "id": "amnibus-nonhoi-chibi-attraction-mug",
+      "global_product_id": "amnibus-nonhoi-chibi-attraction-mug",
+      "character_id": "nukumizu-kaju",
+      "name_ja": "ちびキャラ アトラクションver. マグカップ",
+      "name_zh": "丰桥动物园 Q 版游乐设施马克杯",
+      "category_id": "tableware",
+      "campaign_id": "nonhoi-park",
+      "manufacturer_id": "arma-bianca",
+      "variant": "游乐设施版图案包含温水佳树",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 2
+      },
+      "spec": {
+        "size": "直径约82×H95mm",
+        "material": "陶器"
+      },
+      "release_date": null,
+      "list_price_yen": 1980,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/amnibus-nonhoi-chibi-attraction-mug.jpg",
+          "thumbnail_path": "images/thumbs/amnibus-nonhoi-chibi-attraction-mug.webp",
+          "role": "product",
           "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/8499/16064-8499-b88f22e3fbc32f789cc1fb3aa22cdf77-1350x1500.jpg"
         }
       ],
@@ -16350,9 +16402,10 @@
       "tags": [
         "丰桥动物园",
         "Q版",
+        "游乐设施版",
         "温水佳树"
       ],
-      "notes": null
+      "notes": "官方商品图与角色阵容确认：游乐设施版图案包含温水佳树。"
     },
     {
       "id": "amnibus-nonhoi-chibi-keychain",
